@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>alison | Nina Deliu (Work In Progress - March19)</title>
+    <title>alison | Nina Deliu (Work In Progress)</title>
     <link>https://nina-dl.github.io/authors/alison/</link>
       <atom:link href="https://nina-dl.github.io/authors/alison/index.xml" rel="self" type="application/rss+xml" />
     <description>alison</description>
@@ -891,7 +891,7 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;a href=&#34;https://github.com/tidyverse/readr/issues/179&#34; class=&#34;uri&#34;&gt;https://github.com/tidyverse/readr/issues/179&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;My original tweet when I discovered this trick!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Neat &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/readr?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#readr&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/tidyverse?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#tidyverse&lt;/a&gt; solution to read data when 1st row is header + 2nd row is junk, thanks &lt;a href=&#34;https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw&#34;&gt;@hadleywickham&lt;/a&gt; &lt;a href=&#34;https://t.co/5TuH7vNaID&#34;&gt;https://t.co/5TuH7vNaID&lt;/a&gt; &lt;a href=&#34;https://t.co/woZ3HuECge&#34;&gt;pic.twitter.com/woZ3HuECge&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/904772340902379520?ref_src=twsrc%5Etfw&#34;&gt;September 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Neat &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/readr?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#readr&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/tidyverse?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#tidyverse&lt;/a&gt; solution to read data when 1st row is header + 2nd row is junk, thanks &lt;a href=&#34;https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw&#34;&gt;@hadleywickham&lt;/a&gt; &lt;a href=&#34;https://t.co/5TuH7vNaID&#34;&gt;https://t.co/5TuH7vNaID&lt;/a&gt; &lt;a href=&#34;https://t.co/woZ3HuECge&#34;&gt;pic.twitter.com/woZ3HuECge&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Presmanes Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/904772340902379520?ref_src=twsrc%5Etfw&#34;&gt;September 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;/div&gt;
@@ -910,7 +910,7 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;div id=&#34;the-short-version&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;The short version&lt;/h1&gt;
 &lt;p&gt;I made an &lt;a href=&#34;https://rladies.org&#34;&gt;R-Ladies&lt;/a&gt; theme for &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt; slides&lt;/a&gt;. My original tweet about it:&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;if you want to use &lt;a href=&#34;https://twitter.com/xieyihui?ref_src=twsrc%5Etfw&#34;&gt;@xieyihui&lt;/a&gt;&amp;#39;s awesome &lt;a href=&#34;https://twitter.com/hashtag/xaringan?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#xaringan&lt;/a&gt; package for &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; slides but want more &lt;a href=&#34;https://twitter.com/hashtag/Rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rladies&lt;/a&gt; flavor, there is now a built-in theme for that (with code highlighting)! Thanks to the awesome &lt;a href=&#34;https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesGlobal&lt;/a&gt; starter kit. Update the CSS in your YAML to use  🧙🏽‍♀️🧞‍♀️ &lt;a href=&#34;https://t.co/YnlGSVAMsl&#34;&gt;pic.twitter.com/YnlGSVAMsl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/935973869554487296?ref_src=twsrc%5Etfw&#34;&gt;November 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;if you want to use &lt;a href=&#34;https://twitter.com/xieyihui?ref_src=twsrc%5Etfw&#34;&gt;@xieyihui&lt;/a&gt;&amp;#39;s awesome &lt;a href=&#34;https://twitter.com/hashtag/xaringan?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#xaringan&lt;/a&gt; package for &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; slides but want more &lt;a href=&#34;https://twitter.com/hashtag/Rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rladies&lt;/a&gt; flavor, there is now a built-in theme for that (with code highlighting)! Thanks to the awesome &lt;a href=&#34;https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesGlobal&lt;/a&gt; starter kit. Update the CSS in your YAML to use  🧙🏽‍♀️🧞‍♀️ &lt;a href=&#34;https://t.co/YnlGSVAMsl&#34;&gt;pic.twitter.com/YnlGSVAMsl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Presmanes Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/935973869554487296?ref_src=twsrc%5Etfw&#34;&gt;November 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;p&gt;The way to use the theme is to update the YAML like so:&lt;/p&gt;
@@ -931,17 +931,23 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;li&gt;include chunks of R code and rendered output like plots, results, tables, etc. in your slides&lt;/li&gt;
 &lt;li&gt;use git for version control and share your GitHub repository&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This makes &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt; ideal for an &lt;a href=&#34;https://rladies.org&#34;&gt;R-Ladies&lt;/a&gt; presentation!&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This makes &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt; ideal for an &lt;a href=&#34;https://rladies.org&#34;&gt;R-Ladies&lt;/a&gt; presentation!&lt;a href=&#34;#fn1&#34; class=&#34;footnoteRef&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To use the package, you’ll need the &lt;a href=&#34;https://cran.r-project.org/web/packages/devtools/index.html&#34;&gt;&lt;strong&gt;devtools&lt;/strong&gt; package&lt;/a&gt; installed so that you can use the &lt;code&gt;install_github&lt;/code&gt; function. Then do:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;devtools::install_github(&amp;#39;yihui/xaringan&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;As Yihui points out in the documentation, if you use RStudio, you can use the menu to navigate to &lt;code&gt;File -&amp;gt; New File -&amp;gt; R Markdown -&amp;gt; From Template -&amp;gt; Ninja Presentation&lt;/code&gt;, and you will see an R Markdown example.&lt;/p&gt;
 &lt;p&gt;I first used &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt; a few months ago. I was working with &lt;a href=&#34;https://yihui.name&#34;&gt;Yihui&lt;/a&gt; on the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown book&lt;/a&gt;, and had signed up to lead a &lt;a href=&#34;https://alison.rbind.io/talk/blogdown-meetup/&#34;&gt;workshop&lt;/a&gt; for the &lt;a href=&#34;https://www.meetup.com/portland-r-user-group/&#34;&gt;Portland R User group&lt;/a&gt;. Obviously, such a workshop could not have powerpoint slides, so it seemed like the perfect time to learn &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;For my &lt;a href=&#34;https://alison.rbind.io/talk/blogdown-meetup/&#34;&gt;workshop&lt;/a&gt;, I made a simple website for the newly founded &lt;a href=&#34;https://rladies-pdx.rbind.io&#34;&gt;R-Ladies PDX&lt;/a&gt; using blogdown (Thanks to &lt;a href=&#34;https://twitter.com/mmmpork&#34;&gt;Augustina&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/deekshathati&#34;&gt;Deeksha&lt;/a&gt;, our fearless organizers). So naturally, my slides needed more purple.&lt;/p&gt;
 &lt;p&gt;Luckily, the R-Ladies run a tight ship- they have a &lt;a href=&#34;https://github.com/rladies/starter-kit&#34;&gt;starter kit on GitHub&lt;/a&gt; that details all the pretty purples they like.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;rladies-palette.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;rladies-palette.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;p&gt;About a month after I did the &lt;a href=&#34;https://alison.rbind.io/talk/blogdown-meetup/&#34;&gt;R-Ladies blogdown workshop&lt;/a&gt;, I saw this &lt;a href=&#34;https://yihui.name/en/2017/10/xaringan-themes/&#34;&gt;blog post&lt;/a&gt; by &lt;a href=&#34;https://yihui.name&#34;&gt;Yihui&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;yihui-xaringan-themes.png&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;First, I thought this was such a cool idea and I hope more people make and submit themes. Then I realized, I had already made a theme! I submitted a pull request&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;, Yihui helped me make some edits to the CSS files to make them more parsimonious with the default theme, I electronically signed a contributor agreement, and now the theme is there for you all to enjoy and use! You use the theme by editing the YAML:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;yihui-xaringan-themes.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;First, I thought this was such a cool idea and I hope more people make and submit themes. Then I realized, I had already made a theme! I submitted a pull request&lt;a href=&#34;#fn2&#34; class=&#34;footnoteRef&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;, Yihui helped me make some edits to the CSS files to make them more parsimonious with the default theme, I electronically signed a contributor agreement, and now the theme is there for you all to enjoy and use! You use the theme by editing the YAML:&lt;/p&gt;
 &lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;output:
   xaringan::moon_reader:
     css: [&amp;quot;default&amp;quot;, &amp;quot;rladies&amp;quot;, &amp;quot;rladies-fonts&amp;quot;]&lt;/code&gt;&lt;/pre&gt;
@@ -961,8 +967,8 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;If you are new to &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt;, don’t miss the &lt;a href=&#34;https://github.com/yihui/xaringan/wiki&#34;&gt;wiki!&lt;/a&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;Yihui’s &lt;a href=&#34;https://yihui.name/en/2017/10/xaringan-themes/&#34;&gt;technical instructions&lt;/a&gt; for contributors section of that blog post has been revised and is very detailed&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;If you are new to &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt;, don’t miss the &lt;a href=&#34;https://github.com/yihui/xaringan/wiki&#34;&gt;wiki!&lt;/a&gt;&lt;a href=&#34;#fnref1&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;Yihui’s &lt;a href=&#34;https://yihui.name/en/2017/10/xaringan-themes/&#34;&gt;technical instructions&lt;/a&gt; for contributors section of that blog post has been revised and is very detailed&lt;a href=&#34;#fnref2&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
@@ -997,7 +1003,7 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;/ul&gt;
 &lt;p&gt;I also found this comment by Eric Nantz, the creator of &lt;a href=&#34;http://r-podcast.org&#34;&gt;the R-Podcast&lt;/a&gt;, in the &lt;a href=&#34;https://github.com/rbind/support&#34;&gt;&lt;code&gt;rbind/support&lt;/code&gt; issues section on GitHub&lt;/a&gt; to be helpful:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rbind/support/issues/12&#34;&gt;https://github.com/rbind/support/issues/12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rbind/support/issues/12&#34; class=&#34;uri&#34;&gt;https://github.com/rbind/support/issues/12&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;caveats-disclaimers-etc.&#34; class=&#34;section level1&#34;&gt;
@@ -1020,12 +1026,14 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;in-github&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; In GitHub&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-1.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-1.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;p&gt;Go online to your &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; account, and create a new repository (check to initialize with a &lt;code&gt;README&lt;/code&gt; but don’t add &lt;code&gt;.gitignore&lt;/code&gt;- this will be taken care of later). For naming your repo, consider your future deployment plan:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;If you are going to use &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; to host the site, you can name this repository anything you want!
-&lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;li&gt;If you are going to use &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; to host the site, you can name this repository anything you want! &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     You can see some of the repo names used by members of the &lt;code&gt;rbind&lt;/code&gt; organization &lt;a href=&#34;https://github.com/rbind/repositories&#34;&gt;here&lt;/a&gt;.
   &lt;/div&gt;
@@ -1045,7 +1053,10 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;in-terminal&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; In terminal&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-2.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-2.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;p&gt;Now you will &lt;a href=&#34;https://help.github.com/articles/cloning-a-repository/&#34;&gt;clone your remote repository&lt;/a&gt; and create a local copy on your computer so you can sync between the two locations (using terminal or your alternative command line tool for a Windows machine).&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;p&gt;Use &lt;code&gt;cd&lt;/code&gt; to navigate into the directory where you want your repo to be&lt;/p&gt;&lt;/li&gt;
@@ -1065,7 +1076,10 @@ Checking connectivity... done.&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;in-rstudio&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;5&lt;/span&gt; In RStudio&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-3.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-3.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Install &lt;code&gt;blogdown&lt;/code&gt; from your RStudio console. If you already have &lt;code&gt;devtools&lt;/code&gt; installed like I did, you can just use the second line below:&lt;/li&gt;
 &lt;/ol&gt;
@@ -1104,7 +1118,10 @@ public/ # if using Netlify&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;build-your-site-in-rstudio&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;6&lt;/span&gt; Build your site in RStudio&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-4.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-4.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;p&gt;Now you can finally build your site using the &lt;code&gt;blogdown::new_site()&lt;/code&gt; function. But &lt;strong&gt;first&lt;/strong&gt; you should at least think about themes…&lt;/p&gt;
 &lt;div id=&#34;picking-a-theme&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.1&lt;/span&gt; Picking a theme&lt;/h2&gt;
@@ -1265,7 +1282,10 @@ output:
 &lt;/div&gt;
 &lt;div id=&#34;deploy-in-netlify&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;7&lt;/span&gt; Deploy in Netlify&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-5.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-5.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;p&gt;Deploying in Netlify through GitHub is smooth. Yihui and Amber give some &lt;a href=&#34;https://bookdown.org/yihui/blogdown/deployment.html&#34;&gt;beginner instructions&lt;/a&gt;, but Netlify is so easy, I recommend that you skip dragging your &lt;code&gt;public&lt;/code&gt; folder in and instead &lt;a href=&#34;https://bookdown.org/yihui/blogdown/netlify.html#netlify&#34;&gt;automate the process through GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;When you are ready to deploy, commit your changes and push to GitHub, then go online to &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;.&lt;/li&gt;
@@ -1326,7 +1346,10 @@ Hugo Static Site Generator v0.20.7 darwin/amd64 BuildDate: 2017-05-08T18:37:40-0
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;rbind.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;rbind.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;have-fun&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;8.4&lt;/span&gt; Have fun!&lt;/h2&gt;

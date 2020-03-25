@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>netlify | Nina Deliu (Work In Progress - March19)</title>
+    <title>netlify | Nina Deliu (Work In Progress)</title>
     <link>https://nina-dl.github.io/categories/netlify/</link>
       <atom:link href="https://nina-dl.github.io/categories/netlify/index.xml" rel="self" type="application/rss+xml" />
     <description>netlify</description>
@@ -142,7 +142,7 @@
 &lt;/ul&gt;
 &lt;p&gt;I also found this comment by Eric Nantz, the creator of &lt;a href=&#34;http://r-podcast.org&#34;&gt;the R-Podcast&lt;/a&gt;, in the &lt;a href=&#34;https://github.com/rbind/support&#34;&gt;&lt;code&gt;rbind/support&lt;/code&gt; issues section on GitHub&lt;/a&gt; to be helpful:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rbind/support/issues/12&#34;&gt;https://github.com/rbind/support/issues/12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rbind/support/issues/12&#34; class=&#34;uri&#34;&gt;https://github.com/rbind/support/issues/12&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;caveats-disclaimers-etc.&#34; class=&#34;section level1&#34;&gt;
@@ -165,12 +165,14 @@
 &lt;/div&gt;
 &lt;div id=&#34;in-github&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; In GitHub&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-1.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-1.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;p&gt;Go online to your &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; account, and create a new repository (check to initialize with a &lt;code&gt;README&lt;/code&gt; but don’t add &lt;code&gt;.gitignore&lt;/code&gt;- this will be taken care of later). For naming your repo, consider your future deployment plan:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;If you are going to use &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; to host the site, you can name this repository anything you want!
-&lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;li&gt;If you are going to use &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; to host the site, you can name this repository anything you want! &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     You can see some of the repo names used by members of the &lt;code&gt;rbind&lt;/code&gt; organization &lt;a href=&#34;https://github.com/rbind/repositories&#34;&gt;here&lt;/a&gt;.
   &lt;/div&gt;
@@ -190,7 +192,10 @@
 &lt;/div&gt;
 &lt;div id=&#34;in-terminal&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; In terminal&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-2.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-2.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;p&gt;Now you will &lt;a href=&#34;https://help.github.com/articles/cloning-a-repository/&#34;&gt;clone your remote repository&lt;/a&gt; and create a local copy on your computer so you can sync between the two locations (using terminal or your alternative command line tool for a Windows machine).&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;p&gt;Use &lt;code&gt;cd&lt;/code&gt; to navigate into the directory where you want your repo to be&lt;/p&gt;&lt;/li&gt;
@@ -210,7 +215,10 @@ Checking connectivity... done.&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;in-rstudio&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;5&lt;/span&gt; In RStudio&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-3.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-3.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Install &lt;code&gt;blogdown&lt;/code&gt; from your RStudio console. If you already have &lt;code&gt;devtools&lt;/code&gt; installed like I did, you can just use the second line below:&lt;/li&gt;
 &lt;/ol&gt;
@@ -249,7 +257,10 @@ public/ # if using Netlify&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;build-your-site-in-rstudio&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;6&lt;/span&gt; Build your site in RStudio&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-4.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-4.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;p&gt;Now you can finally build your site using the &lt;code&gt;blogdown::new_site()&lt;/code&gt; function. But &lt;strong&gt;first&lt;/strong&gt; you should at least think about themes…&lt;/p&gt;
 &lt;div id=&#34;picking-a-theme&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.1&lt;/span&gt; Picking a theme&lt;/h2&gt;
@@ -410,7 +421,10 @@ output:
 &lt;/div&gt;
 &lt;div id=&#34;deploy-in-netlify&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;7&lt;/span&gt; Deploy in Netlify&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;blogdown-signpost-5.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;blogdown-signpost-5.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;p&gt;Deploying in Netlify through GitHub is smooth. Yihui and Amber give some &lt;a href=&#34;https://bookdown.org/yihui/blogdown/deployment.html&#34;&gt;beginner instructions&lt;/a&gt;, but Netlify is so easy, I recommend that you skip dragging your &lt;code&gt;public&lt;/code&gt; folder in and instead &lt;a href=&#34;https://bookdown.org/yihui/blogdown/netlify.html#netlify&#34;&gt;automate the process through GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;When you are ready to deploy, commit your changes and push to GitHub, then go online to &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;.&lt;/li&gt;
@@ -471,7 +485,10 @@ Hugo Static Site Generator v0.20.7 darwin/amd64 BuildDate: 2017-05-08T18:37:40-0
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;rbind.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;rbind.png&#34; /&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;have-fun&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;8.4&lt;/span&gt; Have fun!&lt;/h2&gt;

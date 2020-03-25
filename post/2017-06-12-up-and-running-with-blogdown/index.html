@@ -227,9 +227,9 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Nina Deliu (Work In Progress - March19)">
+  <meta property="og:site_name" content="Nina Deliu (Work In Progress)">
   <meta property="og:url" content="https://nina-dl.github.io/post/2017-06-12-up-and-running-with-blogdown/">
-  <meta property="og:title" content="Up &amp; Running with blogdown | Nina Deliu (Work In Progress - March19)">
+  <meta property="og:title" content="Up &amp; Running with blogdown | Nina Deliu (Work In Progress)">
   <meta property="og:description" content="A guide to getting up and running with blogdown, GitHub, and Netlify"><meta property="og:image" content="https://nina-dl.github.io/post/2017-06-12-up-and-running-with-blogdown/featured.jpg">
   <meta property="twitter:image" content="https://nina-dl.github.io/post/2017-06-12-up-and-running-with-blogdown/featured.jpg"><meta property="og:locale" content="en-us">
   
@@ -278,7 +278,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Nina Deliu (Work In Progress - March19)",
+    "name": "Nina Deliu (Work In Progress)",
     "logo": {
       "@type": "ImageObject",
       "url": "https://nina-dl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
@@ -302,7 +302,7 @@
 
 
 
-  <title>Up &amp; Running with blogdown | Nina Deliu (Work In Progress - March19)</title>
+  <title>Up &amp; Running with blogdown | Nina Deliu (Work In Progress)</title>
 
 </head>
 
@@ -353,7 +353,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Nina Deliu (Work In Progress - March19)</a>
+      <a class="navbar-brand" href="/">Nina Deliu (Work In Progress)</a>
     </div>
     
 
@@ -366,7 +366,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Nina Deliu (Work In Progress - March19)</a>
+      <a class="navbar-brand" href="/">Nina Deliu (Work In Progress)</a>
     </div>
     
 
@@ -721,7 +721,7 @@
 </ul>
 <p>I also found this comment by Eric Nantz, the creator of <a href="http://r-podcast.org">the R-Podcast</a>, in the <a href="https://github.com/rbind/support"><code>rbind/support</code> issues section on GitHub</a> to be helpful:</p>
 <ul>
-<li><a href="https://github.com/rbind/support/issues/12">https://github.com/rbind/support/issues/12</a></li>
+<li><a href="https://github.com/rbind/support/issues/12" class="uri">https://github.com/rbind/support/issues/12</a></li>
 </ul>
 </div>
 <div id="caveats-disclaimers-etc." class="section level1">
@@ -744,12 +744,14 @@
 </div>
 <div id="in-github" class="section level1">
 <h1><span class="header-section-number">3</span> In GitHub</h1>
-<p><img src="blogdown-signpost-1.png" /></p>
+<div class="figure">
+<img src="blogdown-signpost-1.png" />
+
+</div>
 <ol style="list-style-type: decimal">
 <li><p>Go online to your <a href="https://github.com">GitHub</a> account, and create a new repository (check to initialize with a <code>README</code> but don’t add <code>.gitignore</code>- this will be taken care of later). For naming your repo, consider your future deployment plan:</p>
 <ul>
-<li>If you are going to use <a href="https://www.netlify.com">Netlify</a> to host the site, you can name this repository anything you want!
-<div class="alert alert-note">
+<li>If you are going to use <a href="https://www.netlify.com">Netlify</a> to host the site, you can name this repository anything you want! <div class="alert alert-note">
   <div>
     You can see some of the repo names used by members of the <code>rbind</code> organization <a href="https://github.com/rbind/repositories">here</a>.
   </div>
@@ -769,7 +771,10 @@
 </div>
 <div id="in-terminal" class="section level1">
 <h1><span class="header-section-number">4</span> In terminal</h1>
-<p><img src="blogdown-signpost-2.png" /></p>
+<div class="figure">
+<img src="blogdown-signpost-2.png" />
+
+</div>
 <p>Now you will <a href="https://help.github.com/articles/cloning-a-repository/">clone your remote repository</a> and create a local copy on your computer so you can sync between the two locations (using terminal or your alternative command line tool for a Windows machine).</p>
 <ol style="list-style-type: decimal">
 <li><p>Use <code>cd</code> to navigate into the directory where you want your repo to be</p></li>
@@ -789,7 +794,10 @@ Checking connectivity... done.</code></pre>
 </div>
 <div id="in-rstudio" class="section level1">
 <h1><span class="header-section-number">5</span> In RStudio</h1>
-<p><img src="blogdown-signpost-3.png" /></p>
+<div class="figure">
+<img src="blogdown-signpost-3.png" />
+
+</div>
 <ol style="list-style-type: decimal">
 <li>Install <code>blogdown</code> from your RStudio console. If you already have <code>devtools</code> installed like I did, you can just use the second line below:</li>
 </ol>
@@ -828,7 +836,10 @@ public/ # if using Netlify</code></pre>
 </div>
 <div id="build-your-site-in-rstudio" class="section level1">
 <h1><span class="header-section-number">6</span> Build your site in RStudio</h1>
-<p><img src="blogdown-signpost-4.png" /></p>
+<div class="figure">
+<img src="blogdown-signpost-4.png" />
+
+</div>
 <p>Now you can finally build your site using the <code>blogdown::new_site()</code> function. But <strong>first</strong> you should at least think about themes…</p>
 <div id="picking-a-theme" class="section level2">
 <h2><span class="header-section-number">6.1</span> Picking a theme</h2>
@@ -989,7 +1000,10 @@ output:
 </div>
 <div id="deploy-in-netlify" class="section level1">
 <h1><span class="header-section-number">7</span> Deploy in Netlify</h1>
-<p><img src="blogdown-signpost-5.png" /></p>
+<div class="figure">
+<img src="blogdown-signpost-5.png" />
+
+</div>
 <p>Deploying in Netlify through GitHub is smooth. Yihui and Amber give some <a href="https://bookdown.org/yihui/blogdown/deployment.html">beginner instructions</a>, but Netlify is so easy, I recommend that you skip dragging your <code>public</code> folder in and instead <a href="https://bookdown.org/yihui/blogdown/netlify.html#netlify">automate the process through GitHub</a>.</p>
 <ol style="list-style-type: decimal">
 <li>When you are ready to deploy, commit your changes and push to GitHub, then go online to <a href="https://www.netlify.com">Netlify</a>.</li>
@@ -1050,7 +1064,10 @@ Hugo Static Site Generator v0.20.7 darwin/amd64 BuildDate: 2017-05-08T18:37:40-0
   </div>
 </div>
 </p>
-<p><img src="rbind.png" /></p>
+<div class="figure">
+<img src="rbind.png" />
+
+</div>
 </div>
 <div id="have-fun" class="section level2">
 <h2><span class="header-section-number">8.4</span> Have fun!</h2>
