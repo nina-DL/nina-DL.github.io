@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tidymodels | Nina Deliu</title>
-    <link>https://nina-dl.github.io/tags/tidymodels/</link>
-      <atom:link href="https://nina-dl.github.io/tags/tidymodels/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/tidymodels/</link>
+      <atom:link href="/tags/tidymodels/index.xml" rel="self" type="application/rss+xml" />
     <description>tidymodels</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alison Hill, 2020</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>tidymodels</title>
-      <link>https://nina-dl.github.io/tags/tidymodels/</link>
+      <link>/tags/tidymodels/</link>
     </image>
     
     <item>
       <title>Take a Sad Script &amp; Make it Better: Tidymodels Edition</title>
-      <link>https://nina-dl.github.io/post/2020-02-27-better-tidymodels/</link>
+      <link>/post/2020-02-27-better-tidymodels/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/post/2020-02-27-better-tidymodels/</guid>
+      <guid>/post/2020-02-27-better-tidymodels/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -31,7 +31,7 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;A few years ago, I did a talk called &lt;a href=&#34;https://nina-dl.github.io/talk/2018-ohsu-sad-plot-better/&#34;&gt;“Take a Sad Plot &amp;amp; Make it Better,”&lt;/a&gt; where I showed how I took a single sad plot and tried to make it better. The process of making that plot better taught me a lot about data visualization, and about the &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2 package&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A few years ago, I did a talk called &lt;a href=&#34;/talk/2018-ohsu-sad-plot-better/&#34;&gt;“Take a Sad Plot &amp;amp; Make it Better,”&lt;/a&gt; where I showed how I took a single sad plot and tried to make it better. The process of making that plot better taught me a lot about data visualization, and about the &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2 package&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Fast-forward to 2019 when I started learning &lt;a href=&#34;https://github.com/tidymodels/&#34;&gt;tidymodels&lt;/a&gt;, and I have accumulated some pretty sad predictive modeling scripts! And my sad plots are not so lonely anymore. Specifically, my old scripts for doing cross-validation with tidymodels are particularly sad. But, I’ve been able to make them better (one might even call them happy), primarily due to changes in the &lt;a href=&#34;https://tidymodels.github.io/tune/&#34;&gt;tune package&lt;/a&gt; and the addition of the &lt;code&gt;fit_resamples()&lt;/code&gt; function. The process of making these scripts better taught me a lot about predictive modeling, and about the (evolving) tidymodels ecosystem. So, why write a blog post with outdated code?&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;I want to remember &lt;em&gt;that&lt;/em&gt; I did this “by hand.”&lt;/li&gt;
