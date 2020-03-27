@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo | Nina Deliu</title>
-    <link>https://nina-dl.github.io/tags/hugo/</link>
-      <atom:link href="https://nina-dl.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/hugo/</link>
+      <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>hugo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2020</copyright><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <url>/img/avatar.jpg</url>
       <title>hugo</title>
-      <link>https://nina-dl.github.io/tags/hugo/</link>
+      <link>/tags/hugo/</link>
     </image>
     
     <item>
       <title>A Spoonful of Hugo: The netlify.toml File</title>
-      <link>https://nina-dl.github.io/post/2019-02-19-hugo-netlify-toml/</link>
+      <link>/post/2019-02-19-hugo-netlify-toml/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/post/2019-02-19-hugo-netlify-toml/</guid>
+      <guid>/post/2019-02-19-hugo-netlify-toml/</guid>
       <description>
 
 
@@ -24,7 +24,7 @@
 &lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
 - me, only somewhat kidding&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can read the previous post about my “Spoonful of Hugo” series &lt;a href=&#34;https://nina-dl.github.io/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;. In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated).&lt;/p&gt;
+&lt;p&gt;You can read the previous post about my “Spoonful of Hugo” series &lt;a href=&#34;/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;. In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated).&lt;/p&gt;
 &lt;p&gt;This is my second post in this series, and it is a relatively quick one. Just do this. This one is a no-brainer.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
