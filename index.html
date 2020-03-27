@@ -7,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 4.7.0">
-  <meta name="google-site-verification" content="7kY_16BeUlx1cRwfHfjU4q70yTmosbP40l3tugeFUUc" />
 
   
 
@@ -205,6 +204,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162024034-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-162024034-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -628,7 +665,7 @@
 
         
         <h3>
-          <a href="https://www.uniroma1.it/it/" target="_blank" rel="noopener">
+          <a href="https://www.uniroma1.it/en/" target="_blank" rel="noopener">
           <span>University of Rome La Sapienza</span>
           </a>
         </h3>
@@ -727,35 +764,28 @@
     
     
 
-    <p>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</p>
+    <p>I am PhD Candidate in Methodological Statistics at 
+<a href="https://www.uniroma1.it/en/" target="_blank" rel="noopener">University of Rome La Sapienza</a> (Rome, Italy), and currently I am a Visiting Researcher in the 
+<a href="https://web.cs.toronto.edu/" target="_blank" rel="noopener">Computer Science Department</a> of 
+<a href="https://www.utoronto.ca/" target="_blank" rel="noopener">University of Toronto</a> (Ontario, Canada), under the supervision of 
+<a href="http://www.josephjaywilliams.com/" target="_blank" rel="noopener">Joseph Jay Williams</a>.
+From April 2019 to July 2019, I was a Visiting Researcher at the 
+<a href="http://www.nus.edu.sg/" target="_blank" rel="noopener">National University of Singapore</a>, specifically at the 
+<a href="https://www.duke-nus.edu.sg/cqm" target="_blank" rel="noopener">Centre for Quantitative Medicine</a>, 
+<a href="https://www.duke-nus.edu.sg/" target="_blank" rel="noopener">Duke-NUS Medical School</a>. Here, I worked under the supervision of 
+<a href="https://blog.nus.edu.sg/bibhas/" target="_blank" rel="noopener">Bibhas Chakraborty</a> on Reinforcement Learning (RL) and Multi-armed bandit (MAB) algorithms applied in Modern Biostatistics, namely RL in Dynamic Treatment Regimes, MABs in mobile-Health and Adaptive Clinical Trials design.</p>
+<p>I am also part of the Intelligent Adaptive Interventions lab lead by 
+<a href="http://www.josephjaywilliams.com/" target="_blank" rel="noopener">Joseph Jay Williams</a>, and a collaborator MAB based adaptive experiments, such as the 
+<a href="https://dheal.berkeley.edu/current-projects/diamante" target="_blank" rel="noopener">Berkeley DIAMANTE study</a> and the 
+<a href="www.goodlifefitness.com">GoodLife Fitness</a> project.</p>
 
 
     <div class="row">
 
       
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Reinforcement Learning</li>
-          
-          <li>Multi-armed bandits</li>
-          
-          <li>Bayesian Statistics</li>
-          
-          <li>Bio-statistics</li>
-          
-          <li>Adaptive Experiments</li>
-          
-          <li>Adaptive Trials&rsquo; Designs</li>
-          
-        </ul>
-      </div>
-      
 
       
-      <div class="col-md-7">
+      <div class="col-md-12">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
