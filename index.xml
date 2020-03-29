@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/</link>
       <atom:link href="https://nina-dl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nina Deliu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Nina Deliu</title>
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://nina-dl.github.io/research/example/</link>
+      <link>https://nina-dl.github.io/research_old/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/research/example/</guid>
+      <guid>https://nina-dl.github.io/research_old/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -1508,6 +1508,30 @@ Three
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>About / Contact</title>
+      <link>https://nina-dl.github.io/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nina-dl.github.io/contact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research interest</title>
+      <link>https://nina-dl.github.io/research/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/research/</guid>
+      <description></description>
     </item>
     
     <item>

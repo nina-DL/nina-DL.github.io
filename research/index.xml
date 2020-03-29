@@ -1,36 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Nina Deliu</title>
-    <link>https://nina-dl.github.io/research/</link>
-      <atom:link href="https://nina-dl.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <title>Researches | Nina Deliu</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2020</copyright>
     <image>
-      <url>https://nina-dl.github.io/img/avatar.jpg</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://nina-dl.github.io/research/</link>
+      <url>/img/avatar.jpg</url>
+      <title>Researches</title>
+      <link>/research/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://nina-dl.github.io/research/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/research/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title></title>
+      <link>/research/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/about-me/</guid>
+      <description>&lt;p&gt;I am originally from Atlanta, Georgia, and am a proud ramblin&amp;rsquo; wreck from 
+&lt;a href=&#34;https://www.gatech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georgia Tech&lt;/a&gt;. After college, I studied psychology and quantitative methods, receiving my Ph.D. from 
+&lt;a href=&#34;https://www.vanderbilt.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vanderbilt University&lt;/a&gt; (2008). I am now a data scientist and professional educator at 
+&lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;. Prior to that, I was an Assistant Professor at 
+&lt;a href=&#34;https://www.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;, and an Associate Professor at 
+&lt;a href=&#34;https://www.ohsu.edu/xd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oregon Health &amp;amp; Science University (OHSU)&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;maps.jpg&#34; class=&#34;center-block&#34; alt=&#34;OHSU Research Week Poster&#34; style=&#34;width:60%;height:60%;&#34;&gt;
+&lt;p&gt;My 
+&lt;a href=&#34;https://profiles.impactstory.org/u/0000-0002-8082-1890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research&lt;/a&gt; focused on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. I have written numerous scientific 
+&lt;a href=&#34;/publication&#34;&gt;publications&lt;/a&gt; on autism and neurodevelopmental disorders and have presented my research at over 25 international conferences.&lt;/p&gt;
+&lt;img src=&#34;students.jpg&#34; class=&#34;center-block&#34; alt=&#34;OHSU Research Week Poster&#34; style=&#34;width:60%;height:60%;&#34;&gt;
+&lt;p&gt;While at OHSU, I became an avid user of the statistical programming language R, both in the lab as a Principal Investigator and in the classroom as a professor. I developed a passion for programming and education, and during my tenure at OHSU I developed and taught multiple graduate-level 
+&lt;a href=&#34;/categories/course/&#34;&gt;data science courses&lt;/a&gt; and 
+&lt;a href=&#34;/categories/workshop/&#34;&gt;workshops&lt;/a&gt;. I also trained the 
+&lt;a href=&#34;https://www.ohsu.edu/xd/research/centers-institutes/octri/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Research Impact at the Oregon Clinical &amp;amp; Translational Research Institute&lt;/a&gt; to use R, and consulted with the University of Oregon College of Education on the development of a 
+&lt;a href=&#34;https://education.uoregon.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graduate data science specialization track&lt;/a&gt;. I received an 
+&lt;a href=&#34;https://www.ohsu.edu/school-of-medicine/honors-and-awards-ceremony-2018-school-medicine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Excellence in Education award&lt;/a&gt; from OHSU in 2018.&lt;/p&gt;
+&lt;p&gt;You can follow my current work for 
+&lt;a href=&#34;https://github.com/rstudio-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Education on GitHub&lt;/a&gt;. In my free time, I love spending time with my family and my two-year-old daughter. Thank you so much for reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Interests</title>
+      <link>/research/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/research/</guid>
+      <description>&lt;p&gt;My main research interest lies at the intersection between &lt;strong&gt;Bayesian methods&lt;/strong&gt;, &lt;strong&gt;Statistical Reinforcement Learning&lt;/strong&gt; &amp;amp; &lt;strong&gt;Multi-armed Bandits&lt;/strong&gt;, and modern applications based on adaptive decision making, which include &lt;strong&gt;Dynamic Treatment Regimes (DRTs)&lt;/strong&gt;, &lt;strong&gt;mobile-Health (mHealth)&lt;/strong&gt;, and other &lt;strong&gt;adaptive experimentations&lt;/strong&gt; such as educational trials.&lt;/p&gt;
+&lt;p&gt;During my Master’s I focused on Bayesian Statistics, specifically Markov Chain Monte Carlo methods, and Deep Learning Algorithms, both with (spatio-)temporal applications.&lt;/p&gt;
+&lt;p&gt;After starting my PhD, I got really interested in Reinforcement Learning (RL) and its statistical properties in terms of inference and causality, particularly relevant in bio-medical settings.
+My first approach was to carefully review all the RL algorithm applied in modern biostatistic, identifying, first, all the health-related applications, and then the relative methodologies.&lt;/p&gt;
+&lt;p&gt;Currently, I&amp;rsquo;m focusing on problems and challenges arising in some of these specific applications and the related statistical approach evaluation. More specifically, my attention is now on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MABs with non-stationarity settings, typical of real-world mHealth problems where habituation is a main challenge;&lt;/li&gt;
+&lt;li&gt;Non-stationarity and habituation modeling in complex multi-factorial designs;&lt;/li&gt;
+&lt;li&gt;Statistical inference in MABs online adaptive experiments, where the primary interest is generally on maximising an expected cumulative reward;&lt;/li&gt;
+&lt;li&gt;Design of adaptive randomized trials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have also worked for a couple of years in a clinical foundation, collaborating with clinicians and healthcare researchers. I think that statistics and machine learning (ML) can bring a lot in advancing the health-related research and, reversely, that many of the interesting challenges and problems in statistics and ML araise from real-worls applications.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    Here are nice readings to get into RL, MABs, DTRs and mhealth:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf&#34;&gt;Algorithms for Reinforcement Learning&lt;/a&gt; by Csaba Szepesvari&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://tor-lattimore.com/downloads/book/book.pdf&#34;&gt;Bandit Algorithms&lt;/a&gt; by Tor Lattimore and Csaba Szepesvari&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-1-4614-7428-9&#34;&gt;Statistical Methods for Dynamic Treatment Regimes&lt;/a&gt; by Bibhas Chakraborty and Erica E.M. Moodie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.springer.com/gp/book/9783319513935&#34;&gt;Mobile Health: Sensors, Analytic Methods, and Applications&lt;/a&gt; by James M. Rehg, Susan A. Murphy, Santosh Kumar (Eds.)&lt;/li&gt;
+&lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

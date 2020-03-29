@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/research/example/</loc>
+    <loc>https://nina-dl.github.io/research_old/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -28,12 +28,7 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/research/</loc>
+    <loc>https://nina-dl.github.io/research_old/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -185,6 +180,26 @@
   <url>
     <loc>https://nina-dl.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/about/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/contact/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/research/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
