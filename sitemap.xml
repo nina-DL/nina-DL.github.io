@@ -28,6 +28,76 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/authors/nina/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication_types/1/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/adrian-weller/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/isabel-chien/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/fairness/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/niki-kilbertus/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/nina-deliu/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication_types/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/richard-turner/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/sofia-villar/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/source-themes/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/talk/example/</loc>
     <lastmod>2021-07-17T16:15:00+00:00</lastmod>
   </url>
@@ -38,12 +108,12 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/admin/</loc>
+    <loc>https://nina-dl.github.io/publication_types/2/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/publication_types/2/</loc>
+    <loc>https://nina-dl.github.io/authors/admin/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,11 +124,6 @@
   
   <url>
     <loc>https://nina-dl.github.io/authors/arghavan-modiri/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,26 +159,6 @@
   
   <url>
     <loc>https://nina-dl.github.io/authors/joseph-jay-williams/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication_types/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/source-themes/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -360,21 +405,6 @@
   <url>
     <loc>https://nina-dl.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

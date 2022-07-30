@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Nina :D</title>
-    <link>https://nina-dl.github.io/publication_types/</link>
-      <atom:link href="https://nina-dl.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>Nina :D</title>
+    <link>https://nina-dl.github.io/authors/nina/</link>
+      <atom:link href="https://nina-dl.github.io/authors/nina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nina :D</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2020</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
-      <title>Publication_types</title>
-      <link>https://nina-dl.github.io/publication_types/</link>
+      <title>Nina :D</title>
+      <link>https://nina-dl.github.io/authors/nina/</link>
     </image>
     
   </channel>
