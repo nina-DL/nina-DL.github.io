@@ -5,12 +5,20 @@
     <link>https://nina-dl.github.io/authors/sofia-s-villar/</link>
       <atom:link href="https://nina-dl.github.io/authors/sofia-s-villar/index.xml" rel="self" type="application/rss+xml" />
     <description>Sofia S Villar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Sofia S Villar</title>
       <link>https://nina-dl.github.io/authors/sofia-s-villar/</link>
     </image>
+    
+    <item>
+      <title>Efficient inference without trading-off regret in bandits: An allocation probability test for Thompson sampling</title>
+      <link>https://nina-dl.github.io/publication/arxiv-allotest/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/arxiv-allotest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</title>

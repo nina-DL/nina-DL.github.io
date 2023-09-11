@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inference | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/inference/</link>
+      <atom:link href="https://nina-dl.github.io/tags/inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Inference</title>
+      <link>https://nina-dl.github.io/tags/inference/</link>
+    </image>
+    
+    <item>
+      <title>Theory and methods for adaptively-collected data</title>
+      <link>https://nina-dl.github.io/project/adaptive-data/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/project/adaptive-data/</guid>
+      <description>&lt;p&gt;It is increasingly common for data to be collected adaptively, where experimental costs are reduced progressively by assigning promising treatments more frequently. By skewing the allocation of the arms towards the more efficient or informative ones, they have the potential to enhance participants’ welfare, while resulting in a more flexible, efficient, and ethical alternative compared to traditional studies. However, such allocation strategies complicate the problem of statistical inference. It is now recognized that traditional inference methods are typically not valid when used in adaptively-collected data (such as those driven by multi-armed bandit problems), leading to considerable biases in classical estimators and other relevant issues in hypothesis testing problems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
