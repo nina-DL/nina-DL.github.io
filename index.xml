@@ -77,24 +77,44 @@
     </item>
     
     <item>
-      <title>Efficient Inference Without Trading-off Regret in Bandits. An Allocation Probability Test for Thompson Sampling</title>
+      <title>Invited Talk at Joint Statistical Meetings 2023</title>
       <link>https://nina-dl.github.io/talk/talk2/</link>
       <pubDate>Sun, 06 Aug 2023 17:05:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/talk2/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    #Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+#
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+&lt;p&gt;#Slides can be added in a few ways:&lt;/p&gt;
+&lt;p&gt;#- &lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s #
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link #using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file
+#- &lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front #matter of the talk file
+#- &lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using #
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;#Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We are officially the winners of the @xprize Digital Learning Challenge.</title>
+      <link>https://nina-dl.github.io/talk/award_edu/</link>
+      <pubDate>Sat, 06 May 2023 17:05:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/award_edu/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Slides can be added in a few ways:&lt;/p&gt;
+&lt;p&gt;#- &lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s #
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link #using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file
+#- &lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front #matter of the talk file
+#- &lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using #
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;#Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
@@ -105,6 +125,14 @@
       <guid>https://nina-dl.github.io/project/adaptive-data/</guid>
       <description>&lt;p&gt;It is increasingly common for data to be collected adaptively, where experimental costs are reduced progressively by assigning promising treatments more frequently. By skewing the allocation of the arms towards the more efficient or informative ones, they have the potential to enhance participants’ welfare, while resulting in a more flexible, efficient, and ethical alternative compared to traditional studies. However, such allocation strategies complicate the problem of statistical inference. It is now recognized that traditional inference methods are typically not valid when used in adaptively-collected data (such as those driven by multi-armed bandit problems), leading to considerable biases in classical estimators and other relevant issues in hypothesis testing problems.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning in modern biostatistics: constructing optimal adaptive interventions</title>
+      <link>https://nina-dl.github.io/publication/arxiv-rlreview/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/arxiv-rlreview/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -154,21 +182,7 @@
       <link>https://nina-dl.github.io/talk/talk1/</link>
       <pubDate>Sat, 17 Jul 2021 16:15:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/talk1/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -2428,17 +2442,17 @@ Hugo Static Site Generator v0.20.7 darwin/amd64 BuildDate: 2017-05-08T18:37:40-0
     
     <item>
       <title>External Project</title>
-      <link>https://nina-dl.github.io/project/external-project/</link>
+      <link>https://nina-dl.github.io/project/miscellanea/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/project/external-project/</guid>
+      <guid>https://nina-dl.github.io/project/miscellanea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://nina-dl.github.io/project/internal-project/</link>
+      <link>https://nina-dl.github.io/project/applications/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/project/internal-project/</guid>
+      <guid>https://nina-dl.github.io/project/applications/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;

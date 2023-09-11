@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/talk/award_edu/</loc>
+    <lastmod>2023-05-06T17:05:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/tags/inference/</loc>
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -58,42 +63,57 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/publication_types/3/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/bibhas-chakraborty/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/joseph-j-williams/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/nina-deliu/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication_types/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/arxiv-rlreview/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/source-themes/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/publication_types/2/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/bibhas-chakraborty/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/publication/amph2023/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/nina-deliu/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication_types/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/source-themes/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,17 +168,7 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/publication_types/3/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/publication/arxiv-allotest/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/joseph-j-williams/</loc>
     <lastmod>2021-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -438,12 +448,12 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/project/external-project/</loc>
+    <loc>https://nina-dl.github.io/project/miscellanea/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/project/internal-project/</loc>
+    <loc>https://nina-dl.github.io/project/applications/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
