@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic treatment regimes | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/dynamic-treatment-regimes/</link>
+      <atom:link href="https://nina-dl.github.io/tags/dynamic-treatment-regimes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamic treatment regimes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Dynamic treatment regimes</title>
+      <link>https://nina-dl.github.io/tags/dynamic-treatment-regimes/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement learning in modern biostatistics: constructing optimal adaptive interventions</title>
+      <link>https://nina-dl.github.io/publication/rlreview_arxiv2023/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/rlreview_arxiv2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Treatment Regimes for Optimizing Healthcare</title>
+      <link>https://nina-dl.github.io/publication/dtr_bookch2022/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/dtr_bookch2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

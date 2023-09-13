@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>allocation-probability test | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/allocation-probability-test/</link>
+      <atom:link href="https://nina-dl.github.io/tags/allocation-probability-test/index.xml" rel="self" type="application/rss+xml" />
+    <description>allocation-probability test</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Sun, 06 Aug 2023 17:05:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>allocation-probability test</title>
+      <link>https://nina-dl.github.io/tags/allocation-probability-test/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Inference Without Trading-off Regret in Bandits. An Allocation Probability Test for Thompson Sampling</title>
+      <link>https://nina-dl.github.io/talk/8_talk_jsm2023/</link>
+      <pubDate>Sun, 06 Aug 2023 17:05:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/8_talk_jsm2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brunero Liseo | Nina :D</title>
+    <link>https://nina-dl.github.io/authors/brunero-liseo/</link>
+      <atom:link href="https://nina-dl.github.io/authors/brunero-liseo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brunero Liseo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Brunero Liseo</title>
+      <link>https://nina-dl.github.io/authors/brunero-liseo/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic and Distance-based Approaches for Computing Highest-Density Regions</title>
+      <link>https://nina-dl.github.io/talk/7_talk_ecosta2023/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/7_talk_ecosta2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/talk/6_poster_gdr2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/6_poster_gdr2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/talk/5_talk_sis2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/5_talk_sis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a multivariate Bayesian methodological framework for doping detection using copulae</title>
+      <link>https://nina-dl.github.io/talk/1_talk_bsu2023/</link>
+      <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/1_talk_bsu2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

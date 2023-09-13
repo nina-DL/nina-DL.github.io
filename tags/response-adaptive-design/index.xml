@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>response-adaptive design | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/response-adaptive-design/</link>
+      <atom:link href="https://nina-dl.github.io/tags/response-adaptive-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>response-adaptive design</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>response-adaptive design</title>
+      <link>https://nina-dl.github.io/tags/response-adaptive-design/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study.</title>
+      <link>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study.</title>
+      <link>https://nina-dl.github.io/talk/9_talk_iscb2023/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/9_talk_iscb2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

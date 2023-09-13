@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/publication/</link>
       <atom:link href="https://nina-dl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Publications</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Multiculturality and Interculturality: Qualitative Analysis of the Perspective of Focus Group Participants</title>
+      <link>https://nina-dl.github.io/publication/multiculturality_urbaniana2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/multiculturality_urbaniana2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reinforcement learning in modern biostatistics: constructing optimal adaptive interventions</title>
-      <link>https://nina-dl.github.io/publication/arxiv-rlreview/</link>
+      <link>https://nina-dl.github.io/publication/rlreview_arxiv2023/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/arxiv-rlreview/</guid>
+      <guid>https://nina-dl.github.io/publication/rlreview_arxiv2023/</guid>
       <description></description>
     </item>
     
@@ -35,17 +43,17 @@
     
     <item>
       <title>Dynamic Treatment Regimes for Optimizing Healthcare</title>
-      <link>https://nina-dl.github.io/publication/dtr_bookch/</link>
+      <link>https://nina-dl.github.io/publication/dtr_bookch2022/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/dtr_bookch/</guid>
+      <guid>https://nina-dl.github.io/publication/dtr_bookch2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-disciplinary fairness considerations in machine learning for clinical trials</title>
-      <link>https://nina-dl.github.io/publication/fairness/</link>
+      <link>https://nina-dl.github.io/publication/fairness_facct2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/fairness/</guid>
+      <guid>https://nina-dl.github.io/publication/fairness_facct2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;presentation&lt;/em&gt; button above to watch the talk related to this work, given at the &lt;em&gt;FAccT &amp;lsquo;22&lt;/em&gt; Conference.
@@ -55,50 +63,27 @@
     </item>
     
     <item>
-      <title>Efficient inference without trading-off regret in bandits: An allocation probability test for Thompson sampling</title>
-      <link>https://nina-dl.github.io/publication/arxiv-allotest/</link>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/arxiv-allotest/</guid>
+      <title>Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial</title>
+      <link>https://nina-dl.github.io/publication/diamante_abm2022/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/diamante_abm2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial</title>
-      <link>https://nina-dl.github.io/publication/abm2021/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/abm2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</title>
-      <link>https://nina-dl.github.io/publication/arxiv-statchall2021/</link>
-      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/arxiv-statchall2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <title>Efficient inference without trading-off regret in bandits: An allocation probability test for Thompson sampling</title>
+      <link>https://nina-dl.github.io/publication/allotest_arxiv2023/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/allotest_arxiv2023/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Adaptive learning algorithms to optimize mobile applications for behavioral health: guidelines for design decisions</title>
-      <link>https://nina-dl.github.io/publication/jamia2021/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/jamia2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <link>https://nina-dl.github.io/publication/diamante_jamia2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/diamante_jamia2021/</guid>
+      <description></description>
     </item>
     
   </channel>

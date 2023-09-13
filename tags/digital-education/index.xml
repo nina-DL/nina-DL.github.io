@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital education | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/digital-education/</link>
+      <atom:link href="https://nina-dl.github.io/tags/digital-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>digital education</title>
+      <link>https://nina-dl.github.io/tags/digital-education/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Experiments for Enhancing Digital Education -- Benefits and Statistical Challenges</title>
+      <link>https://nina-dl.github.io/talk/2_talk_icnasta2023/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2_talk_icnasta2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

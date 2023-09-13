@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WADA | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/wada/</link>
+      <atom:link href="https://nina-dl.github.io/tags/wada/index.xml" rel="self" type="application/rss+xml" />
+    <description>WADA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 23 Feb 2023 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>WADA</title>
+      <link>https://nina-dl.github.io/tags/wada/</link>
+    </image>
+    
+    <item>
+      <title>Development of a multivariate Bayesian methodological framework for doping detection using copulae</title>
+      <link>https://nina-dl.github.io/talk/1_talk_bsu2023/</link>
+      <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/1_talk_bsu2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

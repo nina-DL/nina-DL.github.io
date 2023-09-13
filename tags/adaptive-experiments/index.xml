@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adaptive experiments | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/adaptive-experiments/</link>
+      <atom:link href="https://nina-dl.github.io/tags/adaptive-experiments/index.xml" rel="self" type="application/rss+xml" />
+    <description>adaptive experiments</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>adaptive experiments</title>
+      <link>https://nina-dl.github.io/tags/adaptive-experiments/</link>
+    </image>
+    
+    <item>
+      <title>Multinomial Thompson Sampling for Online Sequential Decision Making with Rating Scales</title>
+      <link>https://nina-dl.github.io/talk/3_talk_napoli2023/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/3_talk_napoli2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Experiments for Enhancing Digital Education -- Benefits and Statistical Challenges</title>
+      <link>https://nina-dl.github.io/talk/2_talk_icnasta2023/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2_talk_icnasta2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

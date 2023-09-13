@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/authors/nina-deliu/</link>
       <atom:link href="https://nina-dl.github.io/authors/nina-deliu/index.xml" rel="self" type="application/rss+xml" />
     <description>Nina Deliu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Nina Deliu</title>
@@ -13,10 +13,82 @@
     </image>
     
     <item>
+      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study.</title>
+      <link>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study.</title>
+      <link>https://nina-dl.github.io/talk/9_talk_iscb2023/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/9_talk_iscb2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Inference Without Trading-off Regret in Bandits. An Allocation Probability Test for Thompson Sampling</title>
+      <link>https://nina-dl.github.io/talk/8_talk_jsm2023/</link>
+      <pubDate>Sun, 06 Aug 2023 17:05:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/8_talk_jsm2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic and Distance-based Approaches for Computing Highest-Density Regions</title>
+      <link>https://nina-dl.github.io/talk/7_talk_ecosta2023/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/7_talk_ecosta2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/talk/6_poster_gdr2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/6_poster_gdr2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/talk/5_talk_sis2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/5_talk_sis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure.</title>
+      <link>https://nina-dl.github.io/talk/4_talk_itacosm2023/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/4_talk_itacosm2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiculturality and Interculturality: Qualitative Analysis of the Perspective of Focus Group Participants</title>
+      <link>https://nina-dl.github.io/publication/multiculturality_urbaniana2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/multiculturality_urbaniana2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reinforcement learning in modern biostatistics: constructing optimal adaptive interventions</title>
-      <link>https://nina-dl.github.io/publication/arxiv-rlreview/</link>
+      <link>https://nina-dl.github.io/publication/rlreview_arxiv2023/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/arxiv-rlreview/</guid>
+      <guid>https://nina-dl.github.io/publication/rlreview_arxiv2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a multivariate Bayesian methodological framework for doping detection using copulae</title>
+      <link>https://nina-dl.github.io/talk/1_talk_bsu2023/</link>
+      <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/1_talk_bsu2023/</guid>
       <description></description>
     </item>
     
@@ -35,17 +107,17 @@
     
     <item>
       <title>Dynamic Treatment Regimes for Optimizing Healthcare</title>
-      <link>https://nina-dl.github.io/publication/dtr_bookch/</link>
+      <link>https://nina-dl.github.io/publication/dtr_bookch2022/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/dtr_bookch/</guid>
+      <guid>https://nina-dl.github.io/publication/dtr_bookch2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-disciplinary fairness considerations in machine learning for clinical trials</title>
-      <link>https://nina-dl.github.io/publication/fairness/</link>
+      <link>https://nina-dl.github.io/publication/fairness_facct2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/fairness/</guid>
+      <guid>https://nina-dl.github.io/publication/fairness_facct2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;presentation&lt;/em&gt; button above to watch the talk related to this work, given at the &lt;em&gt;FAccT &amp;lsquo;22&lt;/em&gt; Conference.
@@ -56,9 +128,9 @@
     
     <item>
       <title>Efficient inference without trading-off regret in bandits: An allocation probability test for Thompson sampling</title>
-      <link>https://nina-dl.github.io/publication/arxiv-allotest/</link>
+      <link>https://nina-dl.github.io/publication/allotest_arxiv2023/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/arxiv-allotest/</guid>
+      <guid>https://nina-dl.github.io/publication/allotest_arxiv2023/</guid>
       <description></description>
     </item>
     
