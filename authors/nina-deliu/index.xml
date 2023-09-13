@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure.</title>
+      <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023)</title>
       <link>https://nina-dl.github.io/talk/4_talk_itacosm2023/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/4_talk_itacosm2023/</guid>
@@ -105,14 +105,6 @@
       <link>https://nina-dl.github.io/publication/multiculturality_urbaniana2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/multiculturality_urbaniana2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement learning in modern biostatistics: constructing optimal adaptive interventions</title>
-      <link>https://nina-dl.github.io/publication/rlreview_arxiv2023/</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/rlreview_arxiv2023/</guid>
       <description></description>
     </item>
     
@@ -156,14 +148,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Efficient inference without trading-off regret in bandits: An allocation probability test for Thompson sampling</title>
-      <link>https://nina-dl.github.io/publication/allotest_arxiv2023/</link>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/allotest_arxiv2023/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -157,7 +157,7 @@
     </item>
     
     <item>
-      <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure.</title>
+      <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023)</title>
       <link>https://nina-dl.github.io/talk/4_talk_itacosm2023/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/4_talk_itacosm2023/</guid>
@@ -219,14 +219,6 @@
     </item>
     
     <item>
-      <title>Reinforcement learning in modern biostatistics: constructing optimal adaptive interventions</title>
-      <link>https://nina-dl.github.io/publication/rlreview_arxiv2023/</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/rlreview_arxiv2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Development of a multivariate Bayesian methodological framework for doping detection using copulae (Talk @ University of Cambridge)</title>
       <link>https://nina-dl.github.io/talk/1_talk_bsu2023/</link>
       <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
@@ -277,15 +269,7 @@
     </item>
     
     <item>
-      <title>Efficient inference without trading-off regret in bandits: An allocation probability test for Thompson sampling</title>
-      <link>https://nina-dl.github.io/publication/allotest_arxiv2023/</link>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/allotest_arxiv2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using reinforcement learning to design just-in-time adaptive interventions. The DIAMANTE pilot study.</title>
+      <title>Using reinforcement learning to design just-in-time adaptive interventions. The DIAMANTE pilot study (Invited Talk @ Young Researchers Meeting, Bernoulli-IMS2021)</title>
       <link>https://nina-dl.github.io/talk/2021_talk_ysm2021/</link>
       <pubDate>Sat, 17 Jul 2021 16:15:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/2021_talk_ysm2021/</guid>
