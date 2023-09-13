@@ -77,7 +77,39 @@
     </item>
     
     <item>
-      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study.</title>
+      <title>Artificial Intelligence-based Decision Support Systems for Precision and Digital Health</title>
+      <link>https://nina-dl.github.io/publication/ai_bookch2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/ai_bookch2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informing Users about Data Imputation. Exploring the Design Space for Dealing With Non-Responses</title>
+      <link>https://nina-dl.github.io/publication/missing_hcomp2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/missing_hcomp2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Sequential Decision-Making in Population Research</title>
+      <link>https://nina-dl.github.io/publication/rldemography_ququ2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/rldemography_ququ2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMART-EXAM: Incorporating participants’ welfare into sequential multiple assignment randomized trials</title>
+      <link>https://nina-dl.github.io/publication/smartexam_biometrics2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/smartexam_biometrics2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study (Invited Talk @ Italian Bayesian Day 2023)</title>
       <link>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</guid>
@@ -85,7 +117,7 @@
     </item>
     
     <item>
-      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study.</title>
+      <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study (Poster @ ISCB2023 - Joint conference with the IBS)</title>
       <link>https://nina-dl.github.io/talk/9_talk_iscb2023/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/9_talk_iscb2023/</guid>
@@ -93,7 +125,7 @@
     </item>
     
     <item>
-      <title>Efficient Inference Without Trading-off Regret in Bandits. An Allocation Probability Test for Thompson Sampling</title>
+      <title>Efficient Inference Without Trading-off Regret in Bandits. An Allocation Probability Test for Thompson Sampling (Invited Talk @ JSM2023)</title>
       <link>https://nina-dl.github.io/talk/8_talk_jsm2023/</link>
       <pubDate>Sun, 06 Aug 2023 17:05:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/8_talk_jsm2023/</guid>
@@ -101,7 +133,7 @@
     </item>
     
     <item>
-      <title>Probabilistic and Distance-based Approaches for Computing Highest-Density Regions</title>
+      <title>Probabilistic and Distance-based Approaches for Computing Highest-Density Regions (Talk @ EcoSta2023)</title>
       <link>https://nina-dl.github.io/talk/7_talk_ecosta2023/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/7_talk_ecosta2023/</guid>
@@ -109,7 +141,7 @@
     </item>
     
     <item>
-      <title>Computing Highest Density Regions with Copulae</title>
+      <title>Computing Highest Density Regions with Copulae (Poster @ 13 GdR MEMOTEF)</title>
       <link>https://nina-dl.github.io/talk/6_poster_gdr2023/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/6_poster_gdr2023/</guid>
@@ -117,7 +149,7 @@
     </item>
     
     <item>
-      <title>Computing Highest Density Regions with Copulae</title>
+      <title>Computing Highest Density Regions with Copulae (Talk @ SIS 2023)</title>
       <link>https://nina-dl.github.io/talk/5_talk_sis2023/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/5_talk_sis2023/</guid>
@@ -133,7 +165,7 @@
     </item>
     
     <item>
-      <title>Multinomial Thompson Sampling for Online Sequential Decision Making with Rating Scales</title>
+      <title>Multinomial Thompson Sampling for Online Sequential Decision Making with Rating Scales (Invited Seminar @ Federico II di Napoli)</title>
       <link>https://nina-dl.github.io/talk/3_talk_napoli2023/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/3_talk_napoli2023/</guid>
@@ -162,7 +194,7 @@
     </item>
     
     <item>
-      <title>Adaptive Experiments for Enhancing Digital Education -- Benefits and Statistical Challenges</title>
+      <title>Adaptive Experiments for Enhancing Digital Education -- Benefits and Statistical Challenges (Talk @ ICNA-STA2023)</title>
       <link>https://nina-dl.github.io/talk/2_talk_icnasta2023/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/2_talk_icnasta2023/</guid>
@@ -195,7 +227,7 @@
     </item>
     
     <item>
-      <title>Development of a multivariate Bayesian methodological framework for doping detection using copulae</title>
+      <title>Development of a multivariate Bayesian methodological framework for doping detection using copulae (Talk @ University of Cambridge)</title>
       <link>https://nina-dl.github.io/talk/1_talk_bsu2023/</link>
       <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/1_talk_bsu2023/</guid>
