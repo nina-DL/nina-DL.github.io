@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rating scales | Nina :D</title>
+    <title>Rating scales | Nina :D</title>
     <link>https://nina-dl.github.io/tags/rating-scales/</link>
       <atom:link href="https://nina-dl.github.io/tags/rating-scales/index.xml" rel="self" type="application/rss+xml" />
-    <description>rating scales</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <description>Rating scales</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
-      <title>rating scales</title>
+      <title>Rating scales</title>
       <link>https://nina-dl.github.io/tags/rating-scales/</link>
     </image>
+    
+    <item>
+      <title>Multinomial Thompson sampling for rating scales and prior considerations for calibrating uncertainty</title>
+      <link>https://nina-dl.github.io/publication/smap2023/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/smap2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multinomial Thompson Sampling for Online Sequential Decision Making with Rating Scales (Invited Seminar @ Federico II di Napoli)</title>

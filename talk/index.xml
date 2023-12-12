@@ -5,12 +5,28 @@
     <link>https://nina-dl.github.io/talk/</link>
       <atom:link href="https://nina-dl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest Talks and Seminars</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Latest Talks and Seminars</title>
       <link>https://nina-dl.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Modeling considerations when optimizing adaptive experiments under the reinforcement learning framework (Invited Talk @ ICSDS2023)</title>
+      <link>https://nina-dl.github.io/talk/12_talk_icsds2023/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/12_talk_icsds2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the finite-sample and asymptotic validity of an allocation-probability test for adaptively-collected data (Invited Talk @ StaTalk2023)</title>
+      <link>https://nina-dl.github.io/talk/11_talk_statalk2023/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/11_talk_statalk2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study (Invited Talk @ Italian Bayesian Day 2023)</title>

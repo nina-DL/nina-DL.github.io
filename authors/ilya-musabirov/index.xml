@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilya Musabirov | Nina :D</title>
+    <link>https://nina-dl.github.io/authors/ilya-musabirov/</link>
+      <atom:link href="https://nina-dl.github.io/authors/ilya-musabirov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilya Musabirov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Ilya Musabirov</title>
+      <link>https://nina-dl.github.io/authors/ilya-musabirov/</link>
+    </image>
+    
+    <item>
+      <title>Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Mental Health</title>
+      <link>https://nina-dl.github.io/publication/mha2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/mha2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
