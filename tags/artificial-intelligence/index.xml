@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/tags/artificial-intelligence/</link>
       <atom:link href="https://nina-dl.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial intelligence</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Artificial intelligence</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Artificial Intelligence-based Decision Support Systems for Precision and Digital Health</title>
-      <link>https://nina-dl.github.io/publication/ai_bookch2023/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/ai_bookch2023/</guid>
+      <link>https://nina-dl.github.io/publication/2024ai_bookch/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024ai_bookch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement learning for sequential decision making in population research</title>
-      <link>https://nina-dl.github.io/publication/rldemography_ququ2023/</link>
+      <link>https://nina-dl.github.io/publication/2023rldemography_ququ/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/rldemography_ququ2023/</guid>
+      <guid>https://nina-dl.github.io/publication/2023rldemography_ququ/</guid>
       <description></description>
     </item>
     

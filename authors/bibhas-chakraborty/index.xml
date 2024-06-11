@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/authors/bibhas-chakraborty/</link>
       <atom:link href="https://nina-dl.github.io/authors/bibhas-chakraborty/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibhas Chakraborty</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Bibhas Chakraborty</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
+      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
+      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence-based Decision Support Systems for Precision and Digital Health</title>
-      <link>https://nina-dl.github.io/publication/ai_bookch2023/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/ai_bookch2023/</guid>
+      <link>https://nina-dl.github.io/publication/2024ai_bookch/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024ai_bookch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thompson sampling for count data in mobile health trials (Invited Talk @ University of Cambridge)</title>
+      <link>https://nina-dl.github.io/talk/1_talk24_bsu2023-copia/</link>
+      <pubDate>Thu, 29 Feb 2024 11:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/1_talk24_bsu2023-copia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incorporating Participants&#39; Welfare into Sequential Multiple Assignment Randomized Trials</title>
-      <link>https://nina-dl.github.io/publication/smartexam_biometrics2023/</link>
+      <link>https://nina-dl.github.io/publication/2024smartexam_biometrics/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/smartexam_biometrics2023/</guid>
+      <guid>https://nina-dl.github.io/publication/2024smartexam_biometrics/</guid>
       <description></description>
     </item>
     
@@ -38,9 +54,9 @@
     
     <item>
       <title>Microrandomized Trials: Developing Just-in-Time Adaptive Interventions for Better Public Health</title>
-      <link>https://nina-dl.github.io/publication/amph2023/</link>
+      <link>https://nina-dl.github.io/publication/2023amph/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/amph2023/</guid>
+      <guid>https://nina-dl.github.io/publication/2023amph/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     An interview related to this article has been made by the Editor-in-Chief of the American Journal of Public Health to Bibhas. Click the &lt;em&gt;presentation&lt;/em&gt; button above to watch it.
@@ -51,25 +67,25 @@
     
     <item>
       <title>Dynamic Treatment Regimes for Optimizing Healthcare</title>
-      <link>https://nina-dl.github.io/publication/dtr_bookch2022/</link>
+      <link>https://nina-dl.github.io/publication/2022dtr_bookch/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/dtr_bookch2022/</guid>
+      <guid>https://nina-dl.github.io/publication/2022dtr_bookch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial</title>
-      <link>https://nina-dl.github.io/publication/diamante_abm2022/</link>
+      <link>https://nina-dl.github.io/publication/2022diamante_abm/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/diamante_abm2022/</guid>
+      <guid>https://nina-dl.github.io/publication/2022diamante_abm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive learning algorithms to optimize mobile applications for behavioral health: guidelines for design decisions</title>
-      <link>https://nina-dl.github.io/publication/diamante_jamia2021/</link>
+      <link>https://nina-dl.github.io/publication/2021diamante_jamia/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/diamante_jamia2021/</guid>
+      <guid>https://nina-dl.github.io/publication/2021diamante_jamia/</guid>
       <description></description>
     </item>
     

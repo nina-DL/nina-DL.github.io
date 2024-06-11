@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/tags/dynamic-treatment-regimes/</link>
       <atom:link href="https://nina-dl.github.io/tags/dynamic-treatment-regimes/index.xml" rel="self" type="application/rss+xml" />
     <description>Dynamic treatment regimes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Dynamic treatment regimes</title>
@@ -13,26 +13,34 @@
     </image>
     
     <item>
+      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
+      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence-based Decision Support Systems for Precision and Digital Health</title>
-      <link>https://nina-dl.github.io/publication/ai_bookch2023/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/ai_bookch2023/</guid>
+      <link>https://nina-dl.github.io/publication/2024ai_bookch/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024ai_bookch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incorporating Participants&#39; Welfare into Sequential Multiple Assignment Randomized Trials</title>
-      <link>https://nina-dl.github.io/publication/smartexam_biometrics2023/</link>
+      <link>https://nina-dl.github.io/publication/2024smartexam_biometrics/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/smartexam_biometrics2023/</guid>
+      <guid>https://nina-dl.github.io/publication/2024smartexam_biometrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Treatment Regimes for Optimizing Healthcare</title>
-      <link>https://nina-dl.github.io/publication/dtr_bookch2022/</link>
+      <link>https://nina-dl.github.io/publication/2022dtr_bookch/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/dtr_bookch2022/</guid>
+      <guid>https://nina-dl.github.io/publication/2022dtr_bookch/</guid>
       <description></description>
     </item>
     
