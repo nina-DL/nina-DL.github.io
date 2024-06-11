@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/authors/joseph-j-williams/</link>
       <atom:link href="https://nina-dl.github.io/authors/joseph-j-williams/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph J Williams</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Joseph J Williams</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Reinforcement learning in modern biostatistics: constructing optimal adaptive interventions</title>
-      <link>https://nina-dl.github.io/publication/rlreview_arxiv2023/</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/rlreview_arxiv2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient inference without trading-off regret in bandits: An allocation probability test for Thompson sampling</title>
-      <link>https://nina-dl.github.io/publication/allotest_arxiv2023/</link>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/allotest_arxiv2023/</guid>
+      <title>Finite-sample inference in response-adaptive designs. An application to Thompson sampling (Invited Talk @ SIS2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_sis/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_sis/</guid>
       <description></description>
     </item>
     

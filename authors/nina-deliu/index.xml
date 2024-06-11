@@ -5,12 +5,20 @@
     <link>https://nina-dl.github.io/authors/nina-deliu/</link>
       <atom:link href="https://nina-dl.github.io/authors/nina-deliu/index.xml" rel="self" type="application/rss+xml" />
     <description>Nina Deliu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Nina Deliu</title>
       <link>https://nina-dl.github.io/authors/nina-deliu/</link>
     </image>
+    
+    <item>
+      <title>Finite-sample and Asymptotic Error Control of a Novel Test for Response-adaptive Designs (Invited Talk @ ICSDS2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_icsds/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_icsds/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
@@ -29,10 +37,66 @@
     </item>
     
     <item>
+      <title>Anomaly Detection in Multivariate Profiles with Conformal Bayesian Inference (Talk @ COPA2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_copa/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_copa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Invited Talk @ BMS-ANed)</title>
+      <link>https://nina-dl.github.io/talk/2024_bmsaned/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_bmsaned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample inference in response-adaptive designs. An application to Thompson sampling (Invited Talk @ SIS2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_sis/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_sis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multivariate Copula-based Conformal Bayesian Framework for Doping Detection  (Talk @ AUEB-SAW2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_saw/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_saw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Seminar @ Department of Statistics, Padua University)</title>
+      <link>https://nina-dl.github.io/talk/2024_padovaseminar/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_padovaseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Keynote Talk @ ALBECS-2024, 19th International Conference on Persuasive Technology 2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_albecs/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_albecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning for sequential decision-making. From healthcare to finance (Talk @ Sapienza University)</title>
+      <link>https://nina-dl.github.io/talk/2024_gdr/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thompson sampling for count data in mobile health trials (Invited Talk @ University of Cambridge)</title>
-      <link>https://nina-dl.github.io/talk/1_talk24_bsu2023-copia/</link>
-      <pubDate>Thu, 29 Feb 2024 11:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/1_talk24_bsu2023-copia/</guid>
+      <link>https://nina-dl.github.io/talk/2024_rar/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_rar/</guid>
       <description></description>
     </item>
     
@@ -54,9 +118,9 @@
     
     <item>
       <title>Modeling considerations when optimizing adaptive experiments under the reinforcement learning framework (Invited Talk @ ICSDS2023)</title>
-      <link>https://nina-dl.github.io/talk/12_talk_icsds2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_icsds/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/12_talk_icsds2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_icsds/</guid>
       <description></description>
     </item>
     
@@ -86,65 +150,65 @@
     
     <item>
       <title>On the finite-sample and asymptotic validity of an allocation-probability test for adaptively-collected data (Invited Talk @ StaTalk2023)</title>
-      <link>https://nina-dl.github.io/talk/11_talk_statalk2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_statalk/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/11_talk_statalk2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_statalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study (Invited Talk @ Italian Bayesian Day 2023)</title>
-      <link>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_bayesianday/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/10_talk_bayesianday2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_bayesianday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study (Poster @ ISCB2023 - Joint conference with the IBS)</title>
-      <link>https://nina-dl.github.io/talk/9_talk_iscb2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_iscb/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/9_talk_iscb2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_iscb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Inference Without Trading-off Regret in Bandits. An Allocation Probability Test for Thompson Sampling (Invited Talk @ JSM2023)</title>
-      <link>https://nina-dl.github.io/talk/8_talk_jsm2023/</link>
-      <pubDate>Sun, 06 Aug 2023 17:05:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/8_talk_jsm2023/</guid>
+      <link>https://nina-dl.github.io/talk/2023_jsm/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2023_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic and Distance-based Approaches for Computing Highest-Density Regions (Talk @ EcoSta2023)</title>
-      <link>https://nina-dl.github.io/talk/7_talk_ecosta2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_ecosta/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/7_talk_ecosta2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_ecosta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Highest Density Regions with Copulae (Poster @ 13 GdR MEMOTEF)</title>
-      <link>https://nina-dl.github.io/talk/6_poster_gdr2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_gdr/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/6_poster_gdr2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_gdr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Highest Density Regions with Copulae (Talk @ SIS 2023)</title>
-      <link>https://nina-dl.github.io/talk/5_talk_sis2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_sis/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/5_talk_sis2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_sis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023)</title>
-      <link>https://nina-dl.github.io/talk/4_talk_itacosm2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_itacosm/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/4_talk_itacosm2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_itacosm/</guid>
       <description></description>
     </item>
     
@@ -158,9 +222,9 @@
     
     <item>
       <title>Development of a multivariate Bayesian methodological framework for doping detection using copulae (Talk @ University of Cambridge)</title>
-      <link>https://nina-dl.github.io/talk/1_talk_bsu2023/</link>
-      <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/1_talk_bsu2023/</guid>
+      <link>https://nina-dl.github.io/talk/2023_bsu/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2023_bsu/</guid>
       <description></description>
     </item>
     
@@ -196,6 +260,14 @@
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Design-based Inference in Response-Adaptive Randomization with Application to Thompson Sampling (Invited Talk @ 18th Armitage Workshop)</title>
+      <link>https://nina-dl.github.io/talk/2021_armitage/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2021_armitage/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online reinforcement learning | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/online-reinforcement-learning/</link>
+      <atom:link href="https://nina-dl.github.io/tags/online-reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Online reinforcement learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Online reinforcement learning</title>
+      <link>https://nina-dl.github.io/tags/online-reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Invited Talk @ BMS-ANed)</title>
+      <link>https://nina-dl.github.io/talk/2024_bmsaned/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_bmsaned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Seminar @ Department of Statistics, Padua University)</title>
+      <link>https://nina-dl.github.io/talk/2024_padovaseminar/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_padovaseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Keynote Talk @ ALBECS-2024, 19th International Conference on Persuasive Technology 2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_albecs/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_albecs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

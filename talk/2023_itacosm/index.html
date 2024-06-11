@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Nina Deliu">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The Italian National Statistical Institute (ISTAT) is undergoing a significant modernization process, transitioning from a statistical paradigm based uniquely on independent sample and census surveys to an integrated system of statistical registries (ISSR). The ISSR is the result of a comprehensive integration of administrative and survey data and should represent the basis of all official statistics. Clearly, to allow the ISSR to be utilized as a single informative infrastructure, different statistical techniques (such as record linkage, statistical matching, or imputation/prediction) have been adopted to achieve the integration goal and reconstruct unit-level data. To illustrate, the reconstruction of the attained level of education was achieved by means of a sequence of log-linear models to impute the education level, combining the different informative contents of administrative data (provided by the Ministry of Education, University and Research; MIUR), census data (the 2011 Italian census), and sample survey data. It is thus the result of statistical processes subject to different sources of statistical uncertainty. These include, among others, the sampling errors due to sample surveys and the adoption of statistical models for imputing or predicting missing data at the unit level. The aim of this work is to evaluate, compare and propose novel methods for assessing the quality of data derived for specific cases of the ISSR. More specifically, our goal is to establish feasible computational statistical measures for calculating the accuracy of the provided estimates in the specific context of the attained level of education. In this work, we focus on the estimates of population totals, and allow for specific user-defined domains, e.g., the number of illiterate individuals in the province of Bologna. We build on the recent proposal described in Alleva et al. (2021: J Off Stat, 37, 481-503), where a new global measure for the estimation error, that is, the Global Mean Squared Error (GMSE), is developed, and assessed by simulations in the case of a logistic model. Accounting for two types of uncertainty, i.e., the sampling and the modeling uncertainty, we generalize the GMSE to multinomial response variables to resemble the categorical entity of the education level (overall 8 categories). The underlying strategy is based on three linearization steps, and it only involves the first two moments of the distribution. We evaluate the proposed method on a subsample of the Base Register of Individuals (BRI) of the ISSR and validate it with a bootstrap-based approach carried out on the same data. The GMSE results in a reliable, interpretable, computationally feasible, and flexible approach, which may allow different users to evaluate the accuracy of their own statistics produced from the ISSR. With this work, we aim to support the advancement of current practices in official statistics, facilitating a flexible yet correct use of registry data by augmenting the production of estimates with their corresponding quality.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://nina-dl.github.io/talk/2023_itacosm/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#E13D3D">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162024034-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-162024034-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hud59662013f3e53696291bc618511ff5f_165097_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hud59662013f3e53696291bc618511ff5f_165097_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://nina-dl.github.io/talk/2023_itacosm/">
+
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@DeliuNina">
+  <meta property="twitter:creator" content="@DeliuNina">
+  
+  <meta property="og:site_name" content="Nina :D">
+  <meta property="og:url" content="https://nina-dl.github.io/talk/2023_itacosm/">
+  <meta property="og:title" content="Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023) | Nina :D">
+  <meta property="og:description" content="The Italian National Statistical Institute (ISTAT) is undergoing a significant modernization process, transitioning from a statistical paradigm based uniquely on independent sample and census surveys to an integrated system of statistical registries (ISSR). The ISSR is the result of a comprehensive integration of administrative and survey data and should represent the basis of all official statistics. Clearly, to allow the ISSR to be utilized as a single informative infrastructure, different statistical techniques (such as record linkage, statistical matching, or imputation/prediction) have been adopted to achieve the integration goal and reconstruct unit-level data. To illustrate, the reconstruction of the attained level of education was achieved by means of a sequence of log-linear models to impute the education level, combining the different informative contents of administrative data (provided by the Ministry of Education, University and Research; MIUR), census data (the 2011 Italian census), and sample survey data. It is thus the result of statistical processes subject to different sources of statistical uncertainty. These include, among others, the sampling errors due to sample surveys and the adoption of statistical models for imputing or predicting missing data at the unit level. The aim of this work is to evaluate, compare and propose novel methods for assessing the quality of data derived for specific cases of the ISSR. More specifically, our goal is to establish feasible computational statistical measures for calculating the accuracy of the provided estimates in the specific context of the attained level of education. In this work, we focus on the estimates of population totals, and allow for specific user-defined domains, e.g., the number of illiterate individuals in the province of Bologna. We build on the recent proposal described in Alleva et al. (2021: J Off Stat, 37, 481-503), where a new global measure for the estimation error, that is, the Global Mean Squared Error (GMSE), is developed, and assessed by simulations in the case of a logistic model. Accounting for two types of uncertainty, i.e., the sampling and the modeling uncertainty, we generalize the GMSE to multinomial response variables to resemble the categorical entity of the education level (overall 8 categories). The underlying strategy is based on three linearization steps, and it only involves the first two moments of the distribution. We evaluate the proposed method on a subsample of the Base Register of Individuals (BRI) of the ISSR and validate it with a bootstrap-based approach carried out on the same data. The GMSE results in a reliable, interpretable, computationally feasible, and flexible approach, which may allow different users to evaluate the accuracy of their own statistics produced from the ISSR. With this work, we aim to support the advancement of current practices in official statistics, facilitating a flexible yet correct use of registry data by augmenting the production of estimates with their corresponding quality."><meta property="og:image" content="https://nina-dl.github.io/img/avatar.jpg">
+  <meta property="twitter:image" content="https://nina-dl.github.io/img/avatar.jpg"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2023-06-08T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2023-06-08T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://nina-dl.github.io/talk/2023_itacosm/"
+  },
+  "name": "Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023)",
+  
+  "location": {
+    "@type": "Place",
+    "name": "University of Calabria"
+  },
+  
+  
+  "startDate": "2023-06-08T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Nina Deliu"
+  },
+  
+  "description": "The Italian National Statistical Institute (ISTAT) is undergoing a significant modernization process, transitioning from a statistical paradigm based uniquely on independent sample and census surveys to an integrated system of statistical registries (ISSR). The ISSR is the result of a comprehensive integration of administrative and survey data and should represent the basis of all official statistics. Clearly, to allow the ISSR to be utilized as a single informative infrastructure, different statistical techniques (such as record linkage, statistical matching, or imputation/prediction) have been adopted to achieve the integration goal and reconstruct unit-level data. To illustrate, the reconstruction of the attained level of education was achieved by means of a sequence of log-linear models to impute the education level, combining the different informative contents of administrative data (provided by the Ministry of Education, University and Research; MIUR), census data (the 2011 Italian census), and sample survey data. It is thus the result of statistical processes subject to different sources of statistical uncertainty. These include, among others, the sampling errors due to sample surveys and the adoption of statistical models for imputing or predicting missing data at the unit level. The aim of this work is to evaluate, compare and propose novel methods for assessing the quality of data derived for specific cases of the ISSR. More specifically, our goal is to establish feasible computational statistical measures for calculating the accuracy of the provided estimates in the specific context of the attained level of education. In this work, we focus on the estimates of population totals, and allow for specific user-defined domains, e.g., the number of illiterate individuals in the province of Bologna. We build on the recent proposal described in Alleva et al. (2021: J Off Stat, 37, 481-503), where a new global measure for the estimation error, that is, the Global Mean Squared Error (GMSE), is developed, and assessed by simulations in the case of a logistic model. Accounting for two types of uncertainty, i.e., the sampling and the modeling uncertainty, we generalize the GMSE to multinomial response variables to resemble the categorical entity of the education level (overall 8 categories). The underlying strategy is based on three linearization steps, and it only involves the first two moments of the distribution. We evaluate the proposed method on a subsample of the Base Register of Individuals (BRI) of the ISSR and validate it with a bootstrap-based approach carried out on the same data. The GMSE results in a reliable, interpretable, computationally feasible, and flexible approach, which may allow different users to evaluate the accuracy of their own statistics produced from the ISSR. With this work, we aim to support the advancement of current practices in official statistics, facilitating a flexible yet correct use of registry data by augmenting the production of estimates with their corresponding quality."
+}
+</script>
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023) | Nina :D</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Nina :D</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Nina :D</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/about/"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023)</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/nina-deliu/">Nina Deliu</a></span>, <span><a href="/authors/piero-demetrio-falorsi/">Piero Demetrio Falorsi</a></span>, <span><a href="/authors/stefano-falorsi/">Stefano Falorsi</a></span>, <span><a href="/authors/romina-filippini/">Romina Filippini</a></span>, <span><a href="/authors/simona-toti/">Simona Toti</a></span>, <span><a href="/authors/diego-chianella/">Diego Chianella</a></span>, <span><a href="/authors/giorgio-alleva/">Giorgio Alleva</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">The Italian National Statistical Institute (ISTAT) is undergoing a significant modernization process, transitioning from a statistical paradigm based uniquely on independent sample and census surveys to an integrated system of statistical registries (ISSR). The ISSR is the result of a comprehensive integration of administrative and survey data and should represent the basis of all official statistics. Clearly, to allow the ISSR to be utilized as a single informative infrastructure, different statistical techniques (such as record linkage, statistical matching, or imputation/prediction) have been adopted to achieve the integration goal and reconstruct unit-level data. To illustrate, the reconstruction of the attained level of education was achieved by means of a sequence of log-linear models to impute the education level, combining the different informative contents of administrative data (provided by the Ministry of Education, University and Research; MIUR), census data (the 2011 Italian census), and sample survey data. It is thus the result of statistical processes subject to different sources of statistical uncertainty. These include, among others, the sampling errors due to sample surveys and the adoption of statistical models for imputing or predicting missing data at the unit level. The aim of this work is to evaluate, compare and propose novel methods for assessing the quality of data derived for specific cases of the ISSR. More specifically, our goal is to establish feasible computational statistical measures for calculating the accuracy of the provided estimates in the specific context of the attained level of education. In this work, we focus on the estimates of population totals, and allow for specific user-defined domains, e.g., the number of illiterate individuals in the province of Bologna. We build on the recent proposal described in Alleva et al. (2021: J Off Stat, 37, 481-503), where a new global measure for the estimation error, that is, the Global Mean Squared Error (GMSE), is developed, and assessed by simulations in the case of a logistic model. Accounting for two types of uncertainty, i.e., the sampling and the modeling uncertainty, we generalize the GMSE to multinomial response variables to resemble the categorical entity of the education level (overall 8 categories). The underlying strategy is based on three linearization steps, and it only involves the first two moments of the distribution. We evaluate the proposed method on a subsample of the Base Register of Individuals (BRI) of the ISSR and validate it with a bootstrap-based approach carried out on the same data. The GMSE results in a reliable, interpretable, computationally feasible, and flexible approach, which may allow different users to evaluate the accuracy of their own statistics produced from the ISSR. With this work, we aim to support the advancement of current practices in official statistics, facilitating a flexible yet correct use of registry data by augmenting the production of estimates with their corresponding quality.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Jun 8, 2023
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://meetings3.sis-statistica.org/index.php/itacosm2023/main" target="_blank" rel="noopener">
+            Invited Talk @ 8th Italian Conference on Survey Methodology &ndash; ITACOSM2023
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">University of Calabria</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/accuracy-estimation/">accuracy estimation</a>
+  
+  <a class="badge badge-light" href="/tags/uncertainty/">uncertainty</a>
+  
+  <a class="badge badge-light" href="/tags/register-data/">register data</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://nina-dl.github.io/talk/2023_itacosm/&amp;text=Assessing%20the%20predictive%20accuracy%20of%20official-statistics%20registers.%20The%20Global%20Mean%20Squared%20Error%20measure%20%28Invited%20Talk%20@%20ITACOSM2023%29" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://nina-dl.github.io/talk/2023_itacosm/&amp;t=Assessing%20the%20predictive%20accuracy%20of%20official-statistics%20registers.%20The%20Global%20Mean%20Squared%20Error%20measure%20%28Invited%20Talk%20@%20ITACOSM2023%29" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Assessing%20the%20predictive%20accuracy%20of%20official-statistics%20registers.%20The%20Global%20Mean%20Squared%20Error%20measure%20%28Invited%20Talk%20@%20ITACOSM2023%29&amp;body=https://nina-dl.github.io/talk/2023_itacosm/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://nina-dl.github.io/talk/2023_itacosm/&amp;title=Assessing%20the%20predictive%20accuracy%20of%20official-statistics%20registers.%20The%20Global%20Mean%20Squared%20Error%20measure%20%28Invited%20Talk%20@%20ITACOSM2023%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Assessing%20the%20predictive%20accuracy%20of%20official-statistics%20registers.%20The%20Global%20Mean%20Squared%20Error%20measure%20%28Invited%20Talk%20@%20ITACOSM2023%29%20https://nina-dl.github.io/talk/2023_itacosm/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://nina-dl.github.io/talk/2023_itacosm/&amp;title=Assessing%20the%20predictive%20accuracy%20of%20official-statistics%20registers.%20The%20Global%20Mean%20Squared%20Error%20measure%20%28Invited%20Talk%20@%20ITACOSM2023%29" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/nina-deliu/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © Nina Deliu, 2022 &middot; 
+
+    Build with <i class="far fa-heart" style="color:#E13D3D"></i>  & <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> during my night-times. Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

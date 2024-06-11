@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/tags/thompson-sampling/</link>
       <atom:link href="https://nina-dl.github.io/tags/thompson-sampling/index.xml" rel="self" type="application/rss+xml" />
     <description>Thompson sampling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 29 Feb 2024 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Thompson sampling</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Finite-sample and Asymptotic Error Control of a Novel Test for Response-adaptive Designs (Invited Talk @ ICSDS2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_icsds/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_icsds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Invited Talk @ BMS-ANed)</title>
+      <link>https://nina-dl.github.io/talk/2024_bmsaned/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_bmsaned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Seminar @ Department of Statistics, Padua University)</title>
+      <link>https://nina-dl.github.io/talk/2024_padovaseminar/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_padovaseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Keynote Talk @ ALBECS-2024, 19th International Conference on Persuasive Technology 2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_albecs/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_albecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning for sequential decision-making. From healthcare to finance (Talk @ Sapienza University)</title>
+      <link>https://nina-dl.github.io/talk/2024_gdr/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thompson sampling for count data in mobile health trials (Invited Talk @ University of Cambridge)</title>
-      <link>https://nina-dl.github.io/talk/1_talk24_bsu2023-copia/</link>
-      <pubDate>Thu, 29 Feb 2024 11:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/1_talk24_bsu2023-copia/</guid>
+      <link>https://nina-dl.github.io/talk/2024_rar/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_rar/</guid>
       <description></description>
     </item>
     
@@ -38,17 +78,17 @@
     
     <item>
       <title>Multinomial Thompson Sampling for Online Sequential Decision Making with Rating Scales (Invited Seminar @ Federico II di Napoli)</title>
-      <link>https://nina-dl.github.io/talk/3_talk_napoli2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_napoliseminar/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/3_talk_napoli2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_napoliseminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Experiments for Enhancing Digital Education -- Benefits and Statistical Challenges (Talk @ ICNA-STA2023)</title>
-      <link>https://nina-dl.github.io/talk/2_talk_icnasta2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_icnasta/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/2_talk_icnasta2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_icnasta/</guid>
       <description></description>
     </item>
     

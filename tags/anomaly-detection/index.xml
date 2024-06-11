@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anomaly detection | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/anomaly-detection/</link>
+      <atom:link href="https://nina-dl.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anomaly detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Anomaly detection</title>
+      <link>https://nina-dl.github.io/tags/anomaly-detection/</link>
+    </image>
+    
+    <item>
+      <title>Anomaly Detection in Multivariate Profiles with Conformal Bayesian Inference (Talk @ COPA2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_copa/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_copa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

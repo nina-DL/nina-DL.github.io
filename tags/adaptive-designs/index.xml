@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/tags/adaptive-designs/</link>
       <atom:link href="https://nina-dl.github.io/tags/adaptive-designs/index.xml" rel="self" type="application/rss+xml" />
     <description>Adaptive designs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2022</copyright><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Adaptive designs</title>
@@ -13,26 +13,58 @@
     </image>
     
     <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Invited Talk @ BMS-ANed)</title>
+      <link>https://nina-dl.github.io/talk/2024_bmsaned/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_bmsaned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample inference in response-adaptive designs. An application to Thompson sampling (Invited Talk @ SIS2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_sis/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_sis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Seminar @ Department of Statistics, Padua University)</title>
+      <link>https://nina-dl.github.io/talk/2024_padovaseminar/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_padovaseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online sequential-decision making via bandit algorithms, modeling considerations for better decisions (Keynote Talk @ ALBECS-2024, 19th International Conference on Persuasive Technology 2024)</title>
+      <link>https://nina-dl.github.io/talk/2024_albecs/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2024_albecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling considerations when optimizing adaptive experiments under the reinforcement learning framework (Invited Talk @ ICSDS2023)</title>
-      <link>https://nina-dl.github.io/talk/12_talk_icsds2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_icsds/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/12_talk_icsds2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_icsds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the finite-sample and asymptotic validity of an allocation-probability test for adaptively-collected data (Invited Talk @ StaTalk2023)</title>
-      <link>https://nina-dl.github.io/talk/11_talk_statalk2023/</link>
+      <link>https://nina-dl.github.io/talk/2023_statalk/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/11_talk_statalk2023/</guid>
+      <guid>https://nina-dl.github.io/talk/2023_statalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Inference Without Trading-off Regret in Bandits. An Allocation Probability Test for Thompson Sampling (Invited Talk @ JSM2023)</title>
-      <link>https://nina-dl.github.io/talk/8_talk_jsm2023/</link>
-      <pubDate>Sun, 06 Aug 2023 17:05:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/talk/8_talk_jsm2023/</guid>
+      <link>https://nina-dl.github.io/talk/2023_jsm/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/talk/2023_jsm/</guid>
       <description></description>
     </item>
     
