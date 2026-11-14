@@ -13,6 +13,21 @@
     </image>
     
     <item>
+      <title>🤖 ML: Statistical reinforcement learning and multi-armed bandits</title>
+      <link>https://nina-dl.github.io/project/rl-interventions/</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/project/rl-interventions/</guid>
+      <description>&lt;p&gt;How do we learn, while people use an app, take a course or follow a treatment, which option works best for whom, and when? I develop reinforcement-learning and multi-armed bandit methods that are &lt;em&gt;statistically considerate&lt;/em&gt;: they optimise outcomes while still allowing valid scientific conclusions, often within a Bayesian framework (e.g. Thompson sampling).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; &lt;em&gt;biostatistics&lt;/em&gt; (just-in-time adaptive interventions in mobile health, dynamic treatment regimes, SMARTs); &lt;em&gt;education&lt;/em&gt; (adaptive experiments in online courses); &lt;em&gt;finance&lt;/em&gt; (sequential decision-making under uncertainty).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Bibhas Chakraborty and former co-supervised PhD students Xueqing Liu and Xinru Wang (Duke-NUS, Singapore); Joseph Jay Williams (University of Toronto); the Google team behind PEARL, including Amy Armento Lee (PhD student, University of Cambridge) and Hulya Emir-Farinas; Caroline A. Figueroa and Adrian Aguilera (DIAMANTE study); my PhD student Simone Cuonzo (Sapienza).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Software:&lt;/strong&gt; the R package 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/countts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;countts&lt;/a&gt; for Thompson sampling with count outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1111/insr.12583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions&lt;/a&gt; (&lt;em&gt;International Statistical Review&lt;/em&gt;, 2025).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Page 1</title>
       <link>https://nina-dl.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
@@ -34,6 +49,19 @@
     </item>
     
     <item>
+      <title>📏 STATS: Uncertainty quantification, from Bayesian inference to conformal prediction</title>
+      <link>https://nina-dl.github.io/project/conformal-uq/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/project/conformal-uq/</guid>
+      <description>&lt;p&gt;How sure are we? I work on quantifying uncertainty in a principled way, from Bayesian inference to conformal prediction: their interplay and how to get honest coverage guarantees, highest-density regions for complex and multimodal data, and calibration testing with e-values. Recent work brings conformal ideas into sequential decision-making (conformal bandits) and into small-area estimation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; &lt;em&gt;finance&lt;/em&gt; (volatility models, tail risk, decisions under uncertainty); &lt;em&gt;official statistics&lt;/em&gt; (small-area estimation and accuracy of register-based statistics with ISTAT; disaster-induced production losses in agriculture with FAO).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Brunero Liseo (Sapienza University of Rome); my PhD students Simone Cuonzo and Emanuele Masillo (Sapienza); Davide Carmelo Di Leonforte; colleagues at ISTAT and at the FAO Statistics Division.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1098/rsta.2025.0073&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The interplay between Bayesian inference and conformal prediction&lt;/a&gt; (&lt;em&gt;Philosophical Transactions of the Royal Society A&lt;/em&gt;, 2026).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Page 2</title>
       <link>https://nina-dl.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
@@ -51,6 +79,48 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>💊 STATS: Inference in adaptive designs</title>
+      <link>https://nina-dl.github.io/project/adaptive-trials/</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/project/adaptive-trials/</guid>
+      <description>&lt;p&gt;Adaptive designs, such as response-adaptive randomisation and bandit-driven experiments, assign more participants to the options that seem to work better. This is more ethical and often more efficient, but it changes how the data must be analysed: classical tests and estimators can become biased or lose error control. I develop tests with guaranteed error control for adaptively collected data, and study the trade-off between learning and helping participants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; &lt;em&gt;biostatistics&lt;/em&gt; (response-adaptive clinical trials in rare diseases, such as StratosPHere 2 in pulmonary arterial hypertension); &lt;em&gt;education&lt;/em&gt; (adaptive experiments in online courses).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Sofia S. Villar and Rajenki Das (
+&lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRC Biostatistics Unit&lt;/a&gt;, University of Cambridge); Mark Toshner (Department of Medicine, University of Cambridge, and Royal Papworth Hospital); Joseph Jay Williams (University of Toronto), Anna Rafferty and Audrey Durand.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1093/biomtc/ujaf069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation&lt;/a&gt; (&lt;em&gt;Biometrics&lt;/em&gt;, 2025).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎓 APP: Advanced statistics in education</title>
+      <link>https://nina-dl.github.io/project/digital-education/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/project/digital-education/</guid>
+      <description>&lt;p&gt;Education is where many of my methods meet real data. With the 
+&lt;a href=&#34;https://www.adexacc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adaptive Experimentation Accelerator&lt;/a&gt;, winner of the 2023 XPRIZE Digital Learning Challenge, we run bandit-driven adaptive experiments in real online courses; a Sapienza research grant (PI, 2025) now brings these methods into our own statistics courses. With ISTAT, I develop scalable methods to measure the accuracy of education statistics built from multisource registers. And with colleagues at Sapienza, we model students&amp;rsquo; careers, for example to understand late graduations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Joseph Jay Williams (Intelligent Adaptive Interventions Lab, University of Toronto), Anna Rafferty, Audrey Durand, and colleagues at Carnegie Mellon University and North Carolina State University; Piero Demetrio Falorsi, Stefano Falorsi, Diego Chianella and Giorgio Alleva (
+&lt;a href=&#34;https://www.istat.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAT&lt;/a&gt;); Brunero Liseo, Andrea Tancredi and Edoardo Pandolfo (Sapienza).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1145/3706468.3706471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge&lt;/a&gt; (&lt;em&gt;LAK25&lt;/em&gt;, 2025) and 
+&lt;a href=&#34;https://doi.org/10.1093/jrsssa/qnag107&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics&lt;/a&gt; (&lt;em&gt;JRSS-A&lt;/em&gt;, 2026).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🧪 APP: Advanced Bayesian statistics for doping detection</title>
+      <link>https://nina-dl.github.io/project/doping-detection/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/project/doping-detection/</guid>
+      <description>&lt;p&gt;Athletes&amp;rsquo; biological passports are long, multivariate records of blood and urine markers. We build Bayesian copula-based models that look at these markers jointly over time, to flag suspicious profiles more reliably than one-marker-at-a-time tests.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; World Anti-Doping Agency, WADA Research Grant (Co-PI; PI: Brunero Liseo); Sapienza research grant (PI).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Brunero Liseo (Sapienza); my PhD students Emanuele Masillo and Eva Pigi Vyltanioti; Dimitris Karlis (Athens University of Economics and Business); NADO Italia and the World Anti-Doping Agency.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1007/s00180-024-01579-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Copula-based Bayesian Framework for Doping Detection&lt;/a&gt; (&lt;em&gt;Computational Statistics&lt;/em&gt;, 2025).&lt;/p&gt;
 </description>
     </item>
     
@@ -535,15 +605,6 @@
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2023multiculturality_urbaniana/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Theory and methods for adaptively-collected data</title>
-      <link>https://nina-dl.github.io/project/adaptive-data/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/project/adaptive-data/</guid>
-      <description>&lt;p&gt;It is increasingly common for data to be collected adaptively, where experimental costs are reduced progressively by assigning promising treatments more frequently. By skewing the allocation of the arms towards the more efficient or informative ones, they have the potential to enhance participants’ welfare, while resulting in a more flexible, efficient, and ethical alternative compared to traditional studies. However, such allocation strategies complicate the problem of statistical inference. It is now recognized that traditional inference methods are typically not valid when used in adaptively-collected data (such as those driven by multi-armed bandit problems), leading to considerable biases in classical estimators and other relevant issues in hypothesis testing problems.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -2907,27 +2968,6 @@ Hugo Static Site Generator v0.20.7 darwin/amd64 BuildDate: 2017-05-08T18:37:40-0
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://nina-dl.github.io/project/miscellanea/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/project/miscellanea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://nina-dl.github.io/project/applications/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/project/applications/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     

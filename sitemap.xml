@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nina-dl.github.io/project/rl-interventions/</loc>
+    <lastmod>2026-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -13,8 +18,28 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/project/conformal-uq/</loc>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/project/adaptive-trials/</loc>
+    <lastmod>2026-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/project/digital-education/</loc>
+    <lastmod>2026-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/project/doping-detection/</loc>
+    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -125,6 +150,11 @@
   <url>
     <loc>https://nina-dl.github.io/authors/eva-pigi-vyltanioti/</loc>
     <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/project/</loc>
+    <lastmod>2026-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1158,16 +1188,6 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/project/</loc>
-    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/project/adaptive-data/</loc>
-    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/talk/2023_bsu/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url>
@@ -1625,26 +1645,6 @@
   <url>
     <loc>https://nina-dl.github.io/post/2017-06-12-up-and-running-with-blogdown/</loc>
     <lastmod>2017-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/project/miscellanea/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/project/applications/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

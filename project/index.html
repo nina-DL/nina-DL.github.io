@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Personal website of Nina Deliu">
+  <meta name="description" content="What I work on, who I work with, and where to start reading.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://nina-dl.github.io/project/">
@@ -272,11 +272,11 @@
   
   <meta property="og:site_name" content="Nina :D">
   <meta property="og:url" content="https://nina-dl.github.io/project/">
-  <meta property="og:title" content="Projects | Nina :D">
-  <meta property="og:description" content="Personal website of Nina Deliu"><meta property="og:image" content="https://nina-dl.github.io/img/avatar.jpg">
+  <meta property="og:title" content="Research Projects | Nina :D">
+  <meta property="og:description" content="What I work on, who I work with, and where to start reading."><meta property="og:image" content="https://nina-dl.github.io/img/avatar.jpg">
   <meta property="twitter:image" content="https://nina-dl.github.io/img/avatar.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-04-27T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2026-11-06T00:00:00&#43;00:00">
   
 
   
@@ -293,7 +293,7 @@
 
 
 
-  <title>Projects | Nina :D</title>
+  <title>Research Projects | Nina :D</title>
 
 </head>
 
@@ -407,6 +407,28 @@
         
 
         <li class="nav-item">
+          <a class="nav-link  active" href="/project/"><span>Research Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/contact"><span>Contact</span></a>
         </li>
 
@@ -440,7 +462,8 @@
 </nav>
 
 
-  
+  <style>.project-block { scroll-margin-top: 90px; padding-top: 1.5rem; }</style>
+
 
 
 
@@ -461,7 +484,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1>Projects</h1>
+  <h1>Research Projects</h1>
 
   
 
@@ -469,54 +492,4330 @@
 </div>
 
 
-
 <div class="universal-wrapper">
-  
-
-  
+  <p class="lead">What I work on, who I work with, and where to start reading.</p>
   
     
-    
-    
-    <div>
-      <h2><a href="/project/adaptive-data/" >Theory and methods for adaptively-collected data</a></h2>
-      <div class="article-style">
-        
-          This project spans from statistical methodologies for performing inference in adaptively-collected data to designs for adaptive data collection
-        
-      </div>
-    </div>
-  
-    
-    
-    
+    <section id="rl-interventions" class="project-block">
+      <h2>🤖 ML: Statistical reinforcement learning and multi-armed bandits</h2>
+      <div class="article-style"><p>How do we learn, while people use an app, take a course or follow a treatment, which option works best for whom, and when? I develop reinforcement-learning and multi-armed bandit methods that are <em>statistically considerate</em>: they optimise outcomes while still allowing valid scientific conclusions, often within a Bayesian framework (e.g. Thompson sampling).</p>
+<p><strong>Applications:</strong> <em>biostatistics</em> (just-in-time adaptive interventions in mobile health, dynamic treatment regimes, SMARTs); <em>education</em> (adaptive experiments in online courses); <em>finance</em> (sequential decision-making under uncertainty).</p>
+<p><strong>Team:</strong> Bibhas Chakraborty and former co-supervised PhD students Xueqing Liu and Xinru Wang (Duke-NUS, Singapore); Joseph Jay Williams (University of Toronto); the Google team behind PEARL, including Amy Armento Lee (PhD student, University of Cambridge) and Hulya Emir-Farinas; Caroline A. Figueroa and Adrian Aguilera (DIAMANTE study); my PhD student Simone Cuonzo (Sapienza).</p>
+<p><strong>Software:</strong> the R package 
+<a href="https://cran.r-project.org/web/packages/countts/" target="_blank" rel="noopener">countts</a> for Thompson sampling with count outcomes.</p>
+<p><strong>Where to start:</strong> 
+<a href="https://doi.org/10.1111/insr.12583" target="_blank" rel="noopener">Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</a> (<em>International Statistical Review</em>, 2025).</p>
+</div>
       
       
-    
-    <div>
-      <h2><a href="http://example.org" target="_blank" rel="noopener">External Project</a></h2>
-      <div class="article-style">
+        <h3 style="margin-top: 1.5rem;">Publications</h3>
         
-          An example of linking directly to an external project website using `external_link`.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/project/applications/" >Internal Project</a></h2>
-      <div class="article-style">
-        
-          An example of using the in-built project page.
-        
-      </div>
-    </div>
-  
+
+
+
 
   
 
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Simone Cuonzo</span>, <span>Nina Deliu</span>
+
+  </span>
+  (2027+; Under review).
+  <a href="https://arxiv.org/abs/2512.09850" target="_blank" rel="noopener">Conformal bandits: bringing statistical validity and reward efficiency to the small-gap regime</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2512.09850" target="_blank" rel="noopener">2512.09850</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025arxiv_conformalbandits/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2512.09850" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Amy Armento Lee</span>, <span>Narayan Hegde</span>, <span>Nina Deliu</span>, <span>Emily Rosenzweig</span>, <span>Arun Suggala</span>, <span>Sriram Lakshminarasimhan</span>, <span>Qian He</span>, <span>John Hernandez</span>, <span>Martin Seneviratne</span>, <span>Rahul Singh</span>, <span>Pradnesh Kalkar</span>, <span>Karthikeyan Shanmugam</span>, <span>Aravindan Raghuveer</span>, <span>Abhimanyu Singh</span>, <span>My Nguyen</span>, <span>James Taylor</span>, <span>Jatin Alla</span>, <span>Sofia S. Villar</span>, <span>Hulya Emir-Farinas</span>
+
+  </span>
+  (2026).
+  <a href="https://doi.org/10.2196/91156" target="_blank" rel="noopener">A Personalized Exercise Assistant using Reinforcement Learning (PEARL): Results from a Large-Scale Mobile Health Randomized-Controlled Trial</a>.
+  <em>Journal of Medical Internet Research</em>.
+  
+  DOI: <a href="https://doi.org/10.2196/91156" target="_blank" rel="noopener">10.2196/91156</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026jmir_pearl/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.2196/91156" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2508.10060" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Simone Cuonzo</span>, <span>Nina Deliu</span>
+
+  </span>
+  (2026).
+  A Latent-State-Aware Framework for Non-Stationary UCB Bandits.
+  In <em>Proceedings of the Statistics and Data Science Workshop 2026, Caserta</em> (in press).
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026sds_ucb/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Joseph Jay Williams</span>, <span>Bibhas Chakraborty</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1111/insr.12583" target="_blank" rel="noopener">Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</a>.
+  <em>International Statistical Review</em>, 93(3), pp. 385–424.
+  
+  DOI: <a href="https://doi.org/10.1111/insr.12583" target="_blank" rel="noopener">10.1111/insr.12583</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024rlreview_isr/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/insr.12583" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2203.02605" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Xueqing Liu</span>, <span>Nina Deliu</span>, <span>Tanujit Chakraborty</span>, <span>Lauren Bell</span>, <span>Bibhas Chakraborty</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1214/25-AOAS2030" target="_blank" rel="noopener">Thompson sampling for zero-inflated count outcomes with an application to the Drink Less mobile health study</a>.
+  <em>The Annals of Applied Statistics</em>, 19(2), pp. 1403–1425.
+  
+  DOI: <a href="https://doi.org/10.1214/25-AOAS2030" target="_blank" rel="noopener">10.1214/25-AOAS2030</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025aoas/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1214/25-AOAS2030" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2311.14359" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Bibhas Chakraborty</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1007/978-981-96-0742-6_1" target="_blank" rel="noopener">Artificial Intelligence-Based Decision Support Systems for Precision and Digital Health</a>.
+  In <em>Frontiers of Statistics and Data Science</em>. Springer, pp. 1–38.
+  
+  DOI: <a href="https://doi.org/10.1007/978-981-96-0742-6_1" target="_blank" rel="noopener">10.1007/978-981-96-0742-6_1</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024ai_bookch/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-981-96-0742-6_1" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2407.16062" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Ilya Musabirov</span>, <span>Mohi Reza</span>, <span>Haochen Song</span>, <span>Steven Moore</span>, <span>Pan Chen</span>, <span>Harsh Kumar</span>, <span>Tong Li</span>, <span>John Stamper</span>, <span>Norman Bier</span>, <span>Anna Rafferty</span>, <span>Thomas Price</span>, <span>Nina Deliu</span>, <span>Audrey Durand</span>, <span>Michael Liut</span>, <span>Joseph J Williams</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1145/3706468.3706471" target="_blank" rel="noopener">Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge</a>.
+  In <em>Proceedings of the 15th International Conference on Learning Analytics &amp; Knowledge (LAK25)</em>. ACM, pp. 13–23.
+  
+  DOI: <a href="https://doi.org/10.1145/3706468.3706471" target="_blank" rel="noopener">10.1145/3706468.3706471</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025lak25/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3706468.3706471" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=_PrBCaOE4QE" target="_blank" rel="noopener">
+    
+    Video
+  </a>
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>
+
+  </span>
+  (2024).
+  <a href="https://doi.org/10.1007/s10260-023-00732-y" target="_blank" rel="noopener">Multinomial Thompson sampling for rating scales and prior considerations for calibrating uncertainty</a>.
+  <em>Statistical Methods &amp; Applications</em>, 33(2), pp. 439–469.
+  
+  DOI: <a href="https://doi.org/10.1007/s10260-023-00732-y" target="_blank" rel="noopener">10.1007/s10260-023-00732-y</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2023smap/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s10260-023-00732-y" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>
+
+  </span>
+  (2024).
+  <a href="https://doi.org/10.1007/s11135-023-01755-z" target="_blank" rel="noopener">Reinforcement learning for sequential decision making in population research</a>.
+  <em>Quality &amp; Quantity</em>, 58, pp. 5057–5080.
+  
+  DOI: <a href="https://doi.org/10.1007/s11135-023-01755-z" target="_blank" rel="noopener">10.1007/s11135-023-01755-z</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2023rldemography_ququ/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s11135-023-01755-z" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Xinru Wang</span>, <span>Nina Deliu</span>, <span>Yusuke Narita</span>, <span>Bibhas Chakraborty</span>
+
+  </span>
+  (2024).
+  <a href="https://doi.org/10.1093/biomtc/ujad004" target="_blank" rel="noopener">Incorporating participants’ welfare into sequential multiple assignment randomized trials</a>.
+  <em>Biometrics</em>, 80(1), ujad004.
+  
+  DOI: <a href="https://doi.org/10.1093/biomtc/ujad004" target="_blank" rel="noopener">10.1093/biomtc/ujad004</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024smartexam_biometrics/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/biomtc/ujad004" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2210.16255" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Ilya Musabirov</span>, <span>Mohi Reza</span>, <span>Steven Moore</span>, <span>Pan Chen</span>, <span>Harsh Kumar</span>, <span>Tong Li</span>, <span>Haochen Song</span>, <span>Jiakai Shi</span>, <span>Koby Choy</span>, <span>Thomas Price</span>, <span>John Stamper</span>, <span>Norman Bier</span>, <span>Nina Deliu</span>, <span>Sofia S Villar</span>, <span>Anna Rafferty</span>, <span>Audrey Durand</span>, <span>Joseph J Williams</span>
+
+  </span>
+  (2024).
+  Platform-based Adaptive Experimental Research in Education: Lessons Learned from Digital Learning Challenge.
+  In <em>Proceedings of the 14th International Conference on Learning Analytics &amp; Knowledge (LAK24)</em>. ACM.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024lak24/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Harsh Kumar</span>, <span>Tong Li</span>, <span>Jiakai Shi</span>, <span>Ilya Musabirov</span>, <span>Rachel Kornfield</span>, <span>Jonah Meyerhoff</span>, <span>Ananya Bhattacharjee</span>, <span>Chris Karr</span>, <span>Theresa Nguyen</span>, <span>David Mohr</span>, <span>Anna Rafferty</span>, <span>Sofia Villar</span>, <span>Nina Deliu</span>, <span>Joseph Jay Williams</span>
+
+  </span>
+  (2024).
+  <a href="https://doi.org/10.1609/aaai.v38i21.30328" target="_blank" rel="noopener">Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Mental Health</a>.
+  In <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>, 38, pp. 22906–22912.
+  
+  DOI: <a href="https://doi.org/10.1609/aaai.v38i21.30328" target="_blank" rel="noopener">10.1609/aaai.v38i21.30328</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024mha/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1609/aaai.v38i21.30328" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2310.18326" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Xueqing Liu</span>, <span>Nina Deliu</span>, <span>Bibhas Chakraborty</span>
+
+  </span>
+  (2023).
+  <a href="https://doi.org/10.2105/AJPH.2022.307150" target="_blank" rel="noopener">Microrandomized Trials: Developing Just-in-Time Adaptive Interventions for Better Public Health</a>.
+  <em>American Journal of Public Health</em>, 113(1), pp. 60–69.
+  
+  DOI: <a href="https://doi.org/10.2105/AJPH.2022.307150" target="_blank" rel="noopener">10.2105/AJPH.2022.307150</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2023amph/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.2105/AJPH.2022.307150" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=TER4kRJpCh0&amp;list=PLDjqc55aK3kyv3ssRWJ5BD-tirWbP-XnJ&amp;index=44" target="_blank" rel="noopener">
+    
+    Podcast
+  </a>
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Caroline A Figueroa</span>, <span>Nina Deliu</span>, <span>Bibhas Chakraborty</span>, <span>Arghavan Modiri</span>, <span>Jing Xu</span>, <span>Jai Aggarwal</span>, <span>Joseph Jay Williams</span>, <span>Courtney Lyles</span>, <span>Adrian Aguilera</span>
+
+  </span>
+  (2022).
+  <a href="https://doi.org/10.1093/abm/kaab028" target="_blank" rel="noopener">Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial</a>.
+  <em>Annals of Behavioral Medicine</em>, 56(2), pp. 212–218.
+  
+  DOI: <a href="https://doi.org/10.1093/abm/kaab028" target="_blank" rel="noopener">10.1093/abm/kaab028</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022diamante_abm/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/abm/kaab028" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Bibhas Chakraborty</span>
+
+  </span>
+  (2022).
+  <a href="https://doi.org/10.1007/978-3-031-01926-5_15" target="_blank" rel="noopener">Dynamic Treatment Regimes for Optimizing Healthcare</a>.
+  In <em>The Elements of Joint Learning and Optimization in Operations Management</em>. Springer, pp. 391–444.
+  
+  DOI: <a href="https://doi.org/10.1007/978-3-031-01926-5_15" target="_blank" rel="noopener">10.1007/978-3-031-01926-5_15</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022dtr_bookch/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-01926-5_15" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>
+
+  </span>
+  (2022).
+  Multinomial Thompson Sampling for adaptive experiments with rating scales.
+  In <em>Book of Short Papers SIS 2022</em>. Pearson, pp. 1065–1070.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022sis_multinomialts/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Tong Li</span>, <span>Jacob Nogas</span>, <span>Haochen Song</span>, <span>Harsh Kumar</span>, <span>Audrey Durand</span>, <span>Anna Rafferty</span>, <span>Nina Deliu</span>, <span>Sofia S. Villar</span>, <span>Joseph J. Williams</span>
+
+  </span>
+  (2022).
+  <a href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">Algorithms for Adaptive Experiments that Trade-off Statistical Analysis with Reward: Combining Uniform Random Assignment and Reward Maximization</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">2112.08507</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021arxiv_adaptivetradeoff/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Caroline A Figueroa</span>, <span>Adrian Aguilera</span>, <span>Bibhas Chakraborty</span>, <span>Arghavan Modiri</span>, <span>Jai Aggarwal</span>, <span>Nina Deliu</span>, <span>Urmimala Sarkar</span>, <span>Joseph Jay Williams</span>, <span>Courtney R Lyles</span>
+
+  </span>
+  (2021).
+  <a href="https://doi.org/10.1093/jamia/ocab001" target="_blank" rel="noopener">Adaptive learning algorithms to optimize mobile applications for behavioral health: guidelines for design decisions</a>.
+  <em>Journal of the American Medical Informatics Association</em>, 28(6), pp. 1225–1234.
+  
+  DOI: <a href="https://doi.org/10.1093/jamia/ocab001" target="_blank" rel="noopener">10.1093/jamia/ocab001</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021diamante_jamia/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/jamia/ocab001" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>
+
+  </span>
+  (2021).
+  Reinforcement Learning in Modern Biostatistics: Benefits, Challenges and New Proposals.
+  PhD Thesis, Sapienza University of Rome.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021phdthesis/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Joseph Jay Williams</span>, <span>Jacob Nogas</span>, <span>Nina Deliu</span>, <span>Hammad Shaikh</span>, <span>Sofia S. Villar</span>, <span>Audrey Durand</span>, <span>Anna Rafferty</span>
+
+  </span>
+  (2021).
+  <a href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">2103.12198</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021arxiv_banditchallenges/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+      
+    </section>
+    <hr>
+  
+    
+    <section id="conformal-uq" class="project-block">
+      <h2>📏 STATS: Uncertainty quantification, from Bayesian inference to conformal prediction</h2>
+      <div class="article-style"><p>How sure are we? I work on quantifying uncertainty in a principled way, from Bayesian inference to conformal prediction: their interplay and how to get honest coverage guarantees, highest-density regions for complex and multimodal data, and calibration testing with e-values. Recent work brings conformal ideas into sequential decision-making (conformal bandits) and into small-area estimation.</p>
+<p><strong>Applications:</strong> <em>finance</em> (volatility models, tail risk, decisions under uncertainty); <em>official statistics</em> (small-area estimation and accuracy of register-based statistics with ISTAT; disaster-induced production losses in agriculture with FAO).</p>
+<p><strong>Team:</strong> Brunero Liseo (Sapienza University of Rome); my PhD students Simone Cuonzo and Emanuele Masillo (Sapienza); Davide Carmelo Di Leonforte; colleagues at ISTAT and at the FAO Statistics Division.</p>
+<p><strong>Where to start:</strong> 
+<a href="https://doi.org/10.1098/rsta.2025.0073" target="_blank" rel="noopener">The interplay between Bayesian inference and conformal prediction</a> (<em>Philosophical Transactions of the Royal Society A</em>, 2026).</p>
+</div>
+      
+      
+        <h3 style="margin-top: 1.5rem;">Publications</h3>
+        
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Simone Cuonzo</span>, <span>Nina Deliu</span>
+
+  </span>
+  (2027+; Under review).
+  <a href="https://arxiv.org/abs/2606.18199" target="_blank" rel="noopener">Conformal Prediction Intervals with Tail-Specific Guarantees</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2606.18199" target="_blank" rel="noopener">2606.18199</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026arxiv_tailconformal/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2606.18199" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Simone Cuonzo</span>, <span>Nina Deliu</span>
+
+  </span>
+  (2027+; Under review).
+  <a href="https://arxiv.org/abs/2512.09850" target="_blank" rel="noopener">Conformal bandits: bringing statistical validity and reward efficiency to the small-gap regime</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2512.09850" target="_blank" rel="noopener">2512.09850</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025arxiv_conformalbandits/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2512.09850" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Brunero Liseo</span>
+
+  </span>
+  (2026).
+  <a href="https://doi.org/10.1098/rsta.2025.0073" target="_blank" rel="noopener">The interplay between Bayesian inference and conformal prediction</a>.
+  <em>Philosophical Transactions of the Royal Society A</em>, 384(2327), 20250073.
+  
+  DOI: <a href="https://doi.org/10.1098/rsta.2025.0073" target="_blank" rel="noopener">10.1098/rsta.2025.0073</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026philtrans_conformalbayes/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1098/rsta.2025.0073" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2510.26930" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Brunero Liseo</span>
+
+  </span>
+  (2026).
+  <a href="https://doi.org/10.1111/insr.12592" target="_blank" rel="noopener">Alternative Approaches for Estimating Highest-Density Regions</a>.
+  <em>International Statistical Review</em>, 94(1), pp. 97–120.
+  
+  DOI: <a href="https://doi.org/10.1111/insr.12592" target="_blank" rel="noopener">10.1111/insr.12592</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024irs_hdr/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/insr.12592" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2401.00245" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Brunero Liseo</span>
+
+  </span>
+  (2026).
+  Bayesian Conformal Prediction for Small-Area Estimation with Proportion Data.
+  In <em>Proceedings of the Statistics and Data Science Workshop 2026, Caserta</em> (in press).
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026sds_bayesconformalsae/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Davide Carmelo Di Leonforte</span>, <span>Nina Deliu</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1016/j.spl.2025.110515" target="_blank" rel="noopener">Dynamic testing of volatility models’ calibration using E-values</a>.
+  <em>Statistics &amp; Probability Letters</em>, 226, 110515.
+  
+  DOI: <a href="https://doi.org/10.1016/j.spl.2025.110515" target="_blank" rel="noopener">10.1016/j.spl.2025.110515</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025spl/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.spl.2025.110515" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Emanuele Masillo</span>, <span>Nina Deliu</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1007/978-3-031-95995-0_81" target="_blank" rel="noopener">Using Vine Copulas for Estimating Highest-Density Regions in Multivariate Data</a>.
+  In <em>Statistics for Innovation III, SIS 2025, Short Papers, Contributed Sessions 2</em>. Springer, pp. 488–493.
+  
+  DOI: <a href="https://doi.org/10.1007/978-3-031-95995-0_81" target="_blank" rel="noopener">10.1007/978-3-031-95995-0_81</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025sis_vinehdr/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-95995-0_81" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Brunero Liseo</span>
+
+  </span>
+  (2025).
+  Conformal methods in official statistics: perspectives and challenges.
+  In <em>The Third Workshop on Methodologies for Official Statistics</em>. ISTAT, pp. 157–173.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025istat_conformal/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>FAO</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.4060/cd7187en" target="_blank" rel="noopener">In Brief to The Impact of Disasters on Agriculture and Food Security 2025 – Digital solutions for reducing risks and impacts</a>.
+  Report. FAO, Rome.
+  
+  DOI: <a href="https://doi.org/10.4060/cd7187en" target="_blank" rel="noopener">10.4060/cd7187en</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025fao_report/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.4060/cd7187en" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Brunero Liseo</span>
+
+  </span>
+  (2023).
+  Computing Highest Density Regions with Copulae.
+  In <em>SEAS IN: Book of Short Papers SIS 2023</em>. Pearson, pp. 1235–1240.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2023sis_hdrcopulae/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#conformal-uq">
+    Uncertainty
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    </section>
+    <hr>
+  
+    
+    <section id="adaptive-trials" class="project-block">
+      <h2>💊 STATS: Inference in adaptive designs</h2>
+      <div class="article-style"><p>Adaptive designs, such as response-adaptive randomisation and bandit-driven experiments, assign more participants to the options that seem to work better. This is more ethical and often more efficient, but it changes how the data must be analysed: classical tests and estimators can become biased or lose error control. I develop tests with guaranteed error control for adaptively collected data, and study the trade-off between learning and helping participants.</p>
+<p><strong>Applications:</strong> <em>biostatistics</em> (response-adaptive clinical trials in rare diseases, such as StratosPHere 2 in pulmonary arterial hypertension); <em>education</em> (adaptive experiments in online courses).</p>
+<p><strong>Team:</strong> Sofia S. Villar and Rajenki Das (
+<a href="https://www.mrc-bsu.cam.ac.uk/" target="_blank" rel="noopener">MRC Biostatistics Unit</a>, University of Cambridge); Mark Toshner (Department of Medicine, University of Cambridge, and Royal Papworth Hospital); Joseph Jay Williams (University of Toronto), Anna Rafferty and Audrey Durand.</p>
+<p><strong>Where to start:</strong> 
+<a href="https://doi.org/10.1093/biomtc/ujaf069" target="_blank" rel="noopener">Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation</a> (<em>Biometrics</em>, 2025).</p>
+</div>
+      
+      
+        <h3 style="margin-top: 1.5rem;">Publications</h3>
+        
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Rajenki Das</span>, <span>Nina Deliu</span>, <span>Mark Toshner</span>, <span>S Sofia Villar</span>
+
+  </span>
+  (2026).
+  <a href="https://doi.org/10.1177/09622802251380625" target="_blank" rel="noopener">Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions</a>.
+  <em>Statistical Methods in Medical Research</em> (Special Issue on Response-Adaptive Randomization in Clinical Trials).
+  
+  DOI: <a href="https://doi.org/10.1177/09622802251380625" target="_blank" rel="noopener">10.1177/09622802251380625</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025smmr_rar/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1177/09622802251380625" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2410.03346" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Rowena J Jones</span>, <span>Eckart MDD De Bie</span>, <span>Nina Deliu</span>, <span>Anthony YKC Ng</span>, <span>Benjamin J Dunmore</span>, <span>Stefan Gräf</span>, <span>Christophe Guignabert</span>, <span>Marc Humbert</span>, <span>Laurent Savale</span>, <span>Ly Tu</span>, <span>et al.</span>
+
+  </span>
+  (2026).
+  <a href="https://doi.org/10.1126/scitranslmed.ads5175" target="_blank" rel="noopener">Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension</a>.
+  <em>Science Translational Medicine</em>, 18(850), eads5175.
+  
+  DOI: <a href="https://doi.org/10.1126/scitranslmed.ads5175" target="_blank" rel="noopener">10.1126/scitranslmed.ads5175</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026stm_sotatercept/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1126/scitranslmed.ads5175" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>S. Sofia Villar</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1093/biomtc/ujaf069" target="_blank" rel="noopener">Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation</a>.
+  <em>Biometrics</em>, 81(2), ujaf069.
+  
+  DOI: <a href="https://doi.org/10.1093/biomtc/ujaf069" target="_blank" rel="noopener">10.1093/biomtc/ujaf069</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025rptestbiometrics/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/biomtc/ujaf069" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2111.00137" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Rajenki Das</span>, <span>Nina Deliu</span>, <span>Mark R Toshner</span>, <span>Sofía S Villar</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1186/s13063-025-08947-y" target="_blank" rel="noopener">StratosPHere 2: statistical analysis plan for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</a>.
+  <em>Trials</em>, 26, 243.
+  
+  DOI: <a href="https://doi.org/10.1186/s13063-025-08947-y" target="_blank" rel="noopener">10.1186/s13063-025-08947-y</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025trials_stratosphere_sap/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s13063-025-08947-y" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Joseph J Williams</span>, <span>Sofia S Villar</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1007/978-3-031-64350-7_66" target="_blank" rel="noopener">Finite-sample inference in response-adaptive designs: an application to Thompson sampling</a>.
+  In <em>Methodological and Applied Statistics and Demography II, SIS 2024, Short Papers, Solicited Sessions</em>. Springer, pp. 393–398.
+  
+  DOI: <a href="https://doi.org/10.1007/978-3-031-64350-7_66" target="_blank" rel="noopener">10.1007/978-3-031-64350-7_66</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025sis_finitesample/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-64350-7_66" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Xinru Wang</span>, <span>Nina Deliu</span>, <span>Yusuke Narita</span>, <span>Bibhas Chakraborty</span>
+
+  </span>
+  (2024).
+  <a href="https://doi.org/10.1093/biomtc/ujad004" target="_blank" rel="noopener">Incorporating participants’ welfare into sequential multiple assignment randomized trials</a>.
+  <em>Biometrics</em>, 80(1), ujad004.
+  
+  DOI: <a href="https://doi.org/10.1093/biomtc/ujad004" target="_blank" rel="noopener">10.1093/biomtc/ujad004</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024smartexam_biometrics/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/biomtc/ujad004" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2210.16255" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Rajenki Das</span>, <span>Angelique May</span>, <span>Joseph Newman</span>, <span>Jo Steele</span>, <span>Melissa Duckworth</span>, <span>Rowena J Jones</span>, <span>Martin R Wilkins</span>, <span>Mark Toshner</span>, <span>Sofia S Villar</span>
+
+  </span>
+  (2024).
+  <a href="https://doi.org/10.1186/s13063-024-08485-z" target="_blank" rel="noopener">StratosPHere 2: study protocol for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</a>.
+  <em>Trials</em>, 25, 680.
+  
+  DOI: <a href="https://doi.org/10.1186/s13063-024-08485-z" target="_blank" rel="noopener">10.1186/s13063-024-08485-z</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024trials_stratosphere_protocol/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s13063-024-08485-z" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Isabel Chien</span>, <span>Nina Deliu</span>, <span>Richard Turner</span>, <span>Adrian Weller</span>, <span>Sofia Villar</span>, <span>Niki Kilbertus</span>
+
+  </span>
+  (2022).
+  <a href="https://doi.org/10.1145/3531146.3533154" target="_blank" rel="noopener">Multi-disciplinary fairness considerations in machine learning for clinical trials</a>.
+  In <em>Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT &lsquo;22)</em>. ACM, pp. 906–924.
+  
+  DOI: <a href="https://doi.org/10.1145/3531146.3533154" target="_blank" rel="noopener">10.1145/3531146.3533154</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022fairness_facct/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3531146.3533154" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2205.08875" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Tong Li</span>, <span>Jacob Nogas</span>, <span>Haochen Song</span>, <span>Harsh Kumar</span>, <span>Audrey Durand</span>, <span>Anna Rafferty</span>, <span>Nina Deliu</span>, <span>Sofia S. Villar</span>, <span>Joseph J. Williams</span>
+
+  </span>
+  (2022).
+  <a href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">Algorithms for Adaptive Experiments that Trade-off Statistical Analysis with Reward: Combining Uniform Random Assignment and Reward Maximization</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">2112.08507</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021arxiv_adaptivetradeoff/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Joseph Jay Williams</span>, <span>Jacob Nogas</span>, <span>Nina Deliu</span>, <span>Hammad Shaikh</span>, <span>Sofia S. Villar</span>, <span>Audrey Durand</span>, <span>Anna Rafferty</span>
+
+  </span>
+  (2021).
+  <a href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">2103.12198</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021arxiv_banditchallenges/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+      
+    </section>
+    <hr>
+  
+    
+    <section id="digital-education" class="project-block">
+      <h2>🎓 APP: Advanced statistics in education</h2>
+      <div class="article-style"><p>Education is where many of my methods meet real data. With the 
+<a href="https://www.adexacc.org/" target="_blank" rel="noopener">Adaptive Experimentation Accelerator</a>, winner of the 2023 XPRIZE Digital Learning Challenge, we run bandit-driven adaptive experiments in real online courses; a Sapienza research grant (PI, 2025) now brings these methods into our own statistics courses. With ISTAT, I develop scalable methods to measure the accuracy of education statistics built from multisource registers. And with colleagues at Sapienza, we model students&rsquo; careers, for example to understand late graduations.</p>
+<p><strong>Team:</strong> Joseph Jay Williams (Intelligent Adaptive Interventions Lab, University of Toronto), Anna Rafferty, Audrey Durand, and colleagues at Carnegie Mellon University and North Carolina State University; Piero Demetrio Falorsi, Stefano Falorsi, Diego Chianella and Giorgio Alleva (
+<a href="https://www.istat.it/" target="_blank" rel="noopener">ISTAT</a>); Brunero Liseo, Andrea Tancredi and Edoardo Pandolfo (Sapienza).</p>
+<p><strong>Where to start:</strong> 
+<a href="https://doi.org/10.1145/3706468.3706471" target="_blank" rel="noopener">Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge</a> (<em>LAK25</em>, 2025) and 
+<a href="https://doi.org/10.1093/jrsssa/qnag107" target="_blank" rel="noopener">Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</a> (<em>JRSS-A</em>, 2026).</p>
+</div>
+      
+      
+        <h3 style="margin-top: 1.5rem;">Publications</h3>
+        
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Piero Demetrio Falorsi</span>, <span>Stefano Falorsi</span>, <span>Diego Chianella</span>, <span>Giorgio Alleva</span>
+
+  </span>
+  (2026).
+  <a href="https://doi.org/10.1093/jrsssa/qnag107" target="_blank" rel="noopener">Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</a>.
+  <em>Journal of the Royal Statistical Society: Series A</em>.
+  
+  DOI: <a href="https://doi.org/10.1093/jrsssa/qnag107" target="_blank" rel="noopener">10.1093/jrsssa/qnag107</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026jrssa_registers/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/jrsssa/qnag107" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2502.10182" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Edoardo Pandolfo</span>, <span>Nina Deliu</span>, <span>Brunero Liseo</span>, <span>Andrea Tancredi</span>
+
+  </span>
+  (2026).
+  <a href="https://doi.org/10.1007/978-3-032-30665-4_32" target="_blank" rel="noopener">Modeling Late Graduations: An Hidden Markov Model Approach</a>.
+  In <em>Statistical Science: From Theory to Applied Research IV</em>. Springer, pp. 194–199.
+  
+  DOI: <a href="https://doi.org/10.1007/978-3-032-30665-4_32" target="_blank" rel="noopener">10.1007/978-3-032-30665-4_32</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026sds_hmm/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-032-30665-4_32" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Ilya Musabirov</span>, <span>Mohi Reza</span>, <span>Haochen Song</span>, <span>Steven Moore</span>, <span>Pan Chen</span>, <span>Harsh Kumar</span>, <span>Tong Li</span>, <span>John Stamper</span>, <span>Norman Bier</span>, <span>Anna Rafferty</span>, <span>Thomas Price</span>, <span>Nina Deliu</span>, <span>Audrey Durand</span>, <span>Michael Liut</span>, <span>Joseph J Williams</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1145/3706468.3706471" target="_blank" rel="noopener">Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge</a>.
+  In <em>Proceedings of the 15th International Conference on Learning Analytics &amp; Knowledge (LAK25)</em>. ACM, pp. 13–23.
+  
+  DOI: <a href="https://doi.org/10.1145/3706468.3706471" target="_blank" rel="noopener">10.1145/3706468.3706471</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025lak25/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3706468.3706471" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=_PrBCaOE4QE" target="_blank" rel="noopener">
+    
+    Video
+  </a>
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Piero Demetrio Falorsi</span>, <span>Stefano Falorsi</span>, <span>Diego Chianella</span>, <span>Giorgio Alleva</span>, <span>Romina Filippini</span>, <span>Simona Toti</span>
+
+  </span>
+  (2025).
+  Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register.
+  In <em>The Third Workshop on Methodologies for Official Statistics</em>. ISTAT, pp. 55–64.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2025istat_linearisation/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>
+
+  </span>
+  (2024).
+  <a href="https://doi.org/10.1007/s10260-023-00732-y" target="_blank" rel="noopener">Multinomial Thompson sampling for rating scales and prior considerations for calibrating uncertainty</a>.
+  <em>Statistical Methods &amp; Applications</em>, 33(2), pp. 439–469.
+  
+  DOI: <a href="https://doi.org/10.1007/s10260-023-00732-y" target="_blank" rel="noopener">10.1007/s10260-023-00732-y</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2023smap/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s10260-023-00732-y" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Ilya Musabirov</span>, <span>Mohi Reza</span>, <span>Steven Moore</span>, <span>Pan Chen</span>, <span>Harsh Kumar</span>, <span>Tong Li</span>, <span>Haochen Song</span>, <span>Jiakai Shi</span>, <span>Koby Choy</span>, <span>Thomas Price</span>, <span>John Stamper</span>, <span>Norman Bier</span>, <span>Nina Deliu</span>, <span>Sofia S Villar</span>, <span>Anna Rafferty</span>, <span>Audrey Durand</span>, <span>Joseph J Williams</span>
+
+  </span>
+  (2024).
+  Platform-based Adaptive Experimental Research in Education: Lessons Learned from Digital Learning Challenge.
+  In <em>Proceedings of the 14th International Conference on Learning Analytics &amp; Knowledge (LAK24)</em>. ACM.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024lak24/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Ananya Bhattacharjee</span>, <span>Haochen Song</span>, <span>Xuening Wu</span>, <span>Justice Tomlinson</span>, <span>Mohi Reza</span>, <span>Akmar Ehsan Chowdhury</span>, <span>Nina Deliu</span>, <span>Thomas W. Price</span>, <span>Joseph Jay Williams</span>
+
+  </span>
+  (2023).
+  <a href="https://doi.org/10.1609/hcomp.v11i1.27544" target="_blank" rel="noopener">Informing Users about Data Imputation: Exploring the Design Space for Dealing With Non-Responses</a>.
+  In <em>Proceedings of the 11th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2023)</em>, 11, pp. 14–26.
+  
+  DOI: <a href="https://doi.org/10.1609/hcomp.v11i1.27544" target="_blank" rel="noopener">10.1609/hcomp.v11i1.27544</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2023missing_hcomp/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1609/hcomp.v11i1.27544" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>
+
+  </span>
+  (2023).
+  Multiculturality and Interculturality: A Qualitative Analysis of the Perspective of Focus Group Participants.
+  In <em>Education in Multiculturality, Education to Interculturality</em>. Urbaniana University Press, pp. 113–158.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2023multiculturality_urbaniana/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>
+
+  </span>
+  (2022).
+  Multinomial Thompson Sampling for adaptive experiments with rating scales.
+  In <em>Book of Short Papers SIS 2022</em>. Pearson, pp. 1065–1070.
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022sis_multinomialts/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Tong Li</span>, <span>Jacob Nogas</span>, <span>Haochen Song</span>, <span>Harsh Kumar</span>, <span>Audrey Durand</span>, <span>Anna Rafferty</span>, <span>Nina Deliu</span>, <span>Sofia S. Villar</span>, <span>Joseph J. Williams</span>
+
+  </span>
+  (2022).
+  <a href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">Algorithms for Adaptive Experiments that Trade-off Statistical Analysis with Reward: Combining Uniform Random Assignment and Reward Maximization</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">2112.08507</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021arxiv_adaptivetradeoff/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2112.08507" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Joseph Jay Williams</span>, <span>Jacob Nogas</span>, <span>Nina Deliu</span>, <span>Hammad Shaikh</span>, <span>Sofia S. Villar</span>, <span>Audrey Durand</span>, <span>Anna Rafferty</span>
+
+  </span>
+  (2021).
+  <a href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</a>.
+  <em>arXiv preprint</em>.
+  
+  arXiv: <a href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">2103.12198</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021arxiv_banditchallenges/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#rl-interventions">
+    RL &amp; bandits
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#adaptive-trials">
+    Adaptive inference
+  </a>
+  
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#digital-education">
+    Education
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.12198" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+      
+    </section>
+    <hr>
+  
+    
+    <section id="doping-detection" class="project-block">
+      <h2>🧪 APP: Advanced Bayesian statistics for doping detection</h2>
+      <div class="article-style"><p>Athletes&rsquo; biological passports are long, multivariate records of blood and urine markers. We build Bayesian copula-based models that look at these markers jointly over time, to flag suspicious profiles more reliably than one-marker-at-a-time tests.</p>
+<p><strong>Funding:</strong> World Anti-Doping Agency, WADA Research Grant (Co-PI; PI: Brunero Liseo); Sapienza research grant (PI).</p>
+<p><strong>Team:</strong> Brunero Liseo (Sapienza); my PhD students Emanuele Masillo and Eva Pigi Vyltanioti; Dimitris Karlis (Athens University of Economics and Business); NADO Italia and the World Anti-Doping Agency.</p>
+<p><strong>Where to start:</strong> 
+<a href="https://doi.org/10.1007/s00180-024-01579-x" target="_blank" rel="noopener">A Copula-based Bayesian Framework for Doping Detection</a> (<em>Computational Statistics</em>, 2025).</p>
+</div>
+      
+      
+        <h3 style="margin-top: 1.5rem;">Publications</h3>
+        
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Emanuele Masillo</span>, <span>Eva Pigi Vyltanioti</span>, <span>Nina Deliu</span>, <span>Brunero Liseo</span>
+
+  </span>
+  (2027+; Under review).
+  Bayesian Computation of Copula-based Multivariate Models with an Application to Doping Detection.
+  
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026masillo_copulacomputation/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#doping-detection">
+    Doping
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Eva Pigi Vyltanioti</span>, <span>Emanuele Masillo</span>, <span>Nina Deliu</span>, <span>Dimitris Karlis</span>
+
+  </span>
+  (2026).
+  Computational Approaches for Bayesian Inference in Copula-Based Hierarchical Models: An Application to Doping Detection.
+  In <em>Proceedings of the Statistics and Data Science Workshop 2026, Caserta</em> (in press).
+  
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2026sds_copuladoping/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#doping-detection">
+    Doping
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+
+
+
+
+  
+
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span>Nina Deliu</span>, <span>Brunero Liseo</span>
+
+  </span>
+  (2025).
+  <a href="https://doi.org/10.1007/s00180-024-01579-x" target="_blank" rel="noopener">A Copula-based Bayesian Framework for Doping Detection</a>.
+  <em>Computational Statistics</em>, 40(4), pp. 1873–1898.
+  
+  DOI: <a href="https://doi.org/10.1007/s00180-024-01579-x" target="_blank" rel="noopener">10.1007/s00180-024-01579-x</a>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2024compstat/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/#doping-detection">
+    Doping
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s00180-024-01579-x" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2404.12499" target="_blank" rel="noopener">
+  arXiv
+</a>
+
+
+</p>
+</div>
+
+      
+    </section>
+    <hr>
+  
+  <div class="article-style project-block"><p style="font-size:0.9rem;">Interested in a PhD or a research visit on one of these topics? Get in touch at <strong>nina.deliu [at] uniroma1 [dot] it</strong> with a short CV and the project that interests you.</p>
+<p style="display:inline-block; padding:0.6rem 0.9rem; border-left:3px solid #c62828; background:rgba(198,40,40,0.08);">👶 <strong>Heads-up:</strong> I am on maternity leave until late February 2027, so replies may be slower than usual.</p>
+</div>
 </div>
 
       
