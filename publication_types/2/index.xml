@@ -5,12 +5,68 @@
     <link>https://nina-dl.github.io/publication_types/2/</link>
       <atom:link href="https://nina-dl.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>2</title>
       <link>https://nina-dl.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions</title>
+      <link>https://nina-dl.github.io/publication/2025smmr_rar/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025smmr_rar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension</title>
+      <link>https://nina-dl.github.io/publication/2026stm_sotatercept/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026stm_sotatercept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Personalized Exercise Assistant using Reinforcement Learning (PEARL): Results from a Large-Scale Mobile Health Randomized-Controlled Trial</title>
+      <link>https://nina-dl.github.io/publication/2026jmir_pearl/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jmir_pearl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</title>
+      <link>https://nina-dl.github.io/publication/2026jrssa_registers/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jrssa_registers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
+      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interplay between Bayesian inference and conformal prediction</title>
+      <link>https://nina-dl.github.io/publication/2026philtrans_conformalbayes/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026philtrans_conformalbayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
+      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic testing of volatility models’ calibration using E-values</title>
@@ -21,7 +77,15 @@
     </item>
     
     <item>
-      <title>On the finite-sample and asymptotic error control of a randomization-probability test for response-adaptive clinical trials</title>
+      <title>StratosPHere 2: statistical analysis plan for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation</title>
       <link>https://nina-dl.github.io/publication/2025rptestbiometrics/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025rptestbiometrics/</guid>
@@ -29,7 +93,7 @@
     </item>
     
     <item>
-      <title>Thompson Sampling for Zero-Inflated Count Outcomes With an Application to the Drink Less Mobile Health Study</title>
+      <title>Thompson sampling for zero-inflated count outcomes with an application to the Drink Less mobile health study</title>
       <link>https://nina-dl.github.io/publication/2025aoas/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025aoas/</guid>
@@ -37,31 +101,31 @@
     </item>
     
     <item>
-      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
-      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A copula-based Bayesian framework for doping detection</title>
+      <title>A Copula-based Bayesian Framework for Doping Detection</title>
       <link>https://nina-dl.github.io/publication/2024compstat/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024compstat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
-      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
+      <title>StratosPHere 2: study protocol for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Incorporating Participants&#39; Welfare into Sequential Multiple Assignment Randomized Trials</title>
+      <title>Reinforcement learning for sequential decision making in population research</title>
+      <link>https://nina-dl.github.io/publication/2023rldemography_ququ/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2023rldemography_ququ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating participants’ welfare into sequential multiple assignment randomized trials</title>
       <link>https://nina-dl.github.io/publication/2024smartexam_biometrics/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024smartexam_biometrics/</guid>
@@ -73,14 +137,6 @@
       <link>https://nina-dl.github.io/publication/2023smap/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2023smap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement learning for sequential decision making in population research</title>
-      <link>https://nina-dl.github.io/publication/2023rldemography_ququ/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2023rldemography_ququ/</guid>
       <description></description>
     </item>
     
@@ -110,6 +166,38 @@
       <link>https://nina-dl.github.io/publication/2021diamante_jamia/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2021diamante_jamia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling strategies to improve parameter estimates in prognostic factors analyses with patient-reported outcomes in oncology</title>
+      <link>https://nina-dl.github.io/publication/2019qlr_pros/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2019qlr_pros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinician-reported symptomatic adverse events in cancer trials: are they concordant with patient-reported outcomes?</title>
+      <link>https://nina-dl.github.io/publication/2019jcer_aes/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2019jcer_aes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution- and anchor-based methods to determine the minimally important difference on patient-reported outcome questionnaires in oncology: a structured review</title>
+      <link>https://nina-dl.github.io/publication/2018hqlo_mid/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018hqlo_mid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating methodological quality of Prognostic models Including Patient-reported HeAlth outcomes iN oncologY (EPIPHANY): a systematic review protocol</title>
+      <link>https://nina-dl.github.io/publication/2018bmjopen_epiphany/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018bmjopen_epiphany/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://nina-dl.github.io/authors/mark-toshner/</link>
       <atom:link href="https://nina-dl.github.io/authors/mark-toshner/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Toshner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Mark Toshner</title>
       <link>https://nina-dl.github.io/authors/mark-toshner/</link>
     </image>
+    
+    <item>
+      <title>Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions</title>
+      <link>https://nina-dl.github.io/publication/2025smmr_rar/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025smmr_rar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StratosPHere 2: study protocol for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing patient outcomes and statistical efficiency in rare-disease phase-II trials. The StratosPHere 2 study (Invited Talk @ Italian Bayesian Day 2023)</title>

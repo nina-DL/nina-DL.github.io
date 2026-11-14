@@ -28,13 +28,458 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/publication_types/2/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/publication_types/3/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nina-dl.github.io/authors/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/conformal-prediction/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026arxiv_tailconformal/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/nina-deliu/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication_types/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/simone-cuonzo/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/uncertainty/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/uncertainty-quantification/</loc>
+    <lastmod>2027-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025arxiv_conformalbandits/</loc>
+    <lastmod>2027-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/multi-armed-bandits/</loc>
+    <lastmod>2027-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026masillo_copulacomputation/</loc>
+    <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/bayesian-inference/</loc>
+    <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/brunero-liseo/</loc>
+    <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/copula-models/</loc>
+    <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/doping-detection/</loc>
+    <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/emanuele-masillo/</loc>
+    <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/eva-pigi-vyltanioti/</loc>
+    <lastmod>2027-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication_types/1/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026sds_ucb/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/andrea-tancredi/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026sds_copuladoping/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/dimitris-karlis/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/edoardo-pandolfo/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/hidden-markov-models/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/higher-education/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026sds_hmm/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/small-area-estimation/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication_types/2/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/clinical-trials/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025smmr_rar/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/mark-toshner/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/rajenki-das/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/rare-disease/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/rare-diseases/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/response-adaptive-design/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/response-adaptive-designs/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/s-sofia-villar/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/trial-design/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/anthony-ykc-ng/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/benjamin-j-dunmore/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/biostatistics/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/christophe-guignabert/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/eckart-mdd-de-bie/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/et-al./</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/laurent-savale/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/ly-tu/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/marc-humbert/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/pulmonary-arterial-hypertension/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/rowena-j-jones/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026stm_sotatercept/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/stefan-graf/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026jmir_pearl/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/abhimanyu-singh/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/amy-armento-lee/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/aravindan-raghuveer/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/arun-suggala/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/emily-rosenzweig/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/hulya-emir-farinas/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/james-taylor/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/jatin-alla/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/john-hernandez/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/karthikeyan-shanmugam/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/martin-seneviratne/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/mobile-health/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/my-nguyen/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/narayan-hegde/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/pradnesh-kalkar/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/qian-he/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/rahul-singh/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/sofia-s.-villar/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/sriram-lakshminarasimhan/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/diego-chianella/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/giorgio-alleva/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/official-statistics/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/piero-demetrio-falorsi/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026jrssa_registers/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/statistical-registers/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/stefano-falorsi/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2024irs_hdr/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/highest-density-regions/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2026philtrans_conformalbayes/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/bibhas-chakraborty/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/dynamic-treatment-regimes/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/joseph-jay-williams/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/just-in-time-adaptive-interventions/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2024rlreview_isr/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,27 +503,7 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/nina-deliu/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/tags/probabilistic-forecasts/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication_types/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,8 +518,38 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/multi-armed-bandits/</loc>
-    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/publication_types/4/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/agriculture/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/fao/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025fao_report/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/mark-r-toshner/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/sofia-s-villar/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,17 +558,7 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/response-adaptive-design/</loc>
-    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/response-adaptive-designs/</loc>
-    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/sofia-s-villar/</loc>
+    <loc>https://nina-dl.github.io/authors/s.-sofia-villar/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,22 +568,7 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/bibhas-chakraborty/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/just-in-time-adaptive-interventions/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/authors/lauren-bell/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/mobile-health/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,6 +579,11 @@
   
   <url>
     <loc>https://nina-dl.github.io/publication/2025aoas/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025sis_vinehdr/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,18 +608,123 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/dynamic-treatment-regimes/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/tags/precision-health/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/publication/2024compstat/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/adaptive-experiments/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/anna-rafferty/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/audrey-durand/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/digital-education/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/haochen-song/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/harsh-kumar/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/ilya-musabirov/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/john-stamper/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/joseph-j-williams/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/michael-liut/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/mohi-reza/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/norman-bier/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/pan-chen/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025lak25/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/steven-moore/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/thomas-price/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/tong-li/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025istat_conformal/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025sis_finitesample/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2025istat_linearisation/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/romina-filippini/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/simona-toti/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -203,43 +743,53 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/biostatistics/</loc>
-    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/authors/angelique-may/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/joseph-jay-williams/</loc>
-    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/authors/jo-steele/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/publication/2024rlreview_isr/</loc>
-    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/authors/joseph-newman/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/publication/2024compstat/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/authors/martin-r-wilkins/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/bayesian-inference/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/authors/melissa-duckworth/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/brunero-liseo/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/copula-models/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/tags/migration-policies/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/doping-detection/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/tags/population-policies/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/population-studies/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2023rldemography_ququ/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -263,11 +813,6 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/highest-density-regions/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/tags/posterior-predictive-density/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url>
@@ -275,21 +820,6 @@
   <url>
     <loc>https://nina-dl.github.io/tags/reference-ranges/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication/2024irs_hdr/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/uncertainty/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/uncertainty-quantification/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -338,11 +868,6 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/joseph-j-williams/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/authors/sofia-villar/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url>
@@ -373,6 +898,21 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/authors/jiakai-shi/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/koby-choy/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2024lak24/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/talk/2024_rar/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url>
@@ -398,11 +938,6 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/trial-design/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/authors/xinru-wang/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url>
@@ -413,22 +948,7 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/publication_types/1/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/adaptive-experiments/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/authors/ananya-bhattacharjee/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/anna-rafferty/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -439,21 +959,6 @@
   
   <url>
     <loc>https://nina-dl.github.io/authors/david-mohr/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/harsh-kumar/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/ilya-musabirov/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/jiakai-shi/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -474,11 +979,6 @@
   
   <url>
     <loc>https://nina-dl.github.io/authors/theresa-nguyen/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/tong-li/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -533,11 +1033,6 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/haochen-song/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/tags/human-computer-interaction/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url>
@@ -553,38 +1048,13 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/mohi-reza/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/thomas-price/</loc>
+    <loc>https://nina-dl.github.io/authors/thomas-w.-price/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nina-dl.github.io/authors/xuening-wu/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/migration-policies/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/population-policies/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/population-studies/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/publication/2023rldemography_ququ/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -604,21 +1074,6 @@
   
   <url>
     <loc>https://nina-dl.github.io/talk/2023_bayesianday/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/mark-toshner/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/pulmonary-arterial-hypertension/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/rare-disease/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -673,38 +1128,13 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/diego-chianella/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/giorgio-alleva/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/piero-demetrio-falorsi/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/tags/register-data/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/authors/romina-filippini/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/simona-toti/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/stefano-falorsi/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+    <loc>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -719,11 +1149,6 @@
   
   <url>
     <loc>https://nina-dl.github.io/talk/2023_icnasta/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/tags/digital-education/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -783,11 +1208,6 @@
   </url>
   
   <url>
-    <loc>https://nina-dl.github.io/tags/clinical-trials/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nina-dl.github.io/authors/isabel-chien/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -803,6 +1223,11 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/publication/2022sis_multinomialts/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/authors/niki-kilbertus/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -810,11 +1235,6 @@
   <url>
     <loc>https://nina-dl.github.io/authors/richard-turner/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nina-dl.github.io/authors/admin/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -853,6 +1273,21 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/publication/2021arxiv_adaptivetradeoff/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/jacob-nogas/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/joseph-j.-williams/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/talk/2021_armitage/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url>
@@ -875,6 +1310,26 @@
   <url>
     <loc>https://nina-dl.github.io/authors/urmimala-sarkar/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2021arxiv_banditchallenges/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/hammad-shaikh/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication_types/7/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2021phdthesis/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -915,6 +1370,91 @@
   <url>
     <loc>https://nina-dl.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/amelie-anota/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/david-cella/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/fabio-efficace/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/francesco-cottone/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/franck-bonnetain/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/gary-s.-collins/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/kristel-van-steen/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2019qlr_pros/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/oncology/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/patient-reported-outcomes/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/tags/prognostic-models/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/alfonso-piciocchi/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2019jcer_aes/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/edoardo-la-sala/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/francesco-sparano/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/jacobien-m-kieffer/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/neil-k-aaronson/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1003,6 +1543,36 @@
   </url>
   
   <url>
+    <loc>https://nina-dl.github.io/authors/ahmad-ousmen/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/anne-bredart/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/caroline-mollevi/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/celia-touraine/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2018hqlo_mid/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2018bmjopen_epiphany/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nina-dl.github.io/categories/data-import/</loc>
     <lastmod>2018-07-08T00:00:00+00:00</lastmod>
   </url>
@@ -1020,6 +1590,16 @@
   <url>
     <loc>https://nina-dl.github.io/categories/readxl/</loc>
     <lastmod>2018-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/publication/2018sis_deeplearning/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/pierpaolo-brutti/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1065,6 +1645,10 @@
   <url>
     <loc>https://nina-dl.github.io/project/applications/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nina-dl.github.io/authors/admin/</loc>
   </url>
   
 </urlset>

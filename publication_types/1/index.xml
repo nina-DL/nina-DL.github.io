@@ -5,12 +5,92 @@
     <link>https://nina-dl.github.io/publication_types/1/</link>
       <atom:link href="https://nina-dl.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>1</title>
       <link>https://nina-dl.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>A Latent-State-Aware Framework for Non-Stationary UCB Bandits</title>
+      <link>https://nina-dl.github.io/publication/2026sds_ucb/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_ucb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Conformal Prediction for Small-Area Estimation with Proportion Data</title>
+      <link>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Approaches for Bayesian Inference in Copula-Based Hierarchical Models: An Application to Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2026sds_copuladoping/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_copuladoping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling long-term graduation students: a hidden Markov model approach</title>
+      <link>https://nina-dl.github.io/publication/2026sds_hmm/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_hmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Vine Copulas for Estimating Highest-Density Regions in Multivariate Data</title>
+      <link>https://nina-dl.github.io/publication/2025sis_vinehdr/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_vinehdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge</title>
+      <link>https://nina-dl.github.io/publication/2025lak25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025lak25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal methods in official statistics: perspectives and challenges</title>
+      <link>https://nina-dl.github.io/publication/2025istat_conformal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample inference in response-adaptive designs: an application to Thompson sampling</title>
+      <link>https://nina-dl.github.io/publication/2025sis_finitesample/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_finitesample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register</title>
+      <link>https://nina-dl.github.io/publication/2025istat_linearisation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_linearisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platform-based Adaptive Experimental Research in Education: Lessons Learned from Digital Learning Challenge</title>
+      <link>https://nina-dl.github.io/publication/2024lak24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024lak24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Mental Health</title>
@@ -21,10 +101,18 @@
     </item>
     
     <item>
-      <title>Informing Users about Data Imputation. Exploring the Design Space for Dealing With Non-Responses</title>
+      <title>Informing Users about Data Imputation: Exploring the Design Space for Dealing With Non-Responses</title>
       <link>https://nina-dl.github.io/publication/2023missing_hcomp/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2023missing_hcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</guid>
       <description></description>
     </item>
     
@@ -39,6 +127,22 @@
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Multinomial Thompson Sampling for adaptive experiments with rating scales</title>
+      <link>https://nina-dl.github.io/publication/2022sis_multinomialts/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2022sis_multinomialts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning to the Test: an Application to Traffic Data Streams</title>
+      <link>https://nina-dl.github.io/publication/2018sis_deeplearning/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018sis_deeplearning/</guid>
+      <description></description>
     </item>
     
   </channel>

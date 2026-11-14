@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small-area estimation | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/small-area-estimation/</link>
+      <atom:link href="https://nina-dl.github.io/tags/small-area-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Small-area estimation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Small-area estimation</title>
+      <link>https://nina-dl.github.io/tags/small-area-estimation/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Conformal Prediction for Small-Area Estimation with Proportion Data</title>
+      <link>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

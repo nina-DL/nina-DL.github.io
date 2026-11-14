@@ -5,12 +5,28 @@
     <link>https://nina-dl.github.io/authors/piero-demetrio-falorsi/</link>
       <atom:link href="https://nina-dl.github.io/authors/piero-demetrio-falorsi/index.xml" rel="self" type="application/rss+xml" />
     <description>Piero Demetrio Falorsi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Piero Demetrio Falorsi</title>
       <link>https://nina-dl.github.io/authors/piero-demetrio-falorsi/</link>
     </image>
+    
+    <item>
+      <title>Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</title>
+      <link>https://nina-dl.github.io/publication/2026jrssa_registers/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jrssa_registers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register</title>
+      <link>https://nina-dl.github.io/publication/2025istat_linearisation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_linearisation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023)</title>

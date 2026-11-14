@@ -77,6 +77,118 @@
     </item>
     
     <item>
+      <title>Conformal Prediction Intervals with Tail-Specific Guarantees</title>
+      <link>https://nina-dl.github.io/publication/2026arxiv_tailconformal/</link>
+      <pubDate>Thu, 01 Apr 2027 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026arxiv_tailconformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal bandits: bringing statistical validity and reward efficiency to the small-gap regime</title>
+      <link>https://nina-dl.github.io/publication/2025arxiv_conformalbandits/</link>
+      <pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025arxiv_conformalbandits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Computation of Copula-based Multivariate Models with an Application to Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2026masillo_copulacomputation/</link>
+      <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026masillo_copulacomputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Latent-State-Aware Framework for Non-Stationary UCB Bandits</title>
+      <link>https://nina-dl.github.io/publication/2026sds_ucb/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_ucb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Conformal Prediction for Small-Area Estimation with Proportion Data</title>
+      <link>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Approaches for Bayesian Inference in Copula-Based Hierarchical Models: An Application to Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2026sds_copuladoping/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_copuladoping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling long-term graduation students: a hidden Markov model approach</title>
+      <link>https://nina-dl.github.io/publication/2026sds_hmm/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_hmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions</title>
+      <link>https://nina-dl.github.io/publication/2025smmr_rar/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025smmr_rar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension</title>
+      <link>https://nina-dl.github.io/publication/2026stm_sotatercept/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026stm_sotatercept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Personalized Exercise Assistant using Reinforcement Learning (PEARL): Results from a Large-Scale Mobile Health Randomized-Controlled Trial</title>
+      <link>https://nina-dl.github.io/publication/2026jmir_pearl/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jmir_pearl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</title>
+      <link>https://nina-dl.github.io/publication/2026jrssa_registers/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jrssa_registers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
+      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interplay between Bayesian inference and conformal prediction</title>
+      <link>https://nina-dl.github.io/publication/2026philtrans_conformalbayes/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026philtrans_conformalbayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
+      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic testing of volatility models’ calibration using E-values</title>
       <link>https://nina-dl.github.io/publication/2025spl/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
@@ -85,7 +197,23 @@
     </item>
     
     <item>
-      <title>On the finite-sample and asymptotic error control of a randomization-probability test for response-adaptive clinical trials</title>
+      <title>In Brief to The Impact of Disasters on Agriculture and Food Security 2025 – Digital solutions for reducing risks and impacts</title>
+      <link>https://nina-dl.github.io/publication/2025fao_report/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025fao_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StratosPHere 2: statistical analysis plan for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation</title>
       <link>https://nina-dl.github.io/publication/2025rptestbiometrics/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025rptestbiometrics/</guid>
@@ -93,7 +221,7 @@
     </item>
     
     <item>
-      <title>Thompson Sampling for Zero-Inflated Count Outcomes With an Application to the Drink Less Mobile Health Study</title>
+      <title>Thompson sampling for zero-inflated count outcomes with an application to the Drink Less mobile health study</title>
       <link>https://nina-dl.github.io/publication/2025aoas/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025aoas/</guid>
@@ -101,10 +229,58 @@
     </item>
     
     <item>
-      <title>Artificial Intelligence-based Decision Support Systems for Precision and Digital Health</title>
+      <title>Using Vine Copulas for Estimating Highest-Density Regions in Multivariate Data</title>
+      <link>https://nina-dl.github.io/publication/2025sis_vinehdr/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_vinehdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence-Based Decision Support Systems for Precision and Digital Health</title>
       <link>https://nina-dl.github.io/publication/2024ai_bookch/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024ai_bookch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Copula-based Bayesian Framework for Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2024compstat/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024compstat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge</title>
+      <link>https://nina-dl.github.io/publication/2025lak25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025lak25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal methods in official statistics: perspectives and challenges</title>
+      <link>https://nina-dl.github.io/publication/2025istat_conformal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample inference in response-adaptive designs: an application to Thompson sampling</title>
+      <link>https://nina-dl.github.io/publication/2025sis_finitesample/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_finitesample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register</title>
+      <link>https://nina-dl.github.io/publication/2025istat_linearisation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_linearisation/</guid>
       <description></description>
     </item>
     
@@ -117,18 +293,18 @@
     </item>
     
     <item>
-      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
-      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
+      <title>StratosPHere 2: study protocol for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A copula-based Bayesian framework for doping detection</title>
-      <link>https://nina-dl.github.io/publication/2024compstat/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024compstat/</guid>
+      <title>Reinforcement learning for sequential decision making in population research</title>
+      <link>https://nina-dl.github.io/publication/2023rldemography_ququ/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2023rldemography_ququ/</guid>
       <description></description>
     </item>
     
@@ -137,14 +313,6 @@
       <link>https://nina-dl.github.io/talk/2024_copa/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/2024_copa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
-      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
       <description></description>
     </item>
     
@@ -197,6 +365,14 @@
     </item>
     
     <item>
+      <title>Platform-based Adaptive Experimental Research in Education: Lessons Learned from Digital Learning Challenge</title>
+      <link>https://nina-dl.github.io/publication/2024lak24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024lak24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thompson sampling for count data in mobile health trials (Invited Talk @ University of Cambridge)</title>
       <link>https://nina-dl.github.io/talk/2024_rar/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
@@ -205,7 +381,7 @@
     </item>
     
     <item>
-      <title>Incorporating Participants&#39; Welfare into Sequential Multiple Assignment Randomized Trials</title>
+      <title>Incorporating participants’ welfare into sequential multiple assignment randomized trials</title>
       <link>https://nina-dl.github.io/publication/2024smartexam_biometrics/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024smartexam_biometrics/</guid>
@@ -237,18 +413,10 @@
     </item>
     
     <item>
-      <title>Informing Users about Data Imputation. Exploring the Design Space for Dealing With Non-Responses</title>
+      <title>Informing Users about Data Imputation: Exploring the Design Space for Dealing With Non-Responses</title>
       <link>https://nina-dl.github.io/publication/2023missing_hcomp/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2023missing_hcomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement learning for sequential decision making in population research</title>
-      <link>https://nina-dl.github.io/publication/2023rldemography_ququ/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2023rldemography_ququ/</guid>
       <description></description>
     </item>
     
@@ -317,6 +485,14 @@
     </item>
     
     <item>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multinomial Thompson Sampling for Online Sequential Decision Making with Rating Scales (Invited Seminar @ Federico II di Napoli)</title>
       <link>https://nina-dl.github.io/talk/2023_napoliseminar/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
@@ -354,7 +530,7 @@
     </item>
     
     <item>
-      <title>Multiculturality and Interculturality: Qualitative Analysis of the Perspective of Focus Group Participants</title>
+      <title>Multiculturality and Interculturality: A Qualitative Analysis of the Perspective of Focus Group Participants</title>
       <link>https://nina-dl.github.io/publication/2023multiculturality_urbaniana/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2023multiculturality_urbaniana/</guid>
@@ -413,10 +589,26 @@
     </item>
     
     <item>
+      <title>Multinomial Thompson Sampling for adaptive experiments with rating scales</title>
+      <link>https://nina-dl.github.io/publication/2022sis_multinomialts/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2022sis_multinomialts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial</title>
       <link>https://nina-dl.github.io/publication/2022diamante_abm/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2022diamante_abm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for Adaptive Experiments that Trade-off Statistical Analysis with Reward: Combining Uniform Random Assignment and Reward Maximization</title>
+      <link>https://nina-dl.github.io/publication/2021arxiv_adaptivetradeoff/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021arxiv_adaptivetradeoff/</guid>
       <description></description>
     </item>
     
@@ -441,6 +633,22 @@
       <link>https://nina-dl.github.io/publication/2021diamante_jamia/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2021diamante_jamia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</title>
+      <link>https://nina-dl.github.io/publication/2021arxiv_banditchallenges/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021arxiv_banditchallenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning in Modern Biostatistics: Benefits, Challenges and New Proposals</title>
+      <link>https://nina-dl.github.io/publication/2021phdthesis/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021phdthesis/</guid>
       <description></description>
     </item>
     
@@ -1149,6 +1357,22 @@ penguin_folds %&amp;gt;%
 &lt;p&gt;That’s all for now- if you are taking my workshop in January I look forward to meeting you in person! If not, rest assured that all code and materials will be shared openly after the workshop. Until then, happy learning 🤖&lt;/p&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Modeling strategies to improve parameter estimates in prognostic factors analyses with patient-reported outcomes in oncology</title>
+      <link>https://nina-dl.github.io/publication/2019qlr_pros/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2019qlr_pros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinician-reported symptomatic adverse events in cancer trials: are they concordant with patient-reported outcomes?</title>
+      <link>https://nina-dl.github.io/publication/2019jcer_aes/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2019jcer_aes/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1866,6 +2090,22 @@ Three
     </item>
     
     <item>
+      <title>Distribution- and anchor-based methods to determine the minimally important difference on patient-reported outcome questionnaires in oncology: a structured review</title>
+      <link>https://nina-dl.github.io/publication/2018hqlo_mid/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018hqlo_mid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating methodological quality of Prognostic models Including Patient-reported HeAlth outcomes iN oncologY (EPIPHANY): a systematic review protocol</title>
+      <link>https://nina-dl.github.io/publication/2018bmjopen_epiphany/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018bmjopen_epiphany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Read Data with Multiple Header Rows into R</title>
       <link>https://nina-dl.github.io/post/2018-02-23-read-multiple-header-rows/</link>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
@@ -2187,12 +2427,20 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;a href=&#34;https://github.com/tidyverse/readr/issues/179&#34; class=&#34;uri&#34;&gt;https://github.com/tidyverse/readr/issues/179&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;My original tweet when I discovered this trick!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Neat &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/readr?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#readr&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/tidyverse?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#tidyverse&lt;/a&gt; solution to read data when 1st row is header + 2nd row is junk, thanks &lt;a href=&#34;https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw&#34;&gt;@hadleywickham&lt;/a&gt; &lt;a href=&#34;https://t.co/5TuH7vNaID&#34;&gt;https://t.co/5TuH7vNaID&lt;/a&gt; &lt;a href=&#34;https://t.co/woZ3HuECge&#34;&gt;pic.twitter.com/woZ3HuECge&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/904772340902379520?ref_src=twsrc%5Etfw&#34;&gt;September 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Neat &lt;a href=&#34;https://x.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://x.com/hashtag/readr?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#readr&lt;/a&gt; &lt;a href=&#34;https://x.com/hashtag/tidyverse?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#tidyverse&lt;/a&gt; solution to read data when 1st row is header + 2nd row is junk, thanks &lt;a href=&#34;https://x.com/hadleywickham?ref_src=twsrc%5Etfw&#34;&gt;@hadleywickham&lt;/a&gt; &lt;a href=&#34;https://t.co/5TuH7vNaID&#34;&gt;https://t.co/5TuH7vNaID&lt;/a&gt; &lt;a href=&#34;https://t.co/woZ3HuECge&#34;&gt;pic.twitter.com/woZ3HuECge&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Presmanes Hill (@apreshill) &lt;a href=&#34;https://x.com/apreshill/status/904772340902379520?ref_src=twsrc%5Etfw&#34;&gt;September 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.x.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Deep Learning to the Test: an Application to Traffic Data Streams</title>
+      <link>https://nina-dl.github.io/publication/2018sis_deeplearning/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018sis_deeplearning/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2207,8 +2455,8 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;div id=&#34;the-short-version&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;The short version&lt;/h1&gt;
 &lt;p&gt;I made an &lt;a href=&#34;https://rladies.org&#34;&gt;R-Ladies&lt;/a&gt; theme for &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt; slides&lt;/a&gt;. My original tweet about it:&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;if you want to use &lt;a href=&#34;https://twitter.com/xieyihui?ref_src=twsrc%5Etfw&#34;&gt;@xieyihui&lt;/a&gt;&amp;#39;s awesome &lt;a href=&#34;https://twitter.com/hashtag/xaringan?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#xaringan&lt;/a&gt; package for &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; slides but want more &lt;a href=&#34;https://twitter.com/hashtag/Rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rladies&lt;/a&gt; flavor, there is now a built-in theme for that (with code highlighting)! Thanks to the awesome &lt;a href=&#34;https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesGlobal&lt;/a&gt; starter kit. Update the CSS in your YAML to use  🧙🏽‍♀️🧞‍♀️ &lt;a href=&#34;https://t.co/YnlGSVAMsl&#34;&gt;pic.twitter.com/YnlGSVAMsl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/935973869554487296?ref_src=twsrc%5Etfw&#34;&gt;November 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;if you want to use &lt;a href=&#34;https://x.com/xieyihui?ref_src=twsrc%5Etfw&#34;&gt;@xieyihui&lt;/a&gt;&amp;#39;s awesome &lt;a href=&#34;https://x.com/hashtag/xaringan?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#xaringan&lt;/a&gt; package for &lt;a href=&#34;https://x.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; slides but want more &lt;a href=&#34;https://x.com/hashtag/Rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rladies&lt;/a&gt; flavor, there is now a built-in theme for that (with code highlighting)! Thanks to the awesome &lt;a href=&#34;https://x.com/RLadiesGlobal?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesGlobal&lt;/a&gt; starter kit. Update the CSS in your YAML to use  🧙🏽‍♀️🧞‍♀️ &lt;a href=&#34;https://t.co/YnlGSVAMsl&#34;&gt;pic.twitter.com/YnlGSVAMsl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Presmanes Hill (@apreshill) &lt;a href=&#34;https://x.com/apreshill/status/935973869554487296?ref_src=twsrc%5Etfw&#34;&gt;November 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.x.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;The way to use the theme is to update the YAML like so:&lt;/p&gt;

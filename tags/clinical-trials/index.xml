@@ -5,12 +5,52 @@
     <link>https://nina-dl.github.io/tags/clinical-trials/</link>
       <atom:link href="https://nina-dl.github.io/tags/clinical-trials/index.xml" rel="self" type="application/rss+xml" />
     <description>Clinical trials</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Clinical trials</title>
       <link>https://nina-dl.github.io/tags/clinical-trials/</link>
     </image>
+    
+    <item>
+      <title>Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions</title>
+      <link>https://nina-dl.github.io/publication/2025smmr_rar/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025smmr_rar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension</title>
+      <link>https://nina-dl.github.io/publication/2026stm_sotatercept/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026stm_sotatercept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Personalized Exercise Assistant using Reinforcement Learning (PEARL): Results from a Large-Scale Mobile Health Randomized-Controlled Trial</title>
+      <link>https://nina-dl.github.io/publication/2026jmir_pearl/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jmir_pearl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StratosPHere 2: statistical analysis plan for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StratosPHere 2: study protocol for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-disciplinary fairness considerations in machine learning for clinical trials</title>
@@ -23,6 +63,14 @@
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Clinician-reported symptomatic adverse events in cancer trials: are they concordant with patient-reported outcomes?</title>
+      <link>https://nina-dl.github.io/publication/2019jcer_aes/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2019jcer_aes/</guid>
+      <description></description>
     </item>
     
   </channel>

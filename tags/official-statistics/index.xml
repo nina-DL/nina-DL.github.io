@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Official statistics | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/official-statistics/</link>
+      <atom:link href="https://nina-dl.github.io/tags/official-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Official statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Official statistics</title>
+      <link>https://nina-dl.github.io/tags/official-statistics/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</title>
+      <link>https://nina-dl.github.io/publication/2026jrssa_registers/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jrssa_registers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Brief to The Impact of Disasters on Agriculture and Food Security 2025 – Digital solutions for reducing risks and impacts</title>
+      <link>https://nina-dl.github.io/publication/2025fao_report/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025fao_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal methods in official statistics: perspectives and challenges</title>
+      <link>https://nina-dl.github.io/publication/2025istat_conformal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register</title>
+      <link>https://nina-dl.github.io/publication/2025istat_linearisation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_linearisation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

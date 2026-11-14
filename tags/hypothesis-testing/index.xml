@@ -21,10 +21,26 @@
     </item>
     
     <item>
-      <title>On the finite-sample and asymptotic error control of a randomization-probability test for response-adaptive clinical trials</title>
+      <title>Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation</title>
       <link>https://nina-dl.github.io/publication/2025rptestbiometrics/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025rptestbiometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample inference in response-adaptive designs: an application to Thompson sampling</title>
+      <link>https://nina-dl.github.io/publication/2025sis_finitesample/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_finitesample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</title>
+      <link>https://nina-dl.github.io/publication/2021arxiv_banditchallenges/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021arxiv_banditchallenges/</guid>
       <description></description>
     </item>
     

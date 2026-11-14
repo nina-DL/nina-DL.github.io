@@ -5,12 +5,20 @@
     <link>https://nina-dl.github.io/authors/simona-toti/</link>
       <atom:link href="https://nina-dl.github.io/authors/simona-toti/index.xml" rel="self" type="application/rss+xml" />
     <description>Simona Toti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Simona Toti</title>
       <link>https://nina-dl.github.io/authors/simona-toti/</link>
     </image>
+    
+    <item>
+      <title>Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register</title>
+      <link>https://nina-dl.github.io/publication/2025istat_linearisation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_linearisation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing the predictive accuracy of official-statistics registers. The Global Mean Squared Error measure (Invited Talk @ ITACOSM2023)</title>

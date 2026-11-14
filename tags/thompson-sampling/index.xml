@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>On the finite-sample and asymptotic error control of a randomization-probability test for response-adaptive clinical trials</title>
+      <title>Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation</title>
       <link>https://nina-dl.github.io/publication/2025rptestbiometrics/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025rptestbiometrics/</guid>
@@ -21,10 +21,18 @@
     </item>
     
     <item>
-      <title>Thompson Sampling for Zero-Inflated Count Outcomes With an Application to the Drink Less Mobile Health Study</title>
+      <title>Thompson sampling for zero-inflated count outcomes with an application to the Drink Less mobile health study</title>
       <link>https://nina-dl.github.io/publication/2025aoas/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025aoas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample inference in response-adaptive designs: an application to Thompson sampling</title>
+      <link>https://nina-dl.github.io/publication/2025sis_finitesample/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_finitesample/</guid>
       <description></description>
     </item>
     
@@ -109,10 +117,26 @@
     </item>
     
     <item>
+      <title>Multinomial Thompson Sampling for adaptive experiments with rating scales</title>
+      <link>https://nina-dl.github.io/publication/2022sis_multinomialts/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2022sis_multinomialts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial</title>
       <link>https://nina-dl.github.io/publication/2022diamante_abm/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2022diamante_abm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for Adaptive Experiments that Trade-off Statistical Analysis with Reward: Combining Uniform Random Assignment and Reward Maximization</title>
+      <link>https://nina-dl.github.io/publication/2021arxiv_adaptivetradeoff/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021arxiv_adaptivetradeoff/</guid>
       <description></description>
     </item>
     

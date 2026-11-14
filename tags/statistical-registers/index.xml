@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical registers | Nina :D</title>
+    <link>https://nina-dl.github.io/tags/statistical-registers/</link>
+      <atom:link href="https://nina-dl.github.io/tags/statistical-registers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical registers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nina-dl.github.io/img/avatar.jpg</url>
+      <title>Statistical registers</title>
+      <link>https://nina-dl.github.io/tags/statistical-registers/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</title>
+      <link>https://nina-dl.github.io/publication/2026jrssa_registers/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jrssa_registers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register</title>
+      <link>https://nina-dl.github.io/publication/2025istat_linearisation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_linearisation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/tags/copula-models/</link>
       <atom:link href="https://nina-dl.github.io/tags/copula-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Copula models</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Mon, 01 Feb 2027 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Copula models</title>
@@ -13,9 +13,41 @@
     </image>
     
     <item>
-      <title>A copula-based Bayesian framework for doping detection</title>
+      <title>Bayesian Computation of Copula-based Multivariate Models with an Application to Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2026masillo_copulacomputation/</link>
+      <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026masillo_copulacomputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Approaches for Bayesian Inference in Copula-Based Hierarchical Models: An Application to Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2026sds_copuladoping/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_copuladoping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
+      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Vine Copulas for Estimating Highest-Density Regions in Multivariate Data</title>
+      <link>https://nina-dl.github.io/publication/2025sis_vinehdr/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_vinehdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Copula-based Bayesian Framework for Doping Detection</title>
       <link>https://nina-dl.github.io/publication/2024compstat/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024compstat/</guid>
       <description></description>
     </item>
@@ -29,18 +61,18 @@
     </item>
     
     <item>
-      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
-      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Multivariate Copula-based Conformal Bayesian Framework for Doping Detection  (Talk @ AUEB-SAW2024)</title>
       <link>https://nina-dl.github.io/talk/2024_saw/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/talk/2024_saw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</guid>
       <description></description>
     </item>
     

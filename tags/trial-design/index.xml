@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/tags/trial-design/</link>
       <atom:link href="https://nina-dl.github.io/tags/trial-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Trial design</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Trial design</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Incorporating Participants&#39; Welfare into Sequential Multiple Assignment Randomized Trials</title>
+      <title>Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions</title>
+      <link>https://nina-dl.github.io/publication/2025smmr_rar/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025smmr_rar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating participants’ welfare into sequential multiple assignment randomized trials</title>
       <link>https://nina-dl.github.io/publication/2024smartexam_biometrics/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024smartexam_biometrics/</guid>

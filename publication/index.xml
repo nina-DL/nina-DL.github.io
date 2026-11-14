@@ -5,12 +5,124 @@
     <link>https://nina-dl.github.io/publication/</link>
       <atom:link href="https://nina-dl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Thu, 01 Apr 2027 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Publications</title>
       <link>https://nina-dl.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Conformal Prediction Intervals with Tail-Specific Guarantees</title>
+      <link>https://nina-dl.github.io/publication/2026arxiv_tailconformal/</link>
+      <pubDate>Thu, 01 Apr 2027 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026arxiv_tailconformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal bandits: bringing statistical validity and reward efficiency to the small-gap regime</title>
+      <link>https://nina-dl.github.io/publication/2025arxiv_conformalbandits/</link>
+      <pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025arxiv_conformalbandits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Computation of Copula-based Multivariate Models with an Application to Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2026masillo_copulacomputation/</link>
+      <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026masillo_copulacomputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Latent-State-Aware Framework for Non-Stationary UCB Bandits</title>
+      <link>https://nina-dl.github.io/publication/2026sds_ucb/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_ucb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Conformal Prediction for Small-Area Estimation with Proportion Data</title>
+      <link>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_bayesconformalsae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Approaches for Bayesian Inference in Copula-Based Hierarchical Models: An Application to Doping Detection</title>
+      <link>https://nina-dl.github.io/publication/2026sds_copuladoping/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_copuladoping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling long-term graduation students: a hidden Markov model approach</title>
+      <link>https://nina-dl.github.io/publication/2026sds_hmm/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026sds_hmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions</title>
+      <link>https://nina-dl.github.io/publication/2025smmr_rar/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025smmr_rar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension</title>
+      <link>https://nina-dl.github.io/publication/2026stm_sotatercept/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026stm_sotatercept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Personalized Exercise Assistant using Reinforcement Learning (PEARL): Results from a Large-Scale Mobile Health Randomized-Controlled Trial</title>
+      <link>https://nina-dl.github.io/publication/2026jmir_pearl/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jmir_pearl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics</title>
+      <link>https://nina-dl.github.io/publication/2026jrssa_registers/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jrssa_registers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
+      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interplay between Bayesian inference and conformal prediction</title>
+      <link>https://nina-dl.github.io/publication/2026philtrans_conformalbayes/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026philtrans_conformalbayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
+      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic testing of volatility models’ calibration using E-values</title>
@@ -21,7 +133,23 @@
     </item>
     
     <item>
-      <title>On the finite-sample and asymptotic error control of a randomization-probability test for response-adaptive clinical trials</title>
+      <title>In Brief to The Impact of Disasters on Agriculture and Food Security 2025 – Digital solutions for reducing risks and impacts</title>
+      <link>https://nina-dl.github.io/publication/2025fao_report/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025fao_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StratosPHere 2: statistical analysis plan for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025trials_stratosphere_sap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation</title>
       <link>https://nina-dl.github.io/publication/2025rptestbiometrics/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025rptestbiometrics/</guid>
@@ -29,7 +157,7 @@
     </item>
     
     <item>
-      <title>Thompson Sampling for Zero-Inflated Count Outcomes With an Application to the Drink Less Mobile Health Study</title>
+      <title>Thompson sampling for zero-inflated count outcomes with an application to the Drink Less mobile health study</title>
       <link>https://nina-dl.github.io/publication/2025aoas/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025aoas/</guid>
@@ -37,7 +165,15 @@
     </item>
     
     <item>
-      <title>Artificial Intelligence-based Decision Support Systems for Precision and Digital Health</title>
+      <title>Using Vine Copulas for Estimating Highest-Density Regions in Multivariate Data</title>
+      <link>https://nina-dl.github.io/publication/2025sis_vinehdr/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_vinehdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence-Based Decision Support Systems for Precision and Digital Health</title>
       <link>https://nina-dl.github.io/publication/2024ai_bookch/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024ai_bookch/</guid>
@@ -45,31 +181,71 @@
     </item>
     
     <item>
-      <title>Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions</title>
-      <link>https://nina-dl.github.io/publication/2024rlreview_isr/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024rlreview_isr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A copula-based Bayesian framework for doping detection</title>
+      <title>A Copula-based Bayesian Framework for Doping Detection</title>
       <link>https://nina-dl.github.io/publication/2024compstat/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024compstat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alternative Approaches for Estimating Highest-Density Regions</title>
-      <link>https://nina-dl.github.io/publication/2024irs_hdr/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2024irs_hdr/</guid>
+      <title>Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge</title>
+      <link>https://nina-dl.github.io/publication/2025lak25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025lak25/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Incorporating Participants&#39; Welfare into Sequential Multiple Assignment Randomized Trials</title>
+      <title>Conformal methods in official statistics: perspectives and challenges</title>
+      <link>https://nina-dl.github.io/publication/2025istat_conformal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-sample inference in response-adaptive designs: an application to Thompson sampling</title>
+      <link>https://nina-dl.github.io/publication/2025sis_finitesample/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025sis_finitesample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearisation approach for measuring the accuracy of multinomial outcomes from a statistical register</title>
+      <link>https://nina-dl.github.io/publication/2025istat_linearisation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2025istat_linearisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StratosPHere 2: study protocol for a response-adaptive randomised placebo-controlled phase II trial to evaluate hydroxychloroquine and phenylbutyrate in pulmonary arterial hypertension caused by mutations in BMPR2</title>
+      <link>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024trials_stratosphere_protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning for sequential decision making in population research</title>
+      <link>https://nina-dl.github.io/publication/2023rldemography_ququ/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2023rldemography_ququ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platform-based Adaptive Experimental Research in Education: Lessons Learned from Digital Learning Challenge</title>
+      <link>https://nina-dl.github.io/publication/2024lak24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2024lak24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating participants’ welfare into sequential multiple assignment randomized trials</title>
       <link>https://nina-dl.github.io/publication/2024smartexam_biometrics/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2024smartexam_biometrics/</guid>
@@ -93,7 +269,7 @@
     </item>
     
     <item>
-      <title>Informing Users about Data Imputation. Exploring the Design Space for Dealing With Non-Responses</title>
+      <title>Informing Users about Data Imputation: Exploring the Design Space for Dealing With Non-Responses</title>
       <link>https://nina-dl.github.io/publication/2023missing_hcomp/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2023missing_hcomp/</guid>
@@ -101,15 +277,15 @@
     </item>
     
     <item>
-      <title>Reinforcement learning for sequential decision making in population research</title>
-      <link>https://nina-dl.github.io/publication/2023rldemography_ququ/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nina-dl.github.io/publication/2023rldemography_ququ/</guid>
+      <title>Computing Highest Density Regions with Copulae</title>
+      <link>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2023sis_hdrcopulae/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multiculturality and Interculturality: Qualitative Analysis of the Perspective of Focus Group Participants</title>
+      <title>Multiculturality and Interculturality: A Qualitative Analysis of the Perspective of Focus Group Participants</title>
       <link>https://nina-dl.github.io/publication/2023multiculturality_urbaniana/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2023multiculturality_urbaniana/</guid>
@@ -151,6 +327,14 @@
     </item>
     
     <item>
+      <title>Multinomial Thompson Sampling for adaptive experiments with rating scales</title>
+      <link>https://nina-dl.github.io/publication/2022sis_multinomialts/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2022sis_multinomialts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial</title>
       <link>https://nina-dl.github.io/publication/2022diamante_abm/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
@@ -159,10 +343,74 @@
     </item>
     
     <item>
+      <title>Algorithms for Adaptive Experiments that Trade-off Statistical Analysis with Reward: Combining Uniform Random Assignment and Reward Maximization</title>
+      <link>https://nina-dl.github.io/publication/2021arxiv_adaptivetradeoff/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021arxiv_adaptivetradeoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptive learning algorithms to optimize mobile applications for behavioral health: guidelines for design decisions</title>
       <link>https://nina-dl.github.io/publication/2021diamante_jamia/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2021diamante_jamia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Statistical Analysis of Data Collected by a Bandit Algorithm: An Empirical Exploration in Applications to Adaptively Randomized Experiments</title>
+      <link>https://nina-dl.github.io/publication/2021arxiv_banditchallenges/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021arxiv_banditchallenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning in Modern Biostatistics: Benefits, Challenges and New Proposals</title>
+      <link>https://nina-dl.github.io/publication/2021phdthesis/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2021phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling strategies to improve parameter estimates in prognostic factors analyses with patient-reported outcomes in oncology</title>
+      <link>https://nina-dl.github.io/publication/2019qlr_pros/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2019qlr_pros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinician-reported symptomatic adverse events in cancer trials: are they concordant with patient-reported outcomes?</title>
+      <link>https://nina-dl.github.io/publication/2019jcer_aes/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2019jcer_aes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution- and anchor-based methods to determine the minimally important difference on patient-reported outcome questionnaires in oncology: a structured review</title>
+      <link>https://nina-dl.github.io/publication/2018hqlo_mid/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018hqlo_mid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating methodological quality of Prognostic models Including Patient-reported HeAlth outcomes iN oncologY (EPIPHANY): a systematic review protocol</title>
+      <link>https://nina-dl.github.io/publication/2018bmjopen_epiphany/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018bmjopen_epiphany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning to the Test: an Application to Traffic Data Streams</title>
+      <link>https://nina-dl.github.io/publication/2018sis_deeplearning/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2018sis_deeplearning/</guid>
       <description></description>
     </item>
     

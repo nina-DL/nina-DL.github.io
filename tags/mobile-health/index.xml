@@ -5,7 +5,7 @@
     <link>https://nina-dl.github.io/tags/mobile-health/</link>
       <atom:link href="https://nina-dl.github.io/tags/mobile-health/index.xml" rel="self" type="application/rss+xml" />
     <description>Mobile health</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nina Deliu, 2024</copyright><lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nina-dl.github.io/img/avatar.jpg</url>
       <title>Mobile health</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Thompson Sampling for Zero-Inflated Count Outcomes With an Application to the Drink Less Mobile Health Study</title>
+      <title>A Personalized Exercise Assistant using Reinforcement Learning (PEARL): Results from a Large-Scale Mobile Health Randomized-Controlled Trial</title>
+      <link>https://nina-dl.github.io/publication/2026jmir_pearl/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/publication/2026jmir_pearl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thompson sampling for zero-inflated count outcomes with an application to the Drink Less mobile health study</title>
       <link>https://nina-dl.github.io/publication/2025aoas/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/publication/2025aoas/</guid>
