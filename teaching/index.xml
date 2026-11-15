@@ -85,8 +85,10 @@ I am currently on maternity leave: exams of Statistical Inference are led by &lt
 &lt;a href=&#34;#books-and-study-resources&#34;&gt;Books and study resources&lt;/a&gt; · 
 &lt;a href=&#34;#assessment&#34;&gt;Assessment&lt;/a&gt; · 
 &lt;a href=&#34;#office-hours&#34;&gt;Office hours&lt;/a&gt;&lt;/p&gt;
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Statistics is the science of learning from data in the presence of uncertainty. The course gives the foundations of classical statistical inference (how to estimate unknown quantities, how precise those estimates are, and how to test hypotheses about them) and then moves to prediction, in the spirit of &lt;em&gt;An Introduction to Statistical Learning&lt;/em&gt;: multiple regression, flexible non-linear models, resampling methods, uncertainty quantification for predictions (including conformal prediction), and classification. Every topic is developed on the board, illustrated with real data, and implemented in R during the weekly lab.&lt;/p&gt;
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Mathematics:&lt;/strong&gt; logarithms and powers and their properties; derivatives and integrals; basic linear algebra (vectors, matrices, matrix products).&lt;/li&gt;
@@ -95,6 +97,7 @@ I am currently on maternity leave: exams of Statistical Inference are led by &lt
 &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; and 
 &lt;a href=&#34;https://posit.co/download/rstudio-desktop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt; on your laptop and bring it to the lab sessions.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning outcomes&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Knowledge and understanding.&lt;/strong&gt; Students will acquire a solid understanding of the principles of statistical inference (point and interval estimation, hypothesis testing and statistical modelling) and of the basic tools of multivariate analysis and statistical learning.&lt;/li&gt;
@@ -103,6 +106,7 @@ I am currently on maternity leave: exams of Statistical Inference are led by &lt
 &lt;li&gt;&lt;strong&gt;Communication skills.&lt;/strong&gt; Students will be able to present the results of a statistical analysis clearly and rigorously, using correct statistical and probabilistic language.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Learning skills.&lt;/strong&gt; Students will be able to study more advanced methods of statistical inference and statistical learning on their own.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;programme&#34;&gt;Programme&lt;/h2&gt;
 &lt;p&gt;The course has seven parts over twelve weeks. Weeks are indicative and will be updated as the course progresses.&lt;/p&gt;
 &lt;table&gt;
@@ -156,6 +160,7 @@ I am currently on maternity leave: exams of Statistical Inference are led by &lt
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;schedule-and-calendar&#34;&gt;Schedule and calendar&lt;/h2&gt;
 &lt;p&gt;Three sessions per week: two conceptual/theory lectures and one R lab. Select a session in the calendar to see its details, or download all sessions to your own calendar.&lt;/p&gt;
 
@@ -282,6 +287,7 @@ I am currently on maternity leave: exams of Statistical Inference are led by &lt
 &lt;/script&gt;
 
 
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;books-and-study-resources&#34;&gt;Books and study resources&lt;/h2&gt;
 &lt;p&gt;Slides, lab notebooks (R) and exercise sheets will be published weekly, before each lecture, on the course 
 &lt;a href=&#34;https://elearning.uniroma1.it/course/view.php?id=22266&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-learning page&lt;/a&gt;.&lt;/p&gt;
@@ -300,6 +306,7 @@ I am currently on maternity leave: exams of Statistical Inference are led by &lt
 &lt;li&gt;
 &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown: the definitive guide&lt;/a&gt; (free online), for writing reports and homework that combine text, code and results.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;assessment&#34;&gt;Assessment&lt;/h2&gt;
 &lt;p&gt;The assessment scheme of AY 2025/2026 is reported below; details for AY 2026/2027 will be confirmed before the start of the course.&lt;/p&gt;
 &lt;ul&gt;
@@ -311,10 +318,12 @@ I am currently on maternity leave: exams of Statistical Inference are led by &lt
 &lt;p&gt;Examples of exam questions are shared in class, and the last week includes a mock examination. Exam dates are published on 
 &lt;a href=&#34;https://www.uniroma1.it/it/pagina/infostud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Infostud&lt;/a&gt; and on my 
 &lt;a href=&#34;https://corsidilaurea.uniroma1.it/it/users/ninadeliuuniroma1it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sapienza lecturer page&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class=&#34;teach-sep&#34;&gt;
 &lt;h2 id=&#34;office-hours&#34;&gt;Office hours&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Wednesday and Thursday, 12:00–13:00&lt;/strong&gt;, in person (room 428, 4th floor, Faculty of Economics) or online via 
 &lt;a href=&#34;https://uniroma1.zoom.us/my/ninadeliu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;. Please confirm by email in advance (&lt;strong&gt;nina.deliu [at] uniroma1 [dot] it&lt;/strong&gt;). Group meetings are preferred for questions shared by several students. Changes are posted on my 
 &lt;a href=&#34;https://corsidilaurea.uniroma1.it/it/users/ninadeliuuniroma1it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sapienza lecturer page&lt;/a&gt;.&lt;/p&gt;
+&lt;style&gt;.teach-sep{border:0;height:3px;width:60px;background:#E13D3D;margin:2.5rem 0 1rem;border-radius:2px;opacity:.85}&lt;/style&gt;
 </description>
     </item>
     
