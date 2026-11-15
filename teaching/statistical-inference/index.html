@@ -553,38 +553,23 @@ I am currently on maternity leave: exams of Statistical Inference are led by <st
 </tbody>
 </table>
 <p><strong>Contents:</strong> 
-<a href="#start-here">Start here</a> · 
-<a href="#announcements">Announcements</a> · 
 <a href="#overview">Overview</a> · 
 <a href="#prerequisites">Prerequisites</a> · 
 <a href="#learning-outcomes">Learning outcomes</a> · 
 <a href="#programme">Programme</a> · 
+<a href="#schedule-and-calendar">Schedule and calendar</a> · 
 <a href="#books-and-study-resources">Books and study resources</a> · 
-<a href="#materials">Materials</a> · 
 <a href="#assessment">Assessment</a> · 
 <a href="#office-hours">Office hours</a></p>
-<h2 id="start-here">Start here</h2>
-<p>Welcome! This page is the reference point for the course: programme, weekly schedule, materials, exam information and announcements are kept here and updated during the semester. Before the first lecture, please:</p>
-<ol>
-<li>read the 
-<a href="#prerequisites">prerequisites</a> and refresh what feels rusty;</li>
-<li>install 
-<a href="https://cran.r-project.org/" target="_blank" rel="noopener">R</a> and 
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener">RStudio</a> on your laptop and bring it to the lab sessions;</li>
-<li>enrol on the course 
-<a href="https://elearning.uniroma1.it/course/view.php?id=22266" target="_blank" rel="noopener">e-learning page</a> (the enrolment key will be given in class).</li>
-</ol>
-<h2 id="announcements">Announcements</h2>
-<ul>
-<li><em>To be updated.</em> The first lecture and the full timetable will be announced here before the start of the semester.</li>
-</ul>
 <h2 id="overview">Overview</h2>
 <p>Statistics is the science of learning from data in the presence of uncertainty. The course gives the foundations of classical statistical inference (how to estimate unknown quantities, how precise those estimates are, and how to test hypotheses about them) and then moves to prediction, in the spirit of <em>An Introduction to Statistical Learning</em>: multiple regression, flexible non-linear models, resampling methods, uncertainty quantification for predictions (including conformal prediction), and classification. Every topic is developed on the board, illustrated with real data, and implemented in R during the weekly lab.</p>
 <h2 id="prerequisites">Prerequisites</h2>
 <ul>
 <li><strong>Mathematics:</strong> logarithms and powers and their properties; derivatives and integrals; basic linear algebra (vectors, matrices, matrix products).</li>
 <li><strong>Probability and statistics:</strong> mean, variance, covariance and correlation and their properties; random variables; PDF, CDF, quantiles and conditional densities; the main probability distributions; simple regression.</li>
-<li><strong>Software:</strong> basic experience with R (it will be revised in the first labs).</li>
+<li><strong>Software:</strong> basic experience with R (it will be revised in the first labs). Please install 
+<a href="https://cran.r-project.org/" target="_blank" rel="noopener">R</a> and 
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener">RStudio</a> on your laptop and bring it to the lab sessions.</li>
 </ul>
 <h2 id="learning-outcomes">Learning outcomes</h2>
 <ol>
@@ -643,11 +628,139 @@ I am currently on maternity leave: exams of Statistical Inference are led by <st
 <tr>
 <td>12</td>
 <td><strong>7. Classification</strong></td>
-<td>The classification problem; logistic regression; <em>k</em>-nearest neighbours; decision trees and random forests; confusion matrix and ROC curve. The last session is a mock examination.</td>
+<td>The classification problem; logistic regression; <em>k</em>-nearest neighbours; decision trees and random forests; confusion matrix and ROC curve.</td>
 </tr>
 </tbody>
 </table>
+<h2 id="schedule-and-calendar">Schedule and calendar</h2>
+<p>Three sessions per week: two conceptual/theory lectures and one R lab. Select a session in the calendar to see its details, or download all sessions to your own calendar.</p>
+
+
+
+<style>
+.cc-wrap{margin:1rem 0 1.5rem}
+.cc-bar{display:flex;align-items:center;justify-content:space-between;gap:.5rem;margin-bottom:.5rem;flex-wrap:wrap}
+.cc-bar h4{margin:0;font-size:1.15rem}
+.cc-btn{border:1px solid #E13D3D;background:transparent;color:#E13D3D;border-radius:4px;padding:.15rem .6rem;font-size:.9rem;cursor:pointer}
+.cc-btn:hover{background:#E13D3D;color:#fff}
+.cc-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));border-top:1px solid rgba(128,128,128,.3);border-left:1px solid rgba(128,128,128,.3)}
+.cc-dow{font-size:.75rem;font-weight:600;text-align:center;padding:.25rem 0;border-right:1px solid rgba(128,128,128,.3);border-bottom:1px solid rgba(128,128,128,.3)}
+.cc-day{min-height:4.6rem;padding:.2rem;border-right:1px solid rgba(128,128,128,.3);border-bottom:1px solid rgba(128,128,128,.3);font-size:.75rem}
+.cc-day.cc-out{opacity:.35}
+.cc-num{display:block;font-size:.75rem;opacity:.75}
+.cc-ev{display:block;width:100%;text-align:left;border:0;border-left:3px solid #E13D3D;background:rgba(225,61,61,.10);color:inherit;border-radius:3px;padding:.1rem .25rem;margin-top:.15rem;font-size:.7rem;line-height:1.2;cursor:pointer;overflow:hidden}
+.cc-ev.cc-lab{border-left-color:#2a7ab0;background:rgba(42,122,176,.12)}
+.cc-ev.cc-sel{outline:2px solid currentColor}
+.cc-detail{margin-top:.6rem;padding:.5rem .75rem;border-left:3px solid #E13D3D;font-size:.95rem;min-height:2.2rem}
+.cc-legend{font-size:.8rem;margin-top:.4rem}
+.cc-legend span{display:inline-block;width:.8rem;height:.8rem;border-radius:2px;vertical-align:middle;margin:0 .25rem 0 .75rem}
+.cc-list{font-size:.9rem}
+.cc-list summary{cursor:pointer;font-weight:600}
+@media (max-width:600px){.cc-day{min-height:3.4rem}.cc-ev .cc-t{display:none}.cc-ev{font-size:.62rem}}
+</style>
+
+<div class="cc-wrap" id="cc-root">
+  <p><em>🚧 Work in progress: this is a provisional calendar, based on the 2025/26 timetable. Days, times and rooms will be confirmed when the 2026/27 timetable is published.</em></p>
+  <div class="cc-bar">
+    <button class="cc-btn" id="cc-prev" aria-label="Previous month">‹ Prev</button>
+    <h4 id="cc-title"></h4>
+    <button class="cc-btn" id="cc-next" aria-label="Next month">Next ›</button>
+  </div>
+  <div class="cc-grid" id="cc-grid"></div>
+  <div class="cc-legend"><span style="background:rgba(225,61,61,.35)"></span>Lecture<span style="background:rgba(42,122,176,.4)"></span>R lab</div>
+  <div class="cc-detail" id="cc-detail">Select a session in the calendar to see its details.</div>
+  <p class="mt-2"><button class="cc-btn" id="cc-ics">⬇ Add all sessions to your calendar (.ics)</button></p>
+  <details class="cc-list">
+    <summary>View all planned sessions</summary>
+    <ol id="cc-list"></ol>
+  </details>
+  <noscript><p>JavaScript is disabled: see the weekly programme above for the planned topics.</p></noscript>
+</div>
+
+<script>
+(function(){
+  var TT = {"code":"SI2627","extra":[],"file":"statistical-inference-2026-27","first_day":"2027-02-24","name":"Statistical Inference","note":"🚧 Work in progress: this is a provisional calendar, based on the 2025/26 timetable. Days, times and rooms will be confirmed when the 2026/27 timetable is published.","skip":["2027-03-25","2027-03-26"],"slots":[{"day":"Wed","end":"20:00","room":"Computer lab (Laboratorio informatico), Faculty of Economics","start":"18:00","type":"R lab"},{"day":"Thu","end":"18:00","room":"Aula 9A, Faculty of Economics","start":"16:00","type":"Lecture"},{"day":"Fri","end":"12:00","room":"Aula XI, Faculty of Economics","start":"10:00","type":"Lecture"}],"week_topics":["Part 0 – Aspects of statistics","Part 1 – Point estimation","Part 1 – Point estimation","Part 2 – Interval estimation","Part 2 – Interval estimation","Part 3 – Hypothesis testing","Part 3 – Hypothesis testing","Part 4 – Linear regression","Part 4 – Linear regression","Part 5 – Beyond linear regression","Part 6 – Resampling, prediction and uncertainty quantification","Part 7 – Classification"],"weeks":12};
+  var DOW = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+  var MON = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  function parse(d){var p=String(d).slice(0,10).split("-");return new Date(+p[0],+p[1]-1,+p[2]);}
+  function key(d){return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2);}
+  var skip={}; (TT.skip||[]).forEach(function(s){skip[String(s).slice(0,10)]=true;});
+  var first=parse(TT.first_day);
+  
+  var monday=new Date(first); monday.setDate(first.getDate()-((first.getDay()+6)%7));
+  var sessions=[];
+  for(var w=0; w<(TT.weeks||12); w++){
+    (TT.slots||[]).forEach(function(s){
+      var off=(DOW.indexOf(s.day)+6)%7;
+      var d=new Date(monday); d.setDate(monday.getDate()+7*w+off);
+      if(d<first || skip[key(d)]) return;
+      sessions.push({date:d,week:w+1,start:s.start,end:s.end,room:s.room||"",type:s.type||"Lecture",
+        topic:(TT.week_topics||[])[w]||""});
+    });
+  }
+  (TT.extra||[]).forEach(function(e){sessions.push({date:parse(e.date),week:e.week||"",start:e.start,end:e.end,room:e.room||"",type:e.type||"Lecture",topic:e.topic||""});});
+  sessions.sort(function(a,b){return a.date-b.date || (a.start>b.start?1:-1);});
+  sessions.forEach(function(s,i){s.n=i+1;});
+  var byDay={}; sessions.forEach(function(s){(byDay[key(s.date)]=byDay[key(s.date)]||[]).push(s);});
+  function fmt(d){return DOW[d.getDay()]+" "+d.getDate()+" "+MON[d.getMonth()].slice(0,3)+" "+d.getFullYear();}
+  function isLab(s){return /lab/i.test(s.type);}
+  var detail=document.getElementById("cc-detail"), grid=document.getElementById("cc-grid"), title=document.getElementById("cc-title");
+  function show(s,btn){
+    detail.innerHTML="<strong>Session "+s.n+" · "+s.type+"</strong> — "+fmt(s.date)+", "+s.start+"–"+s.end+(s.room?" · "+s.room:"")+
+      "<br>Week "+s.week+(s.topic?": "+s.topic:"");
+    Array.prototype.forEach.call(grid.querySelectorAll(".cc-sel"),function(b){b.classList.remove("cc-sel");});
+    if(btn) btn.classList.add("cc-sel");
+  }
+  var cur=new Date(first.getFullYear(),first.getMonth(),1);
+  var minM=cur, last=sessions.length?sessions[sessions.length-1].date:first, maxM=new Date(last.getFullYear(),last.getMonth(),1);
+  function render(){
+    title.textContent=MON[cur.getMonth()]+" "+cur.getFullYear();
+    grid.innerHTML="";
+    ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"].forEach(function(n){var h=document.createElement("div");h.className="cc-dow";h.textContent=n;grid.appendChild(h);});
+    var start=new Date(cur); start.setDate(1-((cur.getDay()+6)%7));
+    for(var i=0;i<42;i++){
+      var d=new Date(start); d.setDate(start.getDate()+i);
+      if(i>=35 && d.getMonth()!==cur.getMonth()) break;
+      var c=document.createElement("div"); c.className="cc-day"+(d.getMonth()!==cur.getMonth()?" cc-out":"");
+      c.innerHTML='<span class="cc-num">'+d.getDate()+'</span>';
+      (byDay[key(d)]||[]).forEach(function(s){
+        var b=document.createElement("button"); b.className="cc-ev"+(isLab(s)?" cc-lab":"");
+        b.innerHTML='<span class="cc-t">'+s.start+' </span>'+(isLab(s)?"R lab":"Lecture");
+        b.title=s.type+", "+s.start+"–"+s.end+(s.room?", "+s.room:"");
+        b.addEventListener("click",function(){show(s,b);});
+        c.appendChild(b);
+      });
+      grid.appendChild(c);
+    }
+    document.getElementById("cc-prev").disabled=cur<=minM;
+    document.getElementById("cc-next").disabled=cur>=maxM;
+  }
+  document.getElementById("cc-prev").onclick=function(){if(cur>minM){cur=new Date(cur.getFullYear(),cur.getMonth()-1,1);render();}};
+  document.getElementById("cc-next").onclick=function(){if(cur<maxM){cur=new Date(cur.getFullYear(),cur.getMonth()+1,1);render();}};
+  
+  var ol=document.getElementById("cc-list");
+  sessions.forEach(function(s){var li=document.createElement("li");
+    li.innerHTML="<strong>"+fmt(s.date)+"</strong>, "+s.start+"–"+s.end+" · "+s.type+(s.room?" · "+s.room:"")+(s.topic?" — Week "+s.week+": "+s.topic:"");ol.appendChild(li);});
+  
+  document.getElementById("cc-ics").onclick=function(){
+    function dt(d,t){return key(d).replace(/-/g,"")+"T"+t.replace(":","")+"00";}
+    var L=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//nina-dl.github.io//course//EN","CALSCALE:GREGORIAN"];
+    sessions.forEach(function(s){L.push("BEGIN:VEVENT","UID:"+(TT.code||"course")+"-"+s.n+"@nina-dl.github.io","DTSTAMP:"+dt(new Date(),"00:00")+"Z",
+      "DTSTART;TZID=Europe/Rome:"+dt(s.date,s.start),"DTEND;TZID=Europe/Rome:"+dt(s.date,s.end),
+      "SUMMARY:"+(TT.name||"Course")+" – "+s.type,"LOCATION:"+s.room.replace(/,/g,"\\,"),
+      "DESCRIPTION:Week "+s.week+(s.topic?" – "+s.topic.replace(/,/g,"\\,"):""),"END:VEVENT");});
+    L.push("END:VCALENDAR");
+    var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([L.join("\r\n")],{type:"text/calendar"}));
+    a.download=(TT.file||"course")+".ics";document.body.appendChild(a);a.click();a.remove();
+  };
+  render();
+})();
+</script>
+
+
 <h2 id="books-and-study-resources">Books and study resources</h2>
+<p>Slides, lab notebooks (R) and exercise sheets will be published weekly, before each lecture, on the course 
+<a href="https://elearning.uniroma1.it/course/view.php?id=22266" target="_blank" rel="noopener">e-learning page</a>.</p>
 <ul>
 <li>
 <a href="https://elearning.uniroma1.it/mod/url/view.php?id=795489" target="_blank" rel="noopener">Cicchitelli, D&rsquo;Urso, Minozzo, <em>Statistics: Principles and Methods</em>, Pearson, 2021</a>. <strong>Main textbook:</strong> Chapters 17–23.</li>
@@ -663,9 +776,6 @@ I am currently on maternity leave: exams of Statistical Inference are led by <st
 <li>
 <a href="https://bookdown.org/yihui/rmarkdown/" target="_blank" rel="noopener">R Markdown: the definitive guide</a> (free online), for writing reports and homework that combine text, code and results.</li>
 </ul>
-<h2 id="materials">Materials</h2>
-<p>Slides, lab notebooks (R) and exercise sheets will be published weekly, before each lecture, on the course 
-<a href="https://elearning.uniroma1.it/course/view.php?id=22266" target="_blank" rel="noopener">e-learning page</a>. Solutions to the exercise sheets will follow one week later.</p>
 <h2 id="assessment">Assessment</h2>
 <p>The assessment scheme of AY 2025/2026 is reported below; details for AY 2026/2027 will be confirmed before the start of the course.</p>
 <ul>
