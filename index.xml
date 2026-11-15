@@ -2983,5 +2983,201 @@ Hugo Static Site Generator v0.20.7 darwin/amd64 BuildDate: 2017-05-08T18:37:40-0
 </description>
     </item>
     
+    <item>
+      <title>Statistical Inference</title>
+      <link>https://nina-dl.github.io/teaching/statistical-inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nina-dl.github.io/teaching/statistical-inference/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;This page refers to the Academic Year 2026/2027.&lt;/strong&gt; If you attended the course in AY 2025/2026, please refer to the &lt;a href=&#34;https://elearning.uniroma1.it/course/view.php?id=20838&#34;&gt;AY 2025/2026 Moodle page&lt;/a&gt;.&lt;br&gt;
+I am currently on maternity leave: exams of Statistical Inference are led by &lt;strong&gt;Roberta Di Stefano&lt;/strong&gt; (&lt;a href=&#34;mailto:roberta.distefano@uniroma1.it&#34;&gt;roberta.distefano@uniroma1.it&lt;/a&gt;).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Institution&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Sapienza University of Rome, Faculty of Economics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Degree programme&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://corsidilaurea.uniroma1.it/en/course/34177/presentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bachelor&amp;rsquo;s Degree in Economia e Finanza&lt;/a&gt;, curriculum Economics and Finance (taught in English)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Year and semester&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2nd year, 2nd semester&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Course code&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;10616720&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Credits and hours&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;9 CFU · 72 contact hours&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Teaching period&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Second semester, from late February 2027 (timetable to be confirmed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Weekly structure&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Two conceptual/theory lectures and one R lab per week (2h each)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Rooms&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;To be announced&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Instructor&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://corsidilaurea.uniroma1.it/it/users/ninadeliuuniroma1it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nina Deliu&lt;/a&gt; · Office 428, 4th floor, Faculty of Economics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Weekly resources and materials&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://elearning.uniroma1.it/course/view.php?id=22266&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sapienza e-learning (Moodle) page&lt;/a&gt;; the enrolment key will be given in class&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Contents:&lt;/strong&gt; 
+&lt;a href=&#34;#start-here&#34;&gt;Start here&lt;/a&gt; · 
+&lt;a href=&#34;#announcements&#34;&gt;Announcements&lt;/a&gt; · 
+&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt; · 
+&lt;a href=&#34;#prerequisites&#34;&gt;Prerequisites&lt;/a&gt; · 
+&lt;a href=&#34;#learning-outcomes&#34;&gt;Learning outcomes&lt;/a&gt; · 
+&lt;a href=&#34;#programme&#34;&gt;Programme&lt;/a&gt; · 
+&lt;a href=&#34;#books-and-study-resources&#34;&gt;Books and study resources&lt;/a&gt; · 
+&lt;a href=&#34;#materials&#34;&gt;Materials&lt;/a&gt; · 
+&lt;a href=&#34;#assessment&#34;&gt;Assessment&lt;/a&gt; · 
+&lt;a href=&#34;#office-hours&#34;&gt;Office hours&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;start-here&#34;&gt;Start here&lt;/h2&gt;
+&lt;p&gt;Welcome! This page is the reference point for the course: programme, weekly schedule, materials, exam information and announcements are kept here and updated during the semester. Before the first lecture, please:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;read the 
+&lt;a href=&#34;#prerequisites&#34;&gt;prerequisites&lt;/a&gt; and refresh what feels rusty;&lt;/li&gt;
+&lt;li&gt;install 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; and 
+&lt;a href=&#34;https://posit.co/download/rstudio-desktop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt; on your laptop and bring it to the lab sessions;&lt;/li&gt;
+&lt;li&gt;enrol on the course 
+&lt;a href=&#34;https://elearning.uniroma1.it/course/view.php?id=22266&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-learning page&lt;/a&gt; (the enrolment key will be given in class).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;announcements&#34;&gt;Announcements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;To be updated.&lt;/em&gt; The first lecture and the full timetable will be announced here before the start of the semester.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Statistics is the science of learning from data in the presence of uncertainty. The course gives the foundations of classical statistical inference (how to estimate unknown quantities, how precise those estimates are, and how to test hypotheses about them) and then moves to prediction, in the spirit of &lt;em&gt;An Introduction to Statistical Learning&lt;/em&gt;: multiple regression, flexible non-linear models, resampling methods, uncertainty quantification for predictions (including conformal prediction), and classification. Every topic is developed on the board, illustrated with real data, and implemented in R during the weekly lab.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mathematics:&lt;/strong&gt; logarithms and powers and their properties; derivatives and integrals; basic linear algebra (vectors, matrices, matrix products).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Probability and statistics:&lt;/strong&gt; mean, variance, covariance and correlation and their properties; random variables; PDF, CDF, quantiles and conditional densities; the main probability distributions; simple regression.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software:&lt;/strong&gt; basic experience with R (it will be revised in the first labs).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning outcomes&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Knowledge and understanding.&lt;/strong&gt; Students will acquire a solid understanding of the principles of statistical inference (point and interval estimation, hypothesis testing and statistical modelling) and of the basic tools of multivariate analysis and statistical learning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Applying knowledge and understanding.&lt;/strong&gt; Students will be able to analyse real data in R, choosing appropriate methods for estimation, testing, regression, prediction and classification, and to translate practical problems into suitable statistical models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Making judgements.&lt;/strong&gt; Students will be able to assess critically the assumptions behind a model, recognise its limitations and potential biases, and judge the validity of the conclusions, including the trade-off between model complexity and predictive accuracy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication skills.&lt;/strong&gt; Students will be able to present the results of a statistical analysis clearly and rigorously, using correct statistical and probabilistic language.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning skills.&lt;/strong&gt; Students will be able to study more advanced methods of statistical inference and statistical learning on their own.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;programme&#34;&gt;Programme&lt;/h2&gt;
+&lt;p&gt;The course has seven parts over twelve weeks. Weeks are indicative and will be updated as the course progresses.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Week&lt;/th&gt;
+&lt;th&gt;Part&lt;/th&gt;
+&lt;th&gt;Topics&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0. Aspects of statistics&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Probability vs statistical inference; why we need to quantify uncertainty. Random samples, sampling variability, sample statistics and the sampling distribution of the sample mean. The statistical model and an overview of the main inferential problems. R refresher.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2–3&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1. Point estimation&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Properties of estimators: unbiasedness, mean squared error, efficiency, asymptotic properties (consistency). How to construct estimators: the likelihood function, maximum likelihood estimation (Bernoulli example in R), the relative likelihood; method of moments.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4–5&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2. Interval estimation&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Accuracy, curvature and Fisher information; the Cramér–Rao bound; properties of maximum likelihood estimators. Likelihood sets. Confidence intervals: interpretation, intervals from the sample mean and from the MLE.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6–7&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;3. Hypothesis testing&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The logic and the steps of a test; type I and type II errors; &lt;em&gt;p&lt;/em&gt;-values. Optimality: the power function, Neyman–Pearson lemma, uniformly most powerful tests, likelihood ratio tests; sample size determination. Comparing two means.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8–9&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;4. Linear regression&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Simple linear regression: OLS estimation and its properties, tests and confidence intervals for the coefficients, goodness of fit (&lt;em&gt;R&lt;/em&gt;²), confidence vs prediction intervals. Multiple linear regression: the model in matrix form, OLS estimation and the Gauss–Markov theorem, interpretation of the coefficients, &lt;em&gt;t&lt;/em&gt; and &lt;em&gt;F&lt;/em&gt; tests, qualitative predictors and interactions, model checking and residual diagnostics.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5. Beyond linear regression&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Moving beyond linearity: polynomial regression, step functions, regression splines and smoothing splines, local regression, generalised additive models.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;6. Resampling, prediction and uncertainty quantification&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Training vs test error and the bias–variance trade-off. Resampling methods: cross-validation and the bootstrap. Uncertainty in prediction: prediction intervals beyond the linear model, from bootstrap-based intervals to conformal prediction.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;7. Classification&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The classification problem; logistic regression; &lt;em&gt;k&lt;/em&gt;-nearest neighbours; decision trees and random forests; confusion matrix and ROC curve. The last session is a mock examination.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;books-and-study-resources&#34;&gt;Books and study resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://elearning.uniroma1.it/mod/url/view.php?id=795489&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cicchitelli, D&amp;rsquo;Urso, Minozzo, &lt;em&gt;Statistics: Principles and Methods&lt;/em&gt;, Pearson, 2021&lt;/a&gt;. &lt;strong&gt;Main textbook:&lt;/strong&gt; Chapters 17–23.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://elearning.uniroma1.it/mod/url/view.php?id=796230&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Web Appendix: Agresti, Kateri, &lt;em&gt;Foundations of Statistics for Data Scientists&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;James, Witten, Hastie, Tibshirani, &lt;em&gt;
+&lt;a href=&#34;https://www.statlearning.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Introduction to Statistical Learning with Applications in R&lt;/a&gt;&lt;/em&gt;, 2nd ed., Springer, 2021 (free PDF on the book website).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;R, RStudio and R Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;N. Matloff, &lt;em&gt;
+&lt;a href=&#34;https://nostarch.com/artofr.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Art of R Programming&lt;/a&gt;&lt;/em&gt;, No Starch Press, 2011.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown: the definitive guide&lt;/a&gt; (free online), for writing reports and homework that combine text, code and results.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+&lt;p&gt;Slides, lab notebooks (R) and exercise sheets will be published weekly, before each lecture, on the course 
+&lt;a href=&#34;https://elearning.uniroma1.it/course/view.php?id=22266&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-learning page&lt;/a&gt;. Solutions to the exercise sheets will follow one week later.&lt;/p&gt;
+&lt;h2 id=&#34;assessment&#34;&gt;Assessment&lt;/h2&gt;
+&lt;p&gt;The assessment scheme of AY 2025/2026 is reported below; details for AY 2026/2027 will be confirmed before the start of the course.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Final written exam (70%)&lt;/strong&gt; on the first part of the course: theoretical questions, short proofs seen in class, and exercises (computations and interpretation of R output).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Homework with R Markdown (30%)&lt;/strong&gt; on the second part of the course, in groups of 1–3 students. Collaboration is encouraged!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oral exam&lt;/strong&gt; if the written exam or the homework is not sufficient or not done.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; +1 point on the final grade for taking part in the Q&amp;amp;A section of the Moodle page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Examples of exam questions are shared in class, and the last week includes a mock examination. Exam dates are published on 
+&lt;a href=&#34;https://www.uniroma1.it/it/pagina/infostud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Infostud&lt;/a&gt; and on my 
+&lt;a href=&#34;https://corsidilaurea.uniroma1.it/it/users/ninadeliuuniroma1it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sapienza lecturer page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;office-hours&#34;&gt;Office hours&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday and Thursday, 12:00–13:00&lt;/strong&gt;, in person (room 428, 4th floor, Faculty of Economics) or online via 
+&lt;a href=&#34;https://uniroma1.zoom.us/my/ninadeliu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;. Please confirm by email in advance (&lt;strong&gt;nina.deliu [at] uniroma1 [dot] it&lt;/strong&gt;). Group meetings are preferred for questions shared by several students. Changes are posted on my 
+&lt;a href=&#34;https://corsidilaurea.uniroma1.it/it/users/ninadeliuuniroma1it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sapienza lecturer page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
