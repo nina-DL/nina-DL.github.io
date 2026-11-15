@@ -19,36 +19,43 @@
       <guid>https://nina-dl.github.io/project/rl-interventions/</guid>
       <description>&lt;p&gt;How do we learn, while people use an app, take a course or follow a treatment, which option works best for whom, and when? I develop reinforcement-learning and multi-armed bandit methods that are &lt;em&gt;statistically considerate&lt;/em&gt;: they optimise outcomes while still allowing valid scientific conclusions, often within a Bayesian framework (e.g. Thompson sampling).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; &lt;em&gt;biostatistics&lt;/em&gt; (just-in-time adaptive interventions in mobile health, dynamic treatment regimes, SMARTs); &lt;em&gt;education&lt;/em&gt; (adaptive experiments in online courses); &lt;em&gt;finance&lt;/em&gt; (sequential decision-making under uncertainty).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Bibhas Chakraborty and former co-supervised PhD students Xueqing Liu and Xinru Wang (Duke-NUS, Singapore); Joseph Jay Williams (University of Toronto); the Google team behind PEARL, including Amy Armento Lee (PhD student, University of Cambridge) and Hulya Emir-Farinas; Caroline A. Figueroa and Adrian Aguilera (DIAMANTE study); my PhD student Simone Cuonzo (Sapienza).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Software:&lt;/strong&gt; the R package 
-&lt;a href=&#34;https://cran.r-project.org/web/packages/countts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;countts&lt;/a&gt; for Thompson sampling with count outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; 
+&lt;a href=&#34;https://www.duke-nus.edu.sg/directory/detail/bibhas-chakraborty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibhas Chakraborty&lt;/a&gt; (Duke-NUS, Singapore); 
+&lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/staff/sofia-villar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia S. Villar&lt;/a&gt; (MRC Biostatistics Unit, University of Cambridge); 
+&lt;a href=&#34;https://statistics.utoronto.ca/people/directories/all-faculty/joseph-jay-williams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joseph Jay Williams&lt;/a&gt; (University of Toronto); the Google team behind PEARL, including Amy Armento Lee (PhD student I co-supervise, University of Cambridge); 
+&lt;a href=&#34;https://research.tudelft.nl/en/persons/ca-figueroa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caroline A. Figueroa&lt;/a&gt; (DIAMANTE study); my PhD student Simone Cuonzo (Sapienza).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
 &lt;a href=&#34;https://doi.org/10.1111/insr.12583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinforcement Learning in Modern Biostatistics: Constructing Optimal Adaptive Interventions&lt;/a&gt; (&lt;em&gt;International Statistical Review&lt;/em&gt;, 2025).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>📏 STATS: Uncertainty quantification, from Bayesian inference to conformal prediction</title>
+      <title>🎯 STATS: Uncertainty quantification, from Bayesian inference to conformal prediction</title>
       <link>https://nina-dl.github.io/project/conformal-uq/</link>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/project/conformal-uq/</guid>
-      <description>&lt;p&gt;How sure are we? I work on quantifying uncertainty in a principled way, from Bayesian inference to conformal prediction: their interplay and how to get honest coverage guarantees, highest-density regions for complex and multimodal data, and calibration testing with e-values. Recent work brings conformal ideas into sequential decision-making (conformal bandits) and into small-area estimation.&lt;/p&gt;
+      <description>&lt;p&gt;How sure are we in our estimates and/or predictions? I work on quantifying uncertainty in a principled way, from Bayesian inference to conformal prediction: their interplay and how to get honest coverage guarantees, highest-density regions for complex and multimodal data, and calibration testing with e-values. Recent work brings conformal ideas into sequential decision-making (conformal bandits) and into small-area estimation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; &lt;em&gt;finance&lt;/em&gt; (volatility models, tail risk, decisions under uncertainty); &lt;em&gt;official statistics&lt;/em&gt; (small-area estimation and accuracy of register-based statistics with ISTAT; disaster-induced production losses in agriculture with FAO).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Brunero Liseo (Sapienza University of Rome); my PhD students Simone Cuonzo and Emanuele Masillo (Sapienza); Davide Carmelo Di Leonforte; colleagues at ISTAT and at the FAO Statistics Division.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; 
+&lt;a href=&#34;https://research.uniroma1.it/user/4522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brunero Liseo&lt;/a&gt; (Sapienza University of Rome); my PhD students Simone Cuonzo and Emanuele Masillo (Sapienza); colleagues at ISTAT and at the FAO Statistics Division.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
 &lt;a href=&#34;https://doi.org/10.1098/rsta.2025.0073&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The interplay between Bayesian inference and conformal prediction&lt;/a&gt; (&lt;em&gt;Philosophical Transactions of the Royal Society A&lt;/em&gt;, 2026).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>💊 STATS: Inference in adaptive designs</title>
+      <title>🎲 STATS: Inference in adaptive designs</title>
       <link>https://nina-dl.github.io/project/adaptive-trials/</link>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/project/adaptive-trials/</guid>
       <description>&lt;p&gt;Adaptive designs, such as response-adaptive randomisation and bandit-driven experiments, assign more participants to the options that seem to work better. This is more ethical and often more efficient, but it changes how the data must be analysed: classical tests and estimators can become biased or lose error control. I develop tests with guaranteed error control for adaptively collected data, and study the trade-off between learning and helping participants.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; &lt;em&gt;biostatistics&lt;/em&gt; (response-adaptive clinical trials in rare diseases, such as StratosPHere 2 in pulmonary arterial hypertension); &lt;em&gt;education&lt;/em&gt; (adaptive experiments in online courses).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Sofia S. Villar and Rajenki Das (
-&lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRC Biostatistics Unit&lt;/a&gt;, University of Cambridge); Mark Toshner (Department of Medicine, University of Cambridge, and Royal Papworth Hospital); Joseph Jay Williams (University of Toronto), Anna Rafferty and Audrey Durand.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; 
+&lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/staff/sofia-villar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia S. Villar&lt;/a&gt; and 
+&lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/staff/rajenki-das&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rajenki Das&lt;/a&gt; (
+&lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRC Biostatistics Unit&lt;/a&gt;, University of Cambridge); 
+&lt;a href=&#34;https://www.hlri.cam.ac.uk/staff/dr-mark-toshner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark Toshner&lt;/a&gt; (Department of Medicine, University of Cambridge, and Royal Papworth Hospital); 
+&lt;a href=&#34;https://statistics.utoronto.ca/people/directories/all-faculty/joseph-jay-williams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joseph Jay Williams&lt;/a&gt; (University of Toronto).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
 &lt;a href=&#34;https://doi.org/10.1093/biomtc/ujaf069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finite-sample and asymptotic validity of a novel design-based test statistic for response-adaptive randomisation&lt;/a&gt; (&lt;em&gt;Biometrics&lt;/em&gt;, 2025).&lt;/p&gt;
 </description>
@@ -61,22 +68,27 @@
       <guid>https://nina-dl.github.io/project/digital-education/</guid>
       <description>&lt;p&gt;Education is where many of my methods meet real data. With the 
 &lt;a href=&#34;https://www.adexacc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adaptive Experimentation Accelerator&lt;/a&gt;, winner of the 2023 XPRIZE Digital Learning Challenge, we run bandit-driven adaptive experiments in real online courses; a Sapienza research grant (PI, 2025) now brings these methods into our own statistics courses. With ISTAT, I develop scalable methods to measure the accuracy of education statistics built from multisource registers. And with colleagues at Sapienza, we model students&amp;rsquo; careers, for example to understand late graduations.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Joseph Jay Williams (Intelligent Adaptive Interventions Lab, University of Toronto), Anna Rafferty, Audrey Durand, and colleagues at Carnegie Mellon University and North Carolina State University; Piero Demetrio Falorsi, Stefano Falorsi, Diego Chianella and Giorgio Alleva (
-&lt;a href=&#34;https://www.istat.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAT&lt;/a&gt;); Brunero Liseo, Andrea Tancredi and Edoardo Pandolfo (Sapienza).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; 
+&lt;a href=&#34;https://statistics.utoronto.ca/people/directories/all-faculty/joseph-jay-williams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joseph Jay Williams&lt;/a&gt; (Intelligent Adaptive Interventions Lab, University of Toronto); 
+&lt;a href=&#34;https://www.istat.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAT&lt;/a&gt;; 
+&lt;a href=&#34;https://research.uniroma1.it/user/4522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brunero Liseo&lt;/a&gt;, 
+&lt;a href=&#34;https://research.uniroma1.it/user/4541&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Tancredi&lt;/a&gt; and PhD student Edoardo Pandolfo (Sapienza).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
-&lt;a href=&#34;https://doi.org/10.1145/3706468.3706471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge&lt;/a&gt; (&lt;em&gt;LAK25&lt;/em&gt;, 2025) and 
-&lt;a href=&#34;https://doi.org/10.1093/jrsssa/qnag107&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scalable Generalised Accuracy Estimation for Multisource Register-based Official Statistics&lt;/a&gt; (&lt;em&gt;JRSS-A&lt;/em&gt;, 2026).&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1145/3706468.3706471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Platform-based Adaptive Experimental Research in Education: Lessons Learned from Winning a Digital Learning Challenge&lt;/a&gt; (&lt;em&gt;LAK25&lt;/em&gt;, 2025).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>🧪 APP: Advanced Bayesian statistics for doping detection</title>
+      <title>💊 APP: Advanced Bayesian statistics for doping detection</title>
       <link>https://nina-dl.github.io/project/doping-detection/</link>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://nina-dl.github.io/project/doping-detection/</guid>
       <description>&lt;p&gt;Athletes&amp;rsquo; biological passports are long, multivariate records of blood and urine markers. We build Bayesian copula-based models that look at these markers jointly over time, to flag suspicious profiles more reliably than one-marker-at-a-time tests.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; World Anti-Doping Agency, WADA Research Grant (Co-PI; PI: Brunero Liseo); Sapienza research grant (PI).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Brunero Liseo (Sapienza); my PhD students Emanuele Masillo and Eva Pigi Vyltanioti; Dimitris Karlis (Athens University of Economics and Business); NADO Italia and the World Anti-Doping Agency.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; 
+&lt;a href=&#34;https://research.uniroma1.it/user/4522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brunero Liseo&lt;/a&gt; (Sapienza); my PhD students Emanuele Masillo and Eva Pigi Vyltanioti; 
+&lt;a href=&#34;https://www.stat-athens.aueb.gr/~karlis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dimitris Karlis&lt;/a&gt; and 
+&lt;a href=&#34;https://www.aueb.gr/en/faculty_page/ntzoufras-ioannis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ioannis Ntzoufras&lt;/a&gt; (Athens University of Economics and Business); NADO Italia and the World Anti-Doping Agency.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Where to start:&lt;/strong&gt; 
 &lt;a href=&#34;https://doi.org/10.1007/s00180-024-01579-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Copula-based Bayesian Framework for Doping Detection&lt;/a&gt; (&lt;em&gt;Computational Statistics&lt;/em&gt;, 2025).&lt;/p&gt;
 </description>
